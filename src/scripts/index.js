@@ -80,6 +80,8 @@ function parseGeoJson(jsonArray) {
 
 // Add geoJson to map
 function d3Processing(formattedGeojson){
+
+  // Custom marker
   const fontAwesomeIcon = L.divIcon({
     html: '<i class="fas fa-hiking"></i>',
     iconSize: [25, 25],
@@ -99,8 +101,4 @@ function d3Processing(formattedGeojson){
       };
     }
   }).addTo(map);
-
-
-  // L.marker(formattedGeojson, {icon:  fontAwesomeIcon}).addTo(map);
-
 }
