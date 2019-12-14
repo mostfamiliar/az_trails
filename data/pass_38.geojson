@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-000",
+                "cmt": "South Kaibab Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0834758768904,
+                    36.053405012465085,
+                    2196.528899636526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-014",
+                "cmt": "Cedar Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08946926507471,
+                    36.06410687745937,
+                    1851.9348235615585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-047",
+                "cmt": "TJ Tonto",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08889248639929,
+                    36.09006489680373,
+                    1224.2013527411864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-048",
+                "cmt": "The Tipoff",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08996324374158,
+                    36.091461164915316,
+                    1199.4058766318014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-065",
+                "cmt": "TJ River",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0889867143024,
+                    36.099467575995845,
+                    811.3568715116862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-067",
+                "cmt": "Tunnel",
+                "type": "Tunnel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08885251235814,
+                    36.10034131411545,
+                    763.774124830458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-068",
+                "cmt": "Kaibab \"Black\" Suspension",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0894321495363,
+                    36.10102088916608,
+                    738.1826015745332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-070",
+                "cmt": "TJ Beach",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09234746503088,
+                    36.10017284887736,
+                    753.9479668946854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-071a",
+                "cmt": "TJ Bright Angel Trail/Campground",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09405496734816,
+                    36.099970118745695,
+                    750.201342605063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-071b",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0939635953081,
+                    36.09973597972155,
+                    750.349845334486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-073a",
+                "cmt": "TJ Bright Angel Campground",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09591665795357,
+                    36.102505671953246,
+                    761.9127047745319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-073b",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09608512398405,
+                    36.10247711893918,
+                    764.0467734067099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-074",
+                "cmt": "GCNP Ranger Station",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09553118502036,
+                    36.1040218651702,
+                    769.3191570143349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-075",
+                "cmt": "Phantom Ranch",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09503720902492,
+                    36.105104044338624,
+                    773.5476761501769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-080",
+                "cmt": "TJ Clear Creek",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09168787988864,
+                    36.110663417254315,
+                    807.525675378095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-084",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08820720347269,
+                    36.113527337834874,
+                    812.1093346020643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-087",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.08682521237094,
+                    36.115337632151096,
+                    827.0668303875486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-107",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07584352366732,
+                    36.13082792580504,
+                    943.9046685433573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-110",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07337078740977,
+                    36.13326354226872,
+                    947.5778116962683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-136",
+                "cmt": "TJ Ribbon Falls",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.05222689467494,
+                    36.15903310986345,
+                    1138.308828373942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-147",
+                "cmt": "Cottonwood Campground",
+                "type": "Campground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.04103390950503,
+                    36.17000623395661,
+                    1236.9991491717387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-161",
+                "cmt": "Manzanita Creek Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03207952115572,
+                    36.18497685341977,
+                    1377.616294043603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-162",
+                "cmt": "Rest House",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03197958424799,
+                    36.18615896957647,
+                    1387.2492318159975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-169",
+                "cmt": "TJ Roaring Springs",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03458081238537,
+                    36.1927434152525,
+                    1537.2893327607176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-190",
+                "cmt": "Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.04657544112985,
+                    36.207267408352685,
+                    1830.2337385859219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-201",
+                "cmt": "Tunnel",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.04940529707055,
+                    36.21129492168833,
+                    2079.383905617261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-218a",
+                "cmt": "North Kaibab Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.05667482804361,
+                    36.2169698989563,
+                    2510.446991147034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38-218b",
+                "cmt": "HWY 67",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.05687184710823,
+                    36.21724115697848,
+                    2507.8465406028554
+                ]
+            }
+        }
+    ]
+}

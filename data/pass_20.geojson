@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-000a",
+                "cmt": "HWY 87",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.16100012550905,
+                    33.676525562383254,
+                    679.9405221355654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-000b",
+                "cmt": "Vineyard Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1609462385201,
+                    33.67681436642629,
+                    681.9512729028874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-014",
+                "cmt": "Radio Tower",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.17538475519414,
+                    33.67409350228703,
+                    1009.0853370842088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-038",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.20830750242574,
+                    33.66971483494367,
+                    952.9224361615711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-041",
+                "cmt": "RJ FR 336 Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.21303118837703,
+                    33.66985060071365,
+                    949.0558090379523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-042",
+                "cmt": "RJ FR 336 Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.21323658832314,
+                    33.66859217352798,
+                    938.7256763933586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-061",
+                "cmt": "Mills Ridge Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.24087210106521,
+                    33.671755091510775,
+                    1128.6208944811215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-075",
+                "cmt": "Buckhorn Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25816923797353,
+                    33.66466124761467,
+                    1310.8090210006965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-086",
+                "cmt": "BND Four Peaks Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.26483967287194,
+                    33.65896717547319,
+                    1546.848330389556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-091",
+                "cmt": "Granite Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.27028837669305,
+                    33.65547462070162,
+                    1639.2040669434882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-118",
+                "cmt": "TJ Chillicut Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.28997916135243,
+                    33.665329365030956,
+                    1738.6660240833587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-151",
+                "cmt": "TJ Alder Sad",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.31107368807714,
+                    33.68560822772818,
+                    1774.73472005235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-167",
+                "cmt": "TJ Oak Flat #123",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.31565905825234,
+                    33.702323191800225,
+                    1641.0088419915344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-170",
+                "cmt": "Shake Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3201739130308,
+                    33.70075053534392,
+                    1640.617013882211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-172",
+                "cmt": "TJ Four Peaks #133",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.32309207357271,
+                    33.700246437119944,
+                    1666.293582623539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-179",
+                "cmt": "Bear Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.32931573803936,
+                    33.70328314621118,
+                    1652.041260676196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-184",
+                "cmt": "BND Four Peaks Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33280130708425,
+                    33.70793619067066,
+                    1681.1750282832245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-188",
+                "cmt": "Pigeon Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33490219987318,
+                    33.71284136423803,
+                    1676.4469426181927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20-190",
+                "cmt": "Pigeon Spring Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33633250402065,
+                    33.71103598691268,
+                    1704.4157890456127
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-000a",
+                "cmt": "RJ FR 648 Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33635473100621,
+                    33.71078703487707,
+                    1710.6299863603335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-000b",
+                "cmt": "Pigeon Spring Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33633250402065,
+                    33.71103598691268,
+                    1704.4157890456127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-009",
+                "cmt": "RJ FR 143 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33755279802686,
+                    33.72111564024205,
+                    1759.3225041863577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-019",
+                "cmt": "RJ FR 143 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.34781388476635,
+                    33.730355526976005,
+                    1733.1353005381436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-074",
+                "cmt": "RJ FR 463 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3870578758636,
+                    33.77380003189165,
+                    1649.370134825434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-076",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38846059531062,
+                    33.77601142612204,
+                    1634.9429727254014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-080",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38695061637085,
+                    33.78073414085357,
+                    1658.0494266889077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-089",
+                "cmt": "seasonal water flowing across FR422; trick tanks 400' downstream/west",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38790803638207,
+                    33.79149666428645,
+                    1677.214935082291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-108a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38532633344856,
+                    33.812164186272334,
+                    1571.5782592324974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-108b",
+                "cmt": "Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3852959254437,
+                    33.81217946627601,
+                    1571.7073644722827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-111",
+                "cmt": "RJ FR 422 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38343120826676,
+                    33.81470666272363,
+                    1587.6449963657406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-124",
+                "cmt": "Boulder Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3966423401879,
+                    33.8186047995564,
+                    1364.6184702371404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-128",
+                "cmt": "Boulder Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.39867886599339,
+                    33.823846361169615,
+                    1294.2151229190094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-132",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.40323091516869,
+                    33.827395204415375,
+                    1254.57237125549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-134",
+                "cmt": "Boulder Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.40645522392609,
+                    33.82892855545447,
+                    1218.687549579523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-136",
+                "cmt": "Corral",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.40841102643944,
+                    33.830562637574985,
+                    1228.9908652127021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-140",
+                "cmt": "TJ #73",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.41225441745046,
+                    33.83380180081571,
+                    1216.0009784441954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-152",
+                "cmt": "RJ FR 3529 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.42612507422466,
+                    33.83408964011487,
+                    1135.5439079894431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-160",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.43900092299083,
+                    33.83685520380772,
+                    1089.1302875253523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-166",
+                "cmt": "RJ FR 1450 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44573126180924,
+                    33.84316064131516,
+                    1072.2695363672635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-175",
+                "cmt": "Sycamore Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45276686689802,
+                    33.8521961791809,
+                    1011.0350250468739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-190",
+                "cmt": "TJ #73/#344",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.46727026162624,
+                    33.86329412792955,
+                    1045.9161990127138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21-193",
+                "cmt": "HWY 87 Underpass",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47280606466144,
+                    33.862486872522524,
+                    1048.2371089546923
+                ]
+            }
+        }
+    ]
+}

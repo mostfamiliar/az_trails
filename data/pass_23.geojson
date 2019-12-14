@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-000",
+                "cmt": "Mt Peeley Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47734014635536,
+                    34.001986746397094,
+                    1761.982382481155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-015",
+                "cmt": "BND Mazatzal Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48711924764272,
+                    34.006462806480904,
+                    1979.9161343143446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-024",
+                "cmt": "Draw",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49569398695799,
+                    34.00152992334299,
+                    1955.0896994020352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-025",
+                "cmt": "Sign",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.495307178019,
+                    34.00329769760559,
+                    1946.532958953109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-032",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4994521530633,
+                    34.00615726777254,
+                    1895.3316291359756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-035",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50001654349343,
+                    34.010241271300316,
+                    1898.1020442787526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-041",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4960836221567,
+                    34.015918760289054,
+                    1950.8326709394728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-054",
+                "cmt": "Washout",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4909438760583,
+                    34.02771220017906,
+                    2068.2107094578064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-059",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49636257834706,
+                    34.03046176626146,
+                    2121.3498446813874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-064",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49353549723278,
+                    34.03617155219471,
+                    2160.932862841586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-067",
+                "cmt": "ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49000094864576,
+                    34.03762522858473,
+                    2179.221351925142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-071",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49099921203226,
+                    34.040038759860415,
+                    2126.7932346985413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-077",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48427418257866,
+                    34.03849811501416,
+                    2063.240132265954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-083",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47795341544004,
+                    34.0399642745569,
+                    2020.569629754145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-084",
+                "cmt": "TJ Bear Spring",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47654111622083,
+                    34.04074232873977,
+                    2002.833799510331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-093",
+                "cmt": "Washout",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47105907684227,
+                    34.04980398327526,
+                    2001.9849128259152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-104",
+                "cmt": "TJ Shake Tree",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.46886943313265,
+                    34.05906384265937,
+                    1997.2481991540633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-123",
+                "cmt": "TJ Brody Seep",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48147647962362,
+                    34.07171210570304,
+                    1847.1642197066626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-138",
+                "cmt": "TJ Barnhardt Trail #43",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47866058218274,
+                    34.0859587418011,
+                    1838.6876686734204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-146",
+                "cmt": "Chilson Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49128592265178,
+                    34.08552218605547,
+                    1761.158169966908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-148",
+                "cmt": "TJ Brody Seep",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49329643814953,
+                    34.08678537511857,
+                    1740.5005213128861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-166",
+                "cmt": "TJ Sandy Sad #231",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49168153041016,
+                    34.106903135951,
+                    1807.2202369275874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-171",
+                "cmt": "Horse Camp Seep",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49103414274798,
+                    34.11282864479442,
+                    1863.7962410663727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-179a",
+                "cmt": "TJ #288",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48684693056607,
+                    34.12106558414569,
+                    1976.8018643949026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-179b",
+                "cmt": "Hopi Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4870898666124,
+                    34.12104192212926,
+                    1972.3023968164305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-190",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49825386629115,
+                    34.126948716326304,
+                    2072.6267803505257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-212",
+                "cmt": "TJ Willow Spring #223",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4998461071487,
+                    34.146498415903444,
+                    1791.1321588084988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-213",
+                "cmt": "creek/pools at crossing or downstream",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4995015631597,
+                    34.14750343605914,
+                    1789.0680138235632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-214",
+                "cmt": "TJ North Peak #24",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49989459543042,
+                    34.149945092370324,
+                    1806.6145071215967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-220",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50595197703899,
+                    34.155107897742816,
+                    1883.041791137278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-226",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51349235576993,
+                    34.15809849573822,
+                    1832.7639432624308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-236",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50889245866826,
+                    34.168344275384264,
+                    1915.0379822603943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-241",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5071793488359,
+                    34.17475477635049,
+                    1883.6458362241724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23-243",
+                "cmt": "TJ Red Hills",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50525334774723,
+                    34.1784581849599,
+                    1855.354761435976
+                ]
+            }
+        }
+    ]
+}

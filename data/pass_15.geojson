@@ -1,0 +1,788 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-000",
+                "cmt": "RJ Freeman Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.88273490050622,
+                    32.87116468209918,
+                    1223.8099828459535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-005a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89107250434826,
+                    32.87364681603989,
+                    1213.7045305477482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-005b",
+                "cmt": "RJ Pipeline Rd Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89083909227686,
+                    32.87329275600093,
+                    1213.6033836323809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-011",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89572254282388,
+                    32.88146071092468,
+                    1219.8965611764597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-016",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.8988322468086,
+                    32.8866537335114,
+                    1211.1446422435233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-019",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.90402229783601,
+                    32.88649259823056,
+                    1201.8361795249637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-020",
+                "cmt": "RJ Haydon Ranch Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.90620930326276,
+                    32.88633564709949,
+                    1202.5899107674759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-023a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.90942345494285,
+                    32.88686546201539,
+                    1197.8682759336734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-023b",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9103701051536,
+                    32.88717083301195,
+                    1196.7738822447982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-030",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.91788570399774,
+                    32.89204662233397,
+                    1194.6686422902608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-036",
+                "cmt": "RJ Pipeline Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.92322498056667,
+                    32.899215117090826,
+                    1183.1353103084814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-053",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.94809075688502,
+                    32.90415509855785,
+                    1134.4968367991175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-065",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.95990335001018,
+                    32.91506724852405,
+                    1105.1122340503905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-082",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.96547834932647,
+                    32.932219737687944,
+                    1098.2981970595351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-083",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.96561454445089,
+                    32.933605705878435,
+                    1096.230978585133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-102",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.96571436508765,
+                    32.95663050314928,
+                    1053.3395451243077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-106",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.96938718507816,
+                    32.960277202484384,
+                    1061.551701038406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-111",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97232067998347,
+                    32.96481145298249,
+                    1064.1910403548393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-118",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9784938356547,
+                    32.971027670557525,
+                    1042.9046767301952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-121",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98228884365518,
+                    32.97446591585631,
+                    1041.346980082578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-121",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98213579762594,
+                    32.9744848118667,
+                    1043.185010631558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-122",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98051444930975,
+                    32.9745957749636,
+                    1039.7910744181925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-132a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98644566115193,
+                    32.98391896899146,
+                    1014.6362171172304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-132b",
+                "cmt": "Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9867023241448,
+                    32.983090620860914,
+                    1011.1019297756355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-136",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99125209638954,
+                    32.987851178309306,
+                    1014.3710542671251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-138a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98865992189566,
+                    32.98819267148765,
+                    1019.8008529305267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-138b",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98864077089836,
+                    32.988285108501735,
+                    1019.774251691904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-141",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98832535311465,
+                    32.992244138079904,
+                    1010.5910519048848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-150",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99521370819214,
+                    33.00217810914525,
+                    1026.0654845930308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-156",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.00211978588362,
+                    33.00659204742547,
+                    1003.9425153864381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-157",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.00329002122443,
+                    33.00810653258169,
+                    1005.6226224784671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-158",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.00312071730303,
+                    33.00969709781593,
+                    1013.2692489501557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-168",
+                "cmt": "Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99254079045683,
+                    33.01348133688392,
+                    939.2750474649075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-172",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99036727431267,
+                    33.01758501057553,
+                    914.2917680739906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-174",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98755676584378,
+                    33.0188953889026,
+                    899.7322378079123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-176",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98630574664254,
+                    33.019584628063235,
+                    912.3401665992841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-182",
+                "cmt": "Ripsey (West) Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98332183452659,
+                    33.0263732941767,
+                    850.9574294809861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-183",
+                "cmt": "Ripsey (East) Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98211228735086,
+                    33.02730614936983,
+                    848.7768938861141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-186",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98327437681297,
+                    33.03055283577226,
+                    851.3906802924013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-188",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9799307722922,
+                    33.03263511523579,
+                    870.6594221402447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-205",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97415872202251,
+                    33.045110578296445,
+                    1075.9462925508367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-246",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98688748472397,
+                    33.07548777796394,
+                    749.8804093723714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-251",
+                "cmt": "dirt road ends at trail",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9875307771746,
+                    33.08001512157326,
+                    707.2289340858438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-258",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98949338609042,
+                    33.08737112751673,
+                    658.5432125866685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-260",
+                "cmt": "RJ Florence Kelvin Road Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99060159247705,
+                    33.08968973978937,
+                    645.8165404476774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-271",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98328074664533,
+                    33.0985531154148,
+                    573.5685983860674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-272",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9826907776266,
+                    33.09994512464184,
+                    575.4852438484064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-277",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97772526672425,
+                    33.101211113072004,
+                    597.3727701748728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15-281",
+                "cmt": "Gila River River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97458345321226,
+                    33.102840215461526,
+                    534.928836148321
+                ]
+            }
+        }
+    ]
+}

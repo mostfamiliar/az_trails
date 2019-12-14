@@ -1,0 +1,389 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="31.333623480798913" minlon="-110.441798344958190" maxlat="31.445636479988924" maxlon="-110.277867662327210" />
+  </metadata>
+  <wpt lat="31.333623480798913" lon="-110.28275746075759">
+    <ele>1801.124867499052</ele>
+    <name>01-000</name>
+    <cmt>BND Mexico &amp; Yaqui Ridge Trail</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>31.333623480798913</gpxx:lat>
+      <gpxx:lon>-110.28275746075759</gpxx:lon>
+      <gpxx:y_proj>31.333623480798916</gpxx:y_proj>
+      <gpxx:x_proj>-110.28275746075761</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.343021546424467" lon="-110.27786766232721">
+    <ele>1983.7924945353507</ele>
+    <name>01-011</name>
+    <cmt>TJ Joes Canyon</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.343021546424467</gpxx:lat>
+      <gpxx:lon>-110.27786766232721</gpxx:lon>
+      <gpxx:y_proj>31.343021546424467</gpxx:y_proj>
+      <gpxx:x_proj>-110.27786766232721</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.349345984052082" lon="-110.28523149819107">
+    <ele>2023.5735616966369</ele>
+    <name>01-018</name>
+    <cmt>TJ Coronado Peak</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.349345984052082</gpxx:lat>
+      <gpxx:lon>-110.28523149819107</gpxx:lon>
+      <gpxx:y_proj>31.349345984052082</gpxx:y_proj>
+      <gpxx:x_proj>-110.28523149819107</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.350417904209475" lon="-110.28531308227124">
+    <ele>2004.8327223079536</ele>
+    <name>01-019</name>
+    <cmt>Monezuma Pass Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.350417904209475</gpxx:lat>
+      <gpxx:lon>-110.28531308227124</gpxx:lon>
+      <gpxx:y_proj>31.350417904209475</gpxx:y_proj>
+      <gpxx:x_proj>-110.28531308227124</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.351349488355755" lon="-110.28516687529708">
+    <ele>1994.6985791908985</ele>
+    <name>01-020</name>
+    <cmt>RJ FR 61 Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.351349488355755</gpxx:lat>
+      <gpxx:lon>-110.28516687529708</gpxx:lon>
+      <gpxx:y_proj>31.351349488355755</gpxx:y_proj>
+      <gpxx:x_proj>-110.28516687529708</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.357556287168887" lon="-110.28787871421416">
+    <ele>2042.5548889775139</ele>
+    <name>01-025</name>
+    <cmt>Ridge Crest</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.357556287168887</gpxx:lat>
+      <gpxx:lon>-110.28787871421416</gpxx:lon>
+      <gpxx:y_proj>31.357556287168887</gpxx:y_proj>
+      <gpxx:x_proj>-110.28787871421417</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.36882179000726" lon="-110.28451797620549">
+    <ele>2378.2999964717983</ele>
+    <name>01-041</name>
+    <cmt>BND Miller Peak Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>31.36882179000726</gpxx:lat>
+      <gpxx:lon>-110.28451797620549</gpxx:lon>
+      <gpxx:y_proj>31.36882179000726</gpxx:y_proj>
+      <gpxx:x_proj>-110.28451797620549</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.369655394091588" lon="-110.28544796744309">
+    <ele>2383.3663832451598</ele>
+    <name>01-042</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.369655394091588</gpxx:lat>
+      <gpxx:lon>-110.28544796744309</gpxx:lon>
+      <gpxx:y_proj>31.369655394091588</gpxx:y_proj>
+      <gpxx:x_proj>-110.28544796744309</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.384431773896949" lon="-110.29483501322065">
+    <ele>2631.9607419214321</ele>
+    <name>01-058</name>
+    <cmt>TJ Lutz</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.384431773896949</gpxx:lat>
+      <gpxx:lon>-110.29483501322065</gpxx:lon>
+      <gpxx:y_proj>31.384431773896949</gpxx:y_proj>
+      <gpxx:x_proj>-110.29483501322066</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.391501988905311" lon="-110.29602192388239">
+    <ele>2772.6176222828335</ele>
+    <name>01-064</name>
+    <cmt>TJ Miller Peak</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.391501988905311</gpxx:lat>
+      <gpxx:lon>-110.29602192388239</gpxx:lon>
+      <gpxx:y_proj>31.391501988905315</gpxx:y_proj>
+      <gpxx:x_proj>-110.29602192388239</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.405703287266338" lon="-110.31349476326058">
+    <ele>2610.5763760436726</ele>
+    <name>01-081a</name>
+    <cmt>Bathtub Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.405703287266338</gpxx:lat>
+      <gpxx:lon>-110.31349476326058</gpxx:lon>
+      <gpxx:y_proj>31.405703287266338</gpxx:y_proj>
+      <gpxx:x_proj>-110.31349476326058</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.405756741287764" lon="-110.31319005820221">
+    <ele>2609.0187051944085</ele>
+    <name>01-081b</name>
+    <cmt>TJ Miller Peak</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.405756741287764</gpxx:lat>
+      <gpxx:lon>-110.31319005820221</gpxx:lon>
+      <gpxx:y_proj>31.405756741287764</gpxx:y_proj>
+      <gpxx:x_proj>-110.31319005820221</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.404893783081672" lon="-110.31493401650286">
+    <ele>2660.3153069621103</ele>
+    <name>01-083</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.404893783081672</gpxx:lat>
+      <gpxx:lon>-110.31493401650286</gpxx:lon>
+      <gpxx:y_proj>31.404893783081672</gpxx:y_proj>
+      <gpxx:x_proj>-110.31493401650286</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.408141363374543" lon="-110.31933907558675">
+    <ele>2502.8799620438167</ele>
+    <name>01-090</name>
+    <cmt>TJ Oversite</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.408141363374543</gpxx:lat>
+      <gpxx:lon>-110.31933907558675</gpxx:lon>
+      <gpxx:y_proj>31.408141363374543</gpxx:y_proj>
+      <gpxx:x_proj>-110.31933907558677</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.411204671602157" lon="-110.32459555883153">
+    <ele>2461.6982867175539</ele>
+    <name>01-095</name>
+    <cmt>TJ Bear Saddle</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.411204671602157</gpxx:lat>
+      <gpxx:lon>-110.32459555883153</gpxx:lon>
+      <gpxx:y_proj>31.411204671602157</gpxx:y_proj>
+      <gpxx:x_proj>-110.32459555883153</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.423842731536524" lon="-110.34635310898085">
+    <ele>2587.8288263732629</ele>
+    <name>01-114</name>
+    <cmt>TJ Sunnyside</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.423842731536524</gpxx:lat>
+      <gpxx:lon>-110.34635310898085</gpxx:lon>
+      <gpxx:y_proj>31.423842731536528</gpxx:y_proj>
+      <gpxx:x_proj>-110.34635310898085</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.423636145751487" lon="-110.36346598042205">
+    <ele>2192.5942520176195</ele>
+    <name>01-129</name>
+    <cmt>TJ Copper Glan</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.423636145751487</gpxx:lat>
+      <gpxx:lon>-110.36346598042205</gpxx:lon>
+      <gpxx:y_proj>31.423636145751487</gpxx:y_proj>
+      <gpxx:x_proj>-110.36346598042205</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.429074910366548" lon="-110.36797054465697">
+    <ele>2049.0995896840418</ele>
+    <name>01-135</name>
+    <cmt>Sunnyside Canyon</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.429074910366548</gpxx:lat>
+      <gpxx:lon>-110.36797054465697</gpxx:lon>
+      <gpxx:y_proj>31.429074910366548</gpxx:y_proj>
+      <gpxx:x_proj>-110.36797054465697</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.445636479988924" lon="-110.38732513555519">
+    <ele>1850.176053327838</ele>
+    <name>01-154</name>
+    <cmt>Water Trough</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.445636479988924</gpxx:lat>
+      <gpxx:lon>-110.38732513555519</gpxx:lon>
+      <gpxx:y_proj>31.445636479988924</gpxx:y_proj>
+      <gpxx:x_proj>-110.38732513555519</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.442380554204348" lon="-110.39407296872047">
+    <ele>1811.449522656442</ele>
+    <name>01-160</name>
+    <cmt>BND Miller Peak Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>31.442380554204348</gpxx:lat>
+      <gpxx:lon>-110.39407296872047</gpxx:lon>
+      <gpxx:y_proj>31.442380554204352</gpxx:y_proj>
+      <gpxx:x_proj>-110.39407296872047</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.44277553718948" lon="-110.39574649208161">
+    <ele>1802.7889905840307</ele>
+    <name>01-161</name>
+    <cmt>RJ FR 204 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.44277553718948</gpxx:lat>
+      <gpxx:lon>-110.39574649208161</gpxx:lon>
+      <gpxx:y_proj>31.44277553718948</gpxx:y_proj>
+      <gpxx:x_proj>-110.39574649208161</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.441804276982644" lon="-110.39714484030524">
+    <ele>1797.9407317643522</ele>
+    <name>01-162</name>
+    <cmt>RJ  2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.441804276982644</gpxx:lat>
+      <gpxx:lon>-110.39714484030524</gpxx:lon>
+      <gpxx:y_proj>31.441804276982644</gpxx:y_proj>
+      <gpxx:x_proj>-110.39714484030524</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.444680330215654" lon="-110.40160054337643">
+    <ele>1822.3001171920059</ele>
+    <name>01-166</name>
+    <cmt>RJ FR 228 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.444680330215654</gpxx:lat>
+      <gpxx:lon>-110.40160054337643</gpxx:lon>
+      <gpxx:y_proj>31.444680330215654</gpxx:y_proj>
+      <gpxx:x_proj>-110.40160054337643</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.445544911155348" lon="-110.40589055329329">
+    <ele>1793.6953483286188</ele>
+    <name>01-169</name>
+    <cmt>pools and intermitent flow</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.445544911155348</gpxx:lat>
+      <gpxx:lon>-110.40589055329329</gpxx:lon>
+      <gpxx:y_proj>31.445544911155348</gpxx:y_proj>
+      <gpxx:x_proj>-110.4058905532933</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.444434158695834" lon="-110.41253918056688">
+    <ele>1771.5647204795525</ele>
+    <name>01-174</name>
+    <cmt>Windmill</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.444434158695834</gpxx:lat>
+      <gpxx:lon>-110.41253918056688</gpxx:lon>
+      <gpxx:y_proj>31.444434158695834</gpxx:y_proj>
+      <gpxx:x_proj>-110.41253918056688</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.438646087738849" lon="-110.41463209764107">
+    <ele>1750.9287391967694</ele>
+    <name>01-179</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.438646087738849</gpxx:lat>
+      <gpxx:lon>-110.41463209764107</gpxx:lon>
+      <gpxx:y_proj>31.438646087738849</gpxx:y_proj>
+      <gpxx:x_proj>-110.41463209764107</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.435109242061632" lon="-110.41800466310852">
+    <ele>1739.2102986450718</ele>
+    <name>01-183</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.435109242061632</gpxx:lat>
+      <gpxx:lon>-110.41800466310852</gpxx:lon>
+      <gpxx:y_proj>31.435109242061632</gpxx:y_proj>
+      <gpxx:x_proj>-110.41800466310852</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.426437076639893" lon="-110.42086698016509">
+    <ele>1715.2845964708015</ele>
+    <name>01-189</name>
+    <cmt>RJ  2 Track continue FR 4757</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.426437076639893</gpxx:lat>
+      <gpxx:lon>-110.42086698016509</gpxx:lon>
+      <gpxx:y_proj>31.426437076639893</gpxx:y_proj>
+      <gpxx:x_proj>-110.42086698016509</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.425679651459426" lon="-110.42239339642727">
+    <ele>1713.6374027499621</ele>
+    <name>01-190</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.425679651459426</gpxx:lat>
+      <gpxx:lon>-110.42239339642727</gpxx:lon>
+      <gpxx:y_proj>31.425679651459426</gpxx:y_proj>
+      <gpxx:x_proj>-110.42239339642727</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.418725452124843" lon="-110.42910018036193">
+    <ele>1689.6938118084609</ele>
+    <name>01-197</name>
+    <cmt>RJ FR 48 / Montezuma Canyon Rd Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.418725452124843</gpxx:lat>
+      <gpxx:lon>-110.42910018036193</gpxx:lon>
+      <gpxx:y_proj>31.418725452124843</gpxx:y_proj>
+      <gpxx:x_proj>-110.42910018036193</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.419208174798079" lon="-110.43815120121441">
+    <ele>1726.4793829728956</ele>
+    <name>01-205</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.419208174798079</gpxx:lat>
+      <gpxx:lon>-110.43815120121441</gpxx:lon>
+      <gpxx:y_proj>31.419208174798079</gpxx:y_proj>
+      <gpxx:x_proj>-110.43815120121441</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.419359014659872" lon="-110.44179834495819">
+    <ele>1727.4035280137568</ele>
+    <name>01-208</name>
+    <cmt>Parker Canyon Lake Trailhead / FR194</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.419359014659872</gpxx:lat>
+      <gpxx:lon>-110.44179834495819</gpxx:lon>
+      <gpxx:y_proj>31.419359014659872</gpxx:y_proj>
+      <gpxx:x_proj>-110.44179834495819</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

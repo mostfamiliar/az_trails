@@ -1,0 +1,411 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="33.271998666063887" minlon="-111.184752035947370" maxlat="33.422183584263344" maxlon="-111.131330824885370" />
+  </metadata>
+  <wpt lat="33.271998666063887" lon="-111.17626684262542">
+    <ele>730.25845307923078</ele>
+    <name>18-000</name>
+    <cmt>PicketPost  Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.271998666063887</gpxx:lat>
+      <gpxx:lon>-111.17626684262542</gpxx:lon>
+      <gpxx:y_proj>33.271998666063887</gpxx:y_proj>
+      <gpxx:x_proj>-111.17626684262544</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.274925318171377" lon="-111.1821895510173">
+    <ele>719.61806231854177</ele>
+    <name>18-006a</name>
+    <cmt>HWY 60 Eastbound Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.274925318171377</gpxx:lat>
+      <gpxx:lon>-111.1821895510173</gpxx:lon>
+      <gpxx:y_proj>33.274925318171377</gpxx:y_proj>
+      <gpxx:x_proj>-111.1821895510173</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.275384505226057" lon="-111.18237997708859">
+    <ele>719.61700439453125</ele>
+    <name>18-006b</name>
+    <cmt>HWY 60 Westbound Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.275384505226057</gpxx:lat>
+      <gpxx:lon>-111.18237997708859</gpxx:lon>
+      <gpxx:y_proj>33.275384505226057</gpxx:y_proj>
+      <gpxx:x_proj>-111.18237997708859</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.275785462272992" lon="-111.18256234415398">
+    <ele>719.617453251352</ele>
+    <name>18-007</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.275785462272992</gpxx:lat>
+      <gpxx:lon>-111.18256234415398</gpxx:lon>
+      <gpxx:y_proj>33.275785462272992</gpxx:y_proj>
+      <gpxx:x_proj>-111.18256234415398</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.280706290851434" lon="-111.18475203594737">
+    <ele>706.21697998046875</ele>
+    <name>18-012</name>
+    <cmt>Queen Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.280706290851434</gpxx:lat>
+      <gpxx:lon>-111.18475203594737</gpxx:lon>
+      <gpxx:y_proj>33.280706290851434</gpxx:y_proj>
+      <gpxx:x_proj>-111.18475203594737</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.281116649970912" lon="-111.18354397573661">
+    <ele>707.79511364489247</ele>
+    <name>18-013</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.281116649970912</gpxx:lat>
+      <gpxx:lon>-111.18354397573661</gpxx:lon>
+      <gpxx:y_proj>33.281116649970912</gpxx:y_proj>
+      <gpxx:x_proj>-111.18354397573661</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.281648388359109" lon="-111.17742556355682">
+    <ele>720.1930618116437</ele>
+    <name>18-017</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.281648388359109</gpxx:lat>
+      <gpxx:lon>-111.17742556355682</gpxx:lon>
+      <gpxx:y_proj>33.281648388359109</gpxx:y_proj>
+      <gpxx:x_proj>-111.17742556355682</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.282612925515956" lon="-111.17700551254323">
+    <ele>725.61345135494139</ele>
+    <name>18-018a</name>
+    <cmt>RJ FR 357 Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.282612925515956</gpxx:lat>
+      <gpxx:lon>-111.17700551254323</gpxx:lon>
+      <gpxx:y_proj>33.282612925515956</gpxx:y_proj>
+      <gpxx:x_proj>-111.17700551254323</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.282844424576503" lon="-111.17645818945101">
+    <ele>728.40940296749557</ele>
+    <name>18-018b</name>
+    <cmt>LOST Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.282844424576503</gpxx:lat>
+      <gpxx:lon>-111.17645818945101</gpxx:lon>
+      <gpxx:y_proj>33.282844424576503</gpxx:y_proj>
+      <gpxx:x_proj>-111.17645818945103</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.283067575609124" lon="-111.17643244546213">
+    <ele>729.55466169568251</ele>
+    <name>18-018c</name>
+    <cmt>Railroad Jct Overpass</cmt>
+    <type>Railroad </type>
+    <extensions>
+      <gpxx:lat>33.283067575609124</gpxx:lat>
+      <gpxx:lon>-111.17643244546213</gpxx:lon>
+      <gpxx:y_proj>33.283067575609124</gpxx:y_proj>
+      <gpxx:x_proj>-111.17643244546214</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.286296665089061" lon="-111.17591092159287">
+    <ele>732.11700439453125</ele>
+    <name>18-021</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>33.286296665089061</gpxx:lat>
+      <gpxx:lon>-111.17591092159287</gpxx:lon>
+      <gpxx:y_proj>33.286296665089061</gpxx:y_proj>
+      <gpxx:x_proj>-111.17591092159287</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.288903555514466" lon="-111.17475035555118">
+    <ele>732.64271279344052</ele>
+    <name>18-023</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.288903555514466</gpxx:lat>
+      <gpxx:lon>-111.17475035555118</gpxx:lon>
+      <gpxx:y_proj>33.288903555514473</gpxx:y_proj>
+      <gpxx:x_proj>-111.17475035555118</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.289802988685615" lon="-111.17387349044196">
+    <ele>740.85407343285715</ele>
+    <name>18-024</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>33.289802988685615</gpxx:lat>
+      <gpxx:lon>-111.17387349044196</gpxx:lon>
+      <gpxx:y_proj>33.289802988685615</gpxx:y_proj>
+      <gpxx:x_proj>-111.17387349044196</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.311255976392793" lon="-111.16029543729813">
+    <ele>847.88107353158648</ele>
+    <name>18-043</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.311255976392793</gpxx:lat>
+      <gpxx:lon>-111.16029543729813</gpxx:lon>
+      <gpxx:y_proj>33.311255976392793</gpxx:y_proj>
+      <gpxx:x_proj>-111.16029543729813</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.313669882893002" lon="-111.15715084684737">
+    <ele>830.57130962470467</ele>
+    <name>18-046</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.313669882893002</gpxx:lat>
+      <gpxx:lon>-111.15715084684737</gpxx:lon>
+      <gpxx:y_proj>33.313669882893002</gpxx:y_proj>
+      <gpxx:x_proj>-111.15715084684737</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.318399787648985" lon="-111.15535370383395">
+    <ele>788.97342192080464</ele>
+    <name>18-051</name>
+    <cmt>RJ FR 1011 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.318399787648985</gpxx:lat>
+      <gpxx:lon>-111.15535370383395</gpxx:lon>
+      <gpxx:y_proj>33.318399787648985</gpxx:y_proj>
+      <gpxx:x_proj>-111.15535370383395</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.324625147842717" lon="-111.14912082704568">
+    <ele>810.18383611427203</ele>
+    <name>18-059</name>
+    <cmt>Whitford Canyon Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.324625147842717</gpxx:lat>
+      <gpxx:lon>-111.14912082704568</gpxx:lon>
+      <gpxx:y_proj>33.324625147842717</gpxx:y_proj>
+      <gpxx:x_proj>-111.14912082704568</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.331678423384915" lon="-111.13837351041796">
+    <ele>838.76821480358456</ele>
+    <name>18-069</name>
+    <cmt>RJ FR 650 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.331678423384915</gpxx:lat>
+      <gpxx:lon>-111.13837351041796</gpxx:lon>
+      <gpxx:y_proj>33.331678423384915</gpxx:y_proj>
+      <gpxx:x_proj>-111.13837351041798</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.337982225531192" lon="-111.13328498486365">
+    <ele>856.04250774873492</ele>
+    <name>18-078</name>
+    <cmt>FENCE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.337982225531192</gpxx:lat>
+      <gpxx:lon>-111.13328498486365</gpxx:lon>
+      <gpxx:y_proj>33.337982225531192</gpxx:y_proj>
+      <gpxx:x_proj>-111.13328498486365</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.340025296914085" lon="-111.13141536764006">
+    <ele>866.12081034296511</ele>
+    <name>18-081</name>
+    <cmt>below trail on FR650</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.340025296914085</gpxx:lat>
+      <gpxx:lon>-111.13141536764006</gpxx:lon>
+      <gpxx:y_proj>33.340025296914085</gpxx:y_proj>
+      <gpxx:x_proj>-111.13141536764007</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.342667673264913" lon="-111.13180365291045">
+    <ele>879.85303595727873</ele>
+    <name>18-083</name>
+    <cmt>below trail on FR650</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.342667673264913</gpxx:lat>
+      <gpxx:lon>-111.13180365291045</gpxx:lon>
+      <gpxx:y_proj>33.342667673264913</gpxx:y_proj>
+      <gpxx:x_proj>-111.13180365291045</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.343615151422199" lon="-111.13133082488537">
+    <ele>888.237398410894</ele>
+    <name>18-085</name>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.343615151422199</gpxx:lat>
+      <gpxx:lon>-111.13133082488537</gpxx:lon>
+      <gpxx:y_proj>33.343615151422199</gpxx:y_proj>
+      <gpxx:x_proj>-111.13133082488537</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.352442116630321" lon="-111.13191887364766">
+    <ele>885.35696395698528</ele>
+    <name>18-102a</name>
+    <cmt>RJ FR 650 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.352442116630321</gpxx:lat>
+      <gpxx:lon>-111.13191887364766</gpxx:lon>
+      <gpxx:y_proj>33.352442116630321</gpxx:y_proj>
+      <gpxx:x_proj>-111.13191887364766</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.352826642676888" lon="-111.13206210870435">
+    <ele>886.05670993510716</ele>
+    <name>18-102b</name>
+    <cmt>Reavis Canyon Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.352826642676888</gpxx:lat>
+      <gpxx:lon>-111.13206210870435</gpxx:lon>
+      <gpxx:y_proj>33.352826642676888</gpxx:y_proj>
+      <gpxx:x_proj>-111.13206210870435</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.355932740066592" lon="-111.13295531710959">
+    <ele>892.28357360308007</ele>
+    <name>18-104</name>
+    <cmt>Corral</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.355932740066592</gpxx:lat>
+      <gpxx:lon>-111.13295531710959</gpxx:lon>
+      <gpxx:y_proj>33.355932740066592</gpxx:y_proj>
+      <gpxx:x_proj>-111.13295531710959</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.358875153304353" lon="-111.13635082700178">
+    <ele>923.9986104046194</ele>
+    <name>18-108</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.358875153304353</gpxx:lat>
+      <gpxx:lon>-111.13635082700178</gpxx:lon>
+      <gpxx:y_proj>33.358875153304353</gpxx:y_proj>
+      <gpxx:x_proj>-111.13635082700178</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.371235154779718" lon="-111.14135082890334">
+    <ele>976.5757877488154</ele>
+    <name>18-118a</name>
+    <cmt>camp spot</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.371235154779718</gpxx:lat>
+      <gpxx:lon>-111.14135082890334</gpxx:lon>
+      <gpxx:y_proj>33.371235154779718</gpxx:y_proj>
+      <gpxx:x_proj>-111.14135082890334</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.371235154779718" lon="-111.14135082890334">
+    <ele>976.5757877488154</ele>
+    <name>18-118b</name>
+    <cmt>follow black plastic pipe ~0.1mN; trail ~160' N of spring box</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.371235154779718</gpxx:lat>
+      <gpxx:lon>-111.14135082890334</gpxx:lon>
+      <gpxx:y_proj>33.371235154779718</gpxx:y_proj>
+      <gpxx:x_proj>-111.14135082890334</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.372455468950285" lon="-111.14136052499465">
+    <ele>984.4980350842385</ele>
+    <name>18-119</name>
+    <cmt>follow black plastic pipe ~0.1mN; trail ~160' N of spring box</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.372455468950285</gpxx:lat>
+      <gpxx:lon>-111.14136052499465</gpxx:lon>
+      <gpxx:y_proj>33.372455468950285</gpxx:y_proj>
+      <gpxx:x_proj>-111.14136052499465</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.4041551586526" lon="-111.15567083417289">
+    <ele>1650.6467340390773</ele>
+    <name>18-160</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.4041551586526</gpxx:lat>
+      <gpxx:lon>-111.15567083417289</gpxx:lon>
+      <gpxx:y_proj>33.4041551586526</gpxx:y_proj>
+      <gpxx:x_proj>-111.15567083417291</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.405531351781562" lon="-111.15690367451974">
+    <ele>1636.6307610806064</ele>
+    <name>18-161</name>
+    <cmt>RJ FR 650 Road Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.405531351781562</gpxx:lat>
+      <gpxx:lon>-111.15690367451974</gpxx:lon>
+      <gpxx:y_proj>33.405531351781562</gpxx:y_proj>
+      <gpxx:x_proj>-111.15690367451975</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.412235159514381" lon="-111.16088083580526">
+    <ele>1605.0646818650775</ele>
+    <name>18-168</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.412235159514381</gpxx:lat>
+      <gpxx:lon>-111.16088083580526</gpxx:lon>
+      <gpxx:y_proj>33.412235159514381</gpxx:y_proj>
+      <gpxx:x_proj>-111.16088083580526</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.417348142798133" lon="-111.16922662284448">
+    <ele>1547.50535259608</ele>
+    <name>18-176</name>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.417348142798133</gpxx:lat>
+      <gpxx:lon>-111.16922662284448</gpxx:lon>
+      <gpxx:y_proj>33.417348142798133</gpxx:y_proj>
+      <gpxx:x_proj>-111.16922662284448</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.422183584263344" lon="-111.17330971901391">
+    <ele>1474.1273273024497</ele>
+    <name>18-184</name>
+    <cmt>Rogers Trough Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.422183584263344</gpxx:lat>
+      <gpxx:lon>-111.17330971901391</gpxx:lon>
+      <gpxx:y_proj>33.422183584263351</gpxx:y_proj>
+      <gpxx:x_proj>-111.17330971901391</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

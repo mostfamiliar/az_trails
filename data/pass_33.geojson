@@ -1,0 +1,981 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-000",
+                "cmt": "TJ Urban vs Equestrian AZT Route",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.59998494402048,
+                    35.15087531217268,
+                    2018.3360595703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-002",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.60358559087165,
+                    35.152455958172084,
+                    2018.2770231022869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-005",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.60654654472314,
+                    35.15550883940367,
+                    2046.2833284408307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-009",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6100253667149,
+                    35.158995133662266,
+                    2055.7509304789683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-016",
+                "cmt": "TJ Flagstaff Loop Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6194808891595,
+                    35.16556715698033,
+                    2100.6411969103297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-017",
+                "cmt": "TJ Fisher Point / JW Powell",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62113544559486,
+                    35.16680476504751,
+                    2085.021923811189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-019",
+                "cmt": "TJ Turn Left",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.61943986446396,
+                    35.16917901046057,
+                    2083.517334926367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-023",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6247692126903,
+                    35.17113246340789,
+                    2093.2817725813534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-024a",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62441149575658,
+                    35.1727171966384,
+                    2091.151315690318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-024b",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62399134271851,
+                    35.173239943732064,
+                    2090.404709232561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-025",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62374560071181,
+                    35.17372590381067,
+                    2090.3343489994027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-027",
+                "cmt": "RJ  Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62564435528128,
+                    35.17595145799416,
+                    2092.0212498248084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-028",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62568001343836,
+                    35.177683103221085,
+                    2106.6458298049565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-032a",
+                "cmt": "fence",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62846107030997,
+                    35.181375374546924,
+                    2097.3437353605514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-032b",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62892162943047,
+                    35.18171207256449,
+                    2097.3999764104037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-033",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63104544300451,
+                    35.18347441667346,
+                    2071.6413880701475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-034",
+                "cmt": "RJ  Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63075335001446,
+                    35.184257937794065,
+                    2071.644971571661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-036a",
+                "cmt": "I 40 Eastbound Underpass",
+                "type": "Interstat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6328309174312,
+                    35.1843114796798,
+                    2074.265437268501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-036b",
+                "cmt": "RJ  Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63315416451942,
+                    35.18458985869766,
+                    2071.761817212826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-038",
+                "cmt": "I 40 Westbound Underpass",
+                "type": "Interstat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63212574948874,
+                    35.18658804002193,
+                    2086.93316972118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-041",
+                "cmt": "RJ Butler Ave / Babbitt Dr Paved",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63061727159428,
+                    35.191255397727055,
+                    2092.272029551919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-043a",
+                "cmt": "TJ Flagstaff Urban Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6279377571096,
+                    35.19179569595508,
+                    2091.5863983125964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-043b",
+                "cmt": "RJ Butler Ave / Ponderosa Pkwy Underpass",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62809042215802,
+                    35.19200499097383,
+                    2091.7763422207704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-045a",
+                "cmt": "Railroad Jct",
+                "type": "Railroad "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62839814645355,
+                    35.194707523313056,
+                    2092.786245379175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-045b",
+                "cmt": "RJ Route 66 / Ponderosa Pkwy Paved",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62849155648996,
+                    35.19491381533488,
+                    2093.6287085336307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-047",
+                "cmt": "RJ Ponderosa Pkwy Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62823347761923,
+                    35.196993325624824,
+                    2094.4585322980197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-051",
+                "cmt": "RJ Ponderosa Pkwy Paved",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63079434560524,
+                    35.20250030120281,
+                    2131.7630742981105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-053",
+                "cmt": "TJ Flagstaff Urban Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62950814551597,
+                    35.20441023353042,
+                    2143.5840234714788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-056",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62584055184178,
+                    35.20502490182622,
+                    2151.4211253796943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-058",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62520649687116,
+                    35.20681217109948,
+                    2155.917910219182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-061",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62678952952913,
+                    35.21077134853001,
+                    2165.7352511267404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-063",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62733784587435,
+                    35.21349162385733,
+                    2161.2111812246826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-065a",
+                "cmt": "TJ Flagstaff Urban Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63076123767081,
+                    35.21484206483533,
+                    2164.7339344040633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-065b",
+                "cmt": "Matt Kelly Memorial Footbridge",
+                "type": "Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63130046881074,
+                    35.215221129853845,
+                    2163.898697480269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-066",
+                "cmt": "TJ Flagstaff Urban Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63175264893016,
+                    35.21556278087248,
+                    2164.7654823522616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-067",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63215501115138,
+                    35.2171893800638,
+                    2168.617788545393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-068a",
+                "cmt": "Buffalo Park",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63277680933653,
+                    35.217900631121324,
+                    2170.9895387959987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-068b",
+                "cmt": "Dale Shewalter's Memorial",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63174653516778,
+                    35.21831034823574,
+                    2172.348206727613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-069",
+                "cmt": "TJ Buffalo Park Loop",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63252798140434,
+                    35.21924807931384,
+                    2171.7291645792284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-070",
+                "cmt": "TJ Buffalo Park Loop",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63234663845495,
+                    35.220243651455974,
+                    2171.9844462050414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-071",
+                "cmt": "TJ Buffalo Park Loop",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63180000558361,
+                    35.22296991184804,
+                    2177.5107938601545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-073",
+                "cmt": "gate",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63079107458661,
+                    35.22530538021555,
+                    2178.4646754581113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-074",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63024773062592,
+                    35.226996030470666,
+                    2178.798256778132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-077",
+                "cmt": "TJ Lower Oldham",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63034801392654,
+                    35.23022180889075,
+                    2147.7108146914647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-078",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62940802786765,
+                    35.23168781713937,
+                    2157.273407533746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-080",
+                "cmt": "Gas Pipeline",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62792529383681,
+                    35.234712344625684,
+                    2188.6397402532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-083",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62612950980412,
+                    35.238428719221616,
+                    2231.992114952795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-090",
+                "cmt": "TJ To Oldham Trailhead",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62820039684703,
+                    35.24568325105791,
+                    2229.0990275779404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-091",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62923845800631,
+                    35.24514765492635,
+                    2221.3155836085725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-093",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63120595257439,
+                    35.24718723008014,
+                    2232.0367335623596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-094",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63227513383393,
+                    35.247730675089144,
+                    2231.7814769283946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-096a",
+                "cmt": "RJ Elden Mt Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63384235330209,
+                    35.24953457623529,
+                    2247.504112967293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-096b",
+                "cmt": "TJ Rocky Ridge",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63434866439214,
+                    35.24941555318986,
+                    2250.4530244400485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-109",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.65036939539807,
+                    35.247445567990056,
+                    2252.2197931678666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-116",
+                "cmt": "Schultz Creek Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.66137383437085,
+                    35.245045124027875,
+                    2193.5729076494617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-122",
+                "cmt": "TJ Ft Valley Trails",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.665693777812,
+                    35.25175064565861,
+                    2219.3433777354176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-129a",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6624585297644,
+                    35.258556284745715,
+                    2254.3834077404044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-129b",
+                "cmt": "gate",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.66192108370139,
+                    35.259055382843094,
+                    2254.7443417367103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-143",
+                "cmt": "TJ Schultz Creek",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.64748633597756,
+                    35.27209571241011,
+                    2347.587771911691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-144",
+                "cmt": "RJ Schultz Pass Road Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.64790978910746,
+                    35.27262136145453,
+                    2359.436374862342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33-148",
+                "cmt": "TJ Urban vs Equestrian AZT Route",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.65274249608937,
+                    35.272889584205906,
+                    2380.5570553916777
+                ]
+            }
+        }
+    ]
+}

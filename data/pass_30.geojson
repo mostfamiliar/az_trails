@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-000a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48621390661145,
+                    34.96636977523265,
+                    2219.2748313313095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-000b",
+                "cmt": "Mayflower Spring to west",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48621390661145,
+                    34.96636977523265,
+                    2219.2748313313095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-009",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49344102597951,
+                    34.97732535527846,
+                    2241.1182775089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-011",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49383102624925,
+                    34.9795853555575,
+                    2241.3020803445434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-013",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4908910259199,
+                    34.9825853561271,
+                    2215.9457009027283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-019",
+                "cmt": "TJ Join RR Bed",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48265573838198,
+                    34.983756196757895,
+                    2199.2572792344813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-021",
+                "cmt": "RJ FR 132 RD Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47978313486784,
+                    34.98442708801299,
+                    2194.553296839097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-036",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47086982562554,
+                    35.00240335192541,
+                    2158.183939469775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-051",
+                "cmt": "TJ Leave RR Bed",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47340200783557,
+                    35.02241042244759,
+                    2118.23109683269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-065",
+                "cmt": "RJ FR 651 RD Underpass",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45498589460021,
+                    35.02743349918135,
+                    2091.658956770964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-067",
+                "cmt": "FH 3 / Lake Mary Rd",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45345426741073,
+                    35.02878431445004,
+                    2093.073740486858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-075a",
+                "cmt": "Horse LakeTrailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44519470185179,
+                    35.029779829060104,
+                    2161.5894681112504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-075b",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44464224778784,
+                    35.030318805163894,
+                    2162.763559710935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-078",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44467716215495,
+                    35.03453485872427,
+                    2158.0454762731633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-100",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45399512108138,
+                    35.058758564415236,
+                    2172.53733353449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-102",
+                "cmt": "FENCE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45497275254519,
+                    35.061902360777644,
+                    2176.33536788024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-103",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4556769348314,
+                    35.063607671964085,
+                    2177.177536934941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-107",
+                "cmt": "Horse Lake",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.46097579905539,
+                    35.06558520292073,
+                    2177.219970703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-108",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.46101169713272,
+                    35.06640408402773,
+                    2177.219970703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-111",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4653072782062,
+                    35.068955980118844,
+                    2177.219970703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-121",
+                "cmt": "RJ  Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4804889926185,
+                    35.07352508484766,
+                    2191.6768538427823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-124",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48486281952647,
+                    35.073967191652976,
+                    2190.2738148452313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-133",
+                "cmt": "TJ Lakeview CG Connector",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49937011207396,
+                    35.07002896428808,
+                    2196.9614275642243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-145",
+                "cmt": "RJ FR 129 Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51250240250107,
+                    35.07954340579255,
+                    2201.3338412875787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-148",
+                "cmt": "Vail Lake",
+                "type": "Lake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51630519754899,
+                    35.08294476602429,
+                    2199.4998185004706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-155",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.52524117392242,
+                    35.08990025843046,
+                    2196.505605677487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-162",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53061156028997,
+                    35.09339494358318,
+                    2201.4528274052345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-164",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53007675841059,
+                    35.09603496896504,
+                    2201.738037109375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-165",
+                "cmt": "Prime Lake",
+                "type": "Lake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5313623017198,
+                    35.09666013897344,
+                    2201.143550157153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-166",
+                "cmt": "NPOI",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53262343502512,
+                    35.09729666698481,
+                    2200.2446976217343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-169a",
+                "cmt": "RJ Marshall Lake Rd",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53643371003133,
+                    35.100193683148355,
+                    2203.8190749445084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-169b",
+                "cmt": "Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53665726007956,
+                    35.100238031141295,
+                    2203.8984094946613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-175",
+                "cmt": "FENCE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5379910459499,
+                    35.10727536999848,
+                    2189.635860370875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-176",
+                "cmt": "RJ FR 128 RD Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5382391572053,
+                    35.109670048302114,
+                    2175.738037109375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30-178",
+                "cmt": "Marshall Lake Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.54138744296768,
+                    35.111259717330235,
+                    2175.738037109375
+                ]
+            }
+        }
+    ]
+}

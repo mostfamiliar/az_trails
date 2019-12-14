@@ -1,0 +1,245 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="32.580833241370811" minlon="-110.739668547364970" maxlat="32.650402948859586" maxlon="-110.709577434536480" />
+  </metadata>
+  <wpt lat="32.580833241370811" lon="-110.72025767100031">
+    <ele>1348.9984625445127</ele>
+    <name>13-000</name>
+    <cmt>American Flag Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.580833241370811</gpxx:lat>
+      <gpxx:lon>-110.72025767100031</gpxx:lon>
+      <gpxx:y_proj>32.580833241370811</gpxx:y_proj>
+      <gpxx:x_proj>-110.72025767100031</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.582939776809447" lon="-110.71748535658622">
+    <ele>1331.673036820315</ele>
+    <name>13-002a</name>
+    <cmt>RJ Mt Lemmon Rd Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.582939776809447</gpxx:lat>
+      <gpxx:lon>-110.71748535658622</gpxx:lon>
+      <gpxx:y_proj>32.582939776809447</gpxx:y_proj>
+      <gpxx:x_proj>-110.71748535658622</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.582894896841871" lon="-110.7166829594221">
+    <ele>1329.7872116152839</ele>
+    <name>13-002b</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.582894896841871</gpxx:lat>
+      <gpxx:lon>-110.7166829594221</gpxx:lon>
+      <gpxx:y_proj>32.582894896841871</gpxx:y_proj>
+      <gpxx:x_proj>-110.7166829594221</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.586234773443209" lon="-110.71423025615562">
+    <ele>1317.7631142345533</ele>
+    <name>13-006</name>
+    <cmt>GATE / CNF</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.586234773443209</gpxx:lat>
+      <gpxx:lon>-110.71423025615562</gpxx:lon>
+      <gpxx:y_proj>32.586234773443209</gpxx:y_proj>
+      <gpxx:x_proj>-110.71423025615562</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.587238665568115" lon="-110.71464335130649">
+    <ele>1318.2042229778185</ele>
+    <name>13-007</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.587238665568115</gpxx:lat>
+      <gpxx:lon>-110.71464335130649</gpxx:lon>
+      <gpxx:y_proj>32.587238665568115</gpxx:y_proj>
+      <gpxx:x_proj>-110.71464335130649</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.596755454973511" lon="-110.71400126982195">
+    <ele>1293.7942301824376</ele>
+    <name>13-016a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.596755454973511</gpxx:lat>
+      <gpxx:lon>-110.71400126982195</gpxx:lon>
+      <gpxx:y_proj>32.596755454973511</gpxx:y_proj>
+      <gpxx:x_proj>-110.71400126982195</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.596841563982345" lon="-110.71407545784268">
+    <ele>1294.0164796046899</ele>
+    <name>13-016b</name>
+    <cmt>RJ Webb Rd Paved</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.596841563982345</gpxx:lat>
+      <gpxx:lon>-110.71407545784268</gpxx:lon>
+      <gpxx:y_proj>32.596841563982345</gpxx:y_proj>
+      <gpxx:x_proj>-110.71407545784268</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.600972184712901" lon="-110.71131104456749">
+    <ele>1278.2923918244285</ele>
+    <name>13-020a</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.600972184712901</gpxx:lat>
+      <gpxx:lon>-110.71131104456749</gpxx:lon>
+      <gpxx:y_proj>32.600972184712901</gpxx:y_proj>
+      <gpxx:x_proj>-110.71131104456749</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.601485066791831" lon="-110.7112106885821">
+    <ele>1279.3871117578474</ele>
+    <name>13-020b</name>
+    <cmt>GATE / Oracle St Park</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.601485066791831</gpxx:lat>
+      <gpxx:lon>-110.7112106885821</gpxx:lon>
+      <gpxx:y_proj>32.601485066791838</gpxx:y_proj>
+      <gpxx:x_proj>-110.7112106885821</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.604862801290295" lon="-110.7109883387664">
+    <ele>1257.8712377828576</ele>
+    <name>13-023</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.604862801290295</gpxx:lat>
+      <gpxx:lon>-110.7109883387664</gpxx:lon>
+      <gpxx:y_proj>32.604862801290295</gpxx:y_proj>
+      <gpxx:x_proj>-110.7109883387664</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.605650896472575" lon="-110.70957743453648">
+    <ele>1250.0313562606746</ele>
+    <name>13-024</name>
+    <cmt>RJ Gasline Rd 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.605650896472575</gpxx:lat>
+      <gpxx:lon>-110.70957743453648</gpxx:lon>
+      <gpxx:y_proj>32.605650896472575</gpxx:y_proj>
+      <gpxx:x_proj>-110.70957743453648</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.618717103100565" lon="-110.71488589848894">
+    <ele>1231.207330274221</ele>
+    <name>13-037</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.618717103100565</gpxx:lat>
+      <gpxx:lon>-110.71488589848894</gpxx:lon>
+      <gpxx:y_proj>32.618717103100565</gpxx:y_proj>
+      <gpxx:x_proj>-110.71488589848894</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.620012827162654" lon="-110.71745321209239">
+    <ele>1245.8734843289074</ele>
+    <name>13-040</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.620012827162654</gpxx:lat>
+      <gpxx:lon>-110.71745321209239</gpxx:lon>
+      <gpxx:y_proj>32.620012827162654</gpxx:y_proj>
+      <gpxx:x_proj>-110.71745321209241</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.624483310762407" lon="-110.71838480658309">
+    <ele>1216.9830623709668</ele>
+    <name>13-043</name>
+    <cmt>TJ after Wash</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.624483310762407</gpxx:lat>
+      <gpxx:lon>-110.71838480658309</gpxx:lon>
+      <gpxx:y_proj>32.624483310762407</gpxx:y_proj>
+      <gpxx:x_proj>-110.71838480658309</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.627666960600273" lon="-110.73115504836314">
+    <ele>1243.6910648050855</ele>
+    <name>13-060</name>
+    <cmt>TJ &amp; Powerlines</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.627666960600273</gpxx:lat>
+      <gpxx:lon>-110.73115504836314</gpxx:lon>
+      <gpxx:y_proj>32.627666960600273</gpxx:y_proj>
+      <gpxx:x_proj>-110.73115504836314</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.631951987808179" lon="-110.73957754234489">
+    <ele>1239.4415035178088</ele>
+    <name>13-070a</name>
+    <cmt>HWY 77 Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>32.631951987808179</gpxx:lat>
+      <gpxx:lon>-110.73957754234489</gpxx:lon>
+      <gpxx:y_proj>32.631951987808179</gpxx:y_proj>
+      <gpxx:x_proj>-110.73957754234489</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.631978608807607" lon="-110.73966854736497">
+    <ele>1240.3526116149917</ele>
+    <name>13-070b</name>
+    <cmt>HWY 77 / Oracle St Park</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>32.631978608807607</gpxx:lat>
+      <gpxx:lon>-110.73966854736497</gpxx:lon>
+      <gpxx:y_proj>32.631978608807607</gpxx:y_proj>
+      <gpxx:x_proj>-110.73966854736497</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.638524050911606" lon="-110.73637505914911">
+    <ele>1250.6856073670438</ele>
+    <name>13-076</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.638524050911606</gpxx:lat>
+      <gpxx:lon>-110.73637505914911</gpxx:lon>
+      <gpxx:y_proj>32.638524050911606</gpxx:y_proj>
+      <gpxx:x_proj>-110.73637505914911</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.6463508191177" lon="-110.73477651336097">
+    <ele>1247.4233633246738</ele>
+    <name>13-083</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>32.6463508191177</gpxx:lat>
+      <gpxx:lon>-110.73477651336097</gpxx:lon>
+      <gpxx:y_proj>32.6463508191177</gpxx:y_proj>
+      <gpxx:x_proj>-110.73477651336098</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.650402948859586" lon="-110.73153869598696">
+    <ele>1242.5118164557764</ele>
+    <name>13-086</name>
+    <cmt>Tiger Mine Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.650402948859586</gpxx:lat>
+      <gpxx:lon>-110.73153869598696</gpxx:lon>
+      <gpxx:y_proj>32.650402948859586</gpxx:y_proj>
+      <gpxx:x_proj>-110.73153869598696</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

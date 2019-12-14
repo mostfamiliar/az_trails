@@ -1,0 +1,933 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-000",
+                "cmt": "RJ Schultz Pass Road",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62635746407521,
+                    35.286847392597075,
+                    2444.7495426352602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-001",
+                "cmt": "TJ Leave Weatherford",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62692976027826,
+                    35.28787050969832,
+                    2455.5756544714422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-002",
+                "cmt": "TJ Ricochet",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.62885374264366,
+                    35.28768334656054,
+                    2462.8052293684195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-005",
+                "cmt": "TJ Secret",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6330738963928,
+                    35.28667443117936,
+                    2472.3797303969613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-006",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63484523670307,
+                    35.286203474013114,
+                    2467.8897705111463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-009",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.63667376707876,
+                    35.286350821925,
+                    2462.440347825059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-014",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.64036796951082,
+                    35.28291056625428,
+                    2450.1917302739193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-031",
+                "cmt": "TJ Urban vs Equestrian AZT Route",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.65274249608937,
+                    35.272889584205906,
+                    2380.5570553916777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-034",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.65630932869887,
+                    35.27176966884869,
+                    2381.122137245843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-036",
+                "cmt": "TJ Dog Food",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.65986315746974,
+                    35.27252711873973,
+                    2369.8355593005263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-039",
+                "cmt": "RJ Old Weatherford Road 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.66207848083361,
+                    35.271664602495825,
+                    2357.262660097851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-041",
+                "cmt": "TJ Moto/Chimney",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.66463264235281,
+                    35.27181019036494,
+                    2360.065973099393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-045",
+                "cmt": "RJ FR 9002 RD 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.66976255747781,
+                    35.2730457212263,
+                    2341.8158671277006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-049",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.67642773981846,
+                    35.2732680688639,
+                    2339.840357367526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-052",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.68122095072405,
+                    35.27275946251513,
+                    2328.4971062715595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-054",
+                "cmt": "FENCE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.68385146126641,
+                    35.272999747392205,
+                    2318.4862125064187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-055",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.68591653171326,
+                    35.27342964132742,
+                    2314.9875093609985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-058",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6899007696538,
+                    35.27515726232073,
+                    2312.0804223865307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-067",
+                "cmt": "TJ Rocky Moto",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70449334187491,
+                    35.2789301469594,
+                    2327.968361496891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-073",
+                "cmt": "Gas Pipeline",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71191317372181,
+                    35.28324171609031,
+                    2331.353459030024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-074",
+                "cmt": "RJ Snow Bowl Road Paved Road",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71163821671368,
+                    35.28377094717614,
+                    2335.593451264148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-079",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70931032468184,
+                    35.28867645895844,
+                    2375.3675431960746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-104",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.72228919960767,
+                    35.30414727022882,
+                    2560.142782394736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-116",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.72545109547842,
+                    35.31833651090733,
+                    2644.694006931407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-120",
+                "cmt": "RJ Aspen Corner 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7205526348581,
+                    35.322321074719774,
+                    2694.2199054374364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-125",
+                "cmt": "TJ Aspen Loop South",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71974171528275,
+                    35.328985470643204,
+                    2739.1174948991465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-128",
+                "cmt": "TJ Aspen Loop North",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71935053147524,
+                    35.33205783106998,
+                    2743.72863021431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-148",
+                "cmt": "Lew Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71725601121408,
+                    35.35654260340929,
+                    2726.3718926302445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-153",
+                "cmt": "TJ Bismarck Lake",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71715762270566,
+                    35.362344566176844,
+                    2707.853326007022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-163",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70999925091046,
+                    35.369414422528216,
+                    2656.9599443349607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-176",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7131972482045,
+                    35.37690401432208,
+                    2585.17567742076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-185",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71458780585355,
+                    35.38113850379548,
+                    2550.873606084885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-187",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7155069321363,
+                    35.382278341890675,
+                    2540.0772384666684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-191",
+                "cmt": "RJ FR 418 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71691206357286,
+                    35.384070952042705,
+                    2523.027841450794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-192",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71782006684802,
+                    35.38515027513057,
+                    2513.9063683384816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-201",
+                "cmt": "RJ FR 9003S 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.72423319197688,
+                    35.39486989902569,
+                    2442.754883756755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-204",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7244616203108,
+                    35.39813642344046,
+                    2432.895827671653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-208",
+                "cmt": "RJ FR 9003S 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.72263990544337,
+                    35.40371863928034,
+                    2414.767985424268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-223a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70546209925483,
+                    35.417455747100114,
+                    2355.3970447435904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-223b",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70478110614373,
+                    35.41772540117583,
+                    2354.6749708764737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-223c",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70455980710965,
+                    35.417835509203385,
+                    2353.954714062388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-225a",
+                "cmt": "RJ FR 514 / Deadman Flat Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70410009514693,
+                    35.41928602842086,
+                    2357.792116641389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-225b",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7039111061227,
+                    35.41943540145167,
+                    2357.6830574604082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-254",
+                "cmt": "RJ FR 523 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6926044441019,
+                    35.45576031588479,
+                    2229.6441840944235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-263",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.69422343064215,
+                    35.4694831445864,
+                    2193.5700828251634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-266",
+                "cmt": "Badger Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.69409373993089,
+                    35.473019337057316,
+                    2179.347373102748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-272",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.69431194777219,
+                    35.481989593219105,
+                    2145.706395242926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-276",
+                "cmt": "Bonita Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.69510582334749,
+                    35.486684123786524,
+                    2127.7935394279357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-282",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70075077119691,
+                    35.494881514523236,
+                    2108.064109941981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-290",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.70570195611882,
+                    35.505429190608346,
+                    2110.2241853681353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-295",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71090726662506,
+                    35.51074585899331,
+                    2105.6558610833767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-298",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.71473629558817,
+                    35.51303299606398,
+                    2095.4743140070086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-311",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.72409329202713,
+                    35.53077045282394,
+                    1984.007970765723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-323",
+                "cmt": "RJ FR 417 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7350492851169,
+                    35.54104115851099,
+                    1949.1720611717958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-331",
+                "cmt": "BND Leave Coconino NF",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.74921752799214,
+                    35.5418033327635,
+                    1963.0225663146728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-344",
+                "cmt": "East Cedar Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.76683502713965,
+                    35.54915596766943,
+                    1926.781201976085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-349",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.77628344981888,
+                    35.54701741082523,
+                    1937.8634781999704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34-353",
+                "cmt": "RJ FR 417/Cedar Ranch/FR 9008A Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.78307833719795,
+                    35.547396402468216,
+                    1944.1049989670164
+                ]
+            }
+        }
+    ]
+}

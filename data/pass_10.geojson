@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-000",
+                "cmt": "RJ Redington Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.57427541434942,
+                    32.306304843524195,
+                    1325.938051929596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-042",
+                "cmt": "RJ Bellota Ranch Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62055876762707,
+                    32.32100969547133,
+                    1219.1698496169683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-043",
+                "cmt": "The Lake Lake",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62168535485168,
+                    32.32098117941368,
+                    1217.7940440665427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-054",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63622438164509,
+                    32.31901799043736,
+                    1221.7308457008712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-063",
+                "cmt": "Agua Caliente Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64803694320761,
+                    32.321881621293194,
+                    1178.2420504582412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-078",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6714406621468,
+                    32.32548502870555,
+                    1219.110360773608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-079",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.67202785532008,
+                    32.32632495079982,
+                    1229.1390547069045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-082",
+                "cmt": "Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.67463903804882,
+                    32.329424353126505,
+                    1239.73029767333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-096",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.68274814623821,
+                    32.33792676497713,
+                    1479.849613065641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-105",
+                "cmt": "RJ Catalina Highway Road",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69049809777854,
+                    32.337687873573685,
+                    1332.4219378811702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-106",
+                "cmt": "Molino Basin Campground",
+                "type": "Campground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69110354089145,
+                    32.33755632652581,
+                    1328.5569549318345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-110",
+                "cmt": "TJ Molino Basin Campground",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69527325053961,
+                    32.33469354991134,
+                    1315.9994661885676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-116",
+                "cmt": "TJ Molino Basin Campground",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.70174750190911,
+                    32.335752437757314,
+                    1366.5285492051453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-130",
+                "cmt": "TJ Connect to Bug Spring Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71814611230813,
+                    32.33738954521492,
+                    1487.234135500072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10-132",
+                "cmt": "Gordon Hiabayashi Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71986924457029,
+                    32.33612321594903,
+                    1476.3213390442256
+                ]
+            }
+        }
+    ]
+}

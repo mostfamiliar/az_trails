@@ -1,0 +1,341 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="32.129605001227105" minlon="-110.654015833486340" maxlat="32.306304843524195" maxlon="-110.535833750544570" />
+  </metadata>
+  <wpt lat="32.129637868404664" lon="-110.64471848399788">
+    <ele>950.18778019900628</ele>
+    <name>09-000</name>
+    <cmt>BND East Saguaro NP</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.129637868404664</gpxx:lat>
+      <gpxx:lon>-110.64471848399788</gpxx:lon>
+      <gpxx:y_proj>32.129637868404664</gpxx:y_proj>
+      <gpxx:x_proj>-110.64471848399789</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.129605001227105" lon="-110.64841064473738">
+    <ele>940.36467594643068</ele>
+    <name>09-005</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.129605001227105</gpxx:lat>
+      <gpxx:lon>-110.64841064473738</gpxx:lon>
+      <gpxx:y_proj>32.129605001227105</gpxx:y_proj>
+      <gpxx:x_proj>-110.64841064473738</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.133370934752648" lon="-110.64894512908806">
+    <ele>954.24259129260327</ele>
+    <name>09-008</name>
+    <cmt>Hope Camp</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>32.133370934752648</gpxx:lat>
+      <gpxx:lon>-110.64894512908806</gpxx:lon>
+      <gpxx:y_proj>32.133370934752648</gpxx:y_proj>
+      <gpxx:x_proj>-110.64894512908806</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.139245370373921" lon="-110.65401583348634">
+    <ele>965.30487268196566</ele>
+    <name>09-013</name>
+    <cmt>TJ Quilter</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.139245370373921</gpxx:lat>
+      <gpxx:lon>-110.65401583348634</gpxx:lon>
+      <gpxx:y_proj>32.139245370373921</gpxx:y_proj>
+      <gpxx:x_proj>-110.65401583348634</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.146616601793255" lon="-110.64671232849633">
+    <ele>1006.5457528034799</ele>
+    <name>09-023</name>
+    <cmt>Drainage</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.146616601793255</gpxx:lat>
+      <gpxx:lon>-110.64671232849633</gpxx:lon>
+      <gpxx:y_proj>32.146616601793255</gpxx:y_proj>
+      <gpxx:x_proj>-110.64671232849633</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.147127624893308" lon="-110.64617069442062">
+    <ele>1015.9892384054265</ele>
+    <name>09-024</name>
+    <cmt>FENCE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.147127624893308</gpxx:lat>
+      <gpxx:lon>-110.64617069442062</gpxx:lon>
+      <gpxx:y_proj>32.147127624893308</gpxx:y_proj>
+      <gpxx:x_proj>-110.64617069442063</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.147852211259874" lon="-110.64060715534988">
+    <ele>1020.7180495770829</ele>
+    <name>09-027</name>
+    <cmt>BND East Saguaro NP</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.147852211259874</gpxx:lat>
+      <gpxx:lon>-110.64060715534988</gpxx:lon>
+      <gpxx:y_proj>32.147852211259874</gpxx:y_proj>
+      <gpxx:x_proj>-110.64060715534988</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.169120458604667" lon="-110.61424964343119">
+    <ele>1323.2992324454085</ele>
+    <name>09-059</name>
+    <cmt>TJ Manning</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.169120458604667</gpxx:lat>
+      <gpxx:lon>-110.61424964343119</gpxx:lon>
+      <gpxx:y_proj>32.169120458604667</gpxx:y_proj>
+      <gpxx:x_proj>-110.61424964343119</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.186706304862163" lon="-110.59962627963267">
+    <ele>1651.9315912142029</ele>
+    <name>09-082</name>
+    <cmt>TJ Douglas</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.186706304862163</gpxx:lat>
+      <gpxx:lon>-110.59962627963267</gpxx:lon>
+      <gpxx:y_proj>32.186706304862163</gpxx:y_proj>
+      <gpxx:x_proj>-110.59962627963267</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.183626094731437" lon="-110.59282275306437">
+    <ele>1610.1470625811623</ele>
+    <name>09-089</name>
+    <cmt>Grass Shack Campground</cmt>
+    <type>Campground</type>
+    <extensions>
+      <gpxx:lat>32.183626094731437</gpxx:lat>
+      <gpxx:lon>-110.59282275306437</gpxx:lon>
+      <gpxx:y_proj>32.183626094731437</gpxx:y_proj>
+      <gpxx:x_proj>-110.59282275306437</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.197789500666708" lon="-110.55316402800534">
+    <ele>2283.1124395056177</ele>
+    <name>09-124</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.197789500666708</gpxx:lat>
+      <gpxx:lon>-110.55316402800534</gpxx:lon>
+      <gpxx:y_proj>32.197789500666708</gpxx:y_proj>
+      <gpxx:x_proj>-110.55316402800534</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.202931304345697" lon="-110.55472387665374">
+    <ele>2345.3623323999545</ele>
+    <name>09-130</name>
+    <cmt>Chimenea Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.202931304345697</gpxx:lat>
+      <gpxx:lon>-110.55472387665374</gpxx:lon>
+      <gpxx:y_proj>32.202931304345697</gpxx:y_proj>
+      <gpxx:x_proj>-110.55472387665375</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.207439166999407" lon="-110.55484527797149">
+    <ele>2418.6209155941847</ele>
+    <name>09-134a</name>
+    <cmt>Manning Campground</cmt>
+    <type>Campground</type>
+    <extensions>
+      <gpxx:lat>32.207439166999407</gpxx:lat>
+      <gpxx:lon>-110.55484527797149</gpxx:lon>
+      <gpxx:y_proj>32.207439166999407</gpxx:y_proj>
+      <gpxx:x_proj>-110.55484527797149</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.207643388050172" lon="-110.55440108289535">
+    <ele>2418.7737668558307</ele>
+    <name>09-134b</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.207643388050172</gpxx:lat>
+      <gpxx:lon>-110.55440108289535</gpxx:lon>
+      <gpxx:y_proj>32.207643388050172</gpxx:y_proj>
+      <gpxx:x_proj>-110.55440108289537</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.208406850241154" lon="-110.55271600660586">
+    <ele>2422.9663021966285</ele>
+    <name>09-135</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.208406850241154</gpxx:lat>
+      <gpxx:lon>-110.55271600660586</gpxx:lon>
+      <gpxx:y_proj>32.208406850241154</gpxx:y_proj>
+      <gpxx:x_proj>-110.55271600660586</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.214401087397086" lon="-110.54678672980256">
+    <ele>2480.6861758668115</ele>
+    <name>09-141</name>
+    <cmt>TJ Spud</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.214401087397086</gpxx:lat>
+      <gpxx:lon>-110.54678672980256</gpxx:lon>
+      <gpxx:y_proj>32.214401087397086</gpxx:y_proj>
+      <gpxx:x_proj>-110.54678672980256</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.22041802353133" lon="-110.54139184110835">
+    <ele>2619.0954333882614</ele>
+    <name>09-148</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.22041802353133</gpxx:lat>
+      <gpxx:lon>-110.54139184110835</gpxx:lon>
+      <gpxx:y_proj>32.22041802353133</gpxx:y_proj>
+      <gpxx:x_proj>-110.54139184110836</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.221452991738659" lon="-110.54020416893665">
+    <ele>2613.8497950894307</ele>
+    <name>09-149</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.221452991738659</gpxx:lat>
+      <gpxx:lon>-110.54020416893665</gpxx:lon>
+      <gpxx:y_proj>32.221452991738659</gpxx:y_proj>
+      <gpxx:x_proj>-110.54020416893667</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.222359874035178" lon="-110.53672472529512">
+    <ele>2582.3822277109248</ele>
+    <name>09-152</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.222359874035178</gpxx:lat>
+      <gpxx:lon>-110.53672472529512</gpxx:lon>
+      <gpxx:y_proj>32.222359874035178</gpxx:y_proj>
+      <gpxx:x_proj>-110.53672472529512</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.2289381430395" lon="-110.53583375054457">
+    <ele>2433.7515332885814</ele>
+    <name>09-157</name>
+    <cmt>Italian Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.2289381430395</gpxx:lat>
+      <gpxx:lon>-110.53583375054457</gpxx:lon>
+      <gpxx:y_proj>32.2289381430395</gpxx:y_proj>
+      <gpxx:x_proj>-110.53583375054458</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.237302607170626" lon="-110.53779241748475">
+    <ele>2044.4244483833577</ele>
+    <name>09-175</name>
+    <cmt>BND SNP / CNF / East Saguaro Wldns</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.237302607170626</gpxx:lat>
+      <gpxx:lon>-110.53779241748475</gpxx:lon>
+      <gpxx:y_proj>32.237302607170626</gpxx:y_proj>
+      <gpxx:x_proj>-110.53779241748475</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.250205206889504" lon="-110.54134747404336">
+    <ele>1702.3699151899552</ele>
+    <name>09-188</name>
+    <cmt>FENCE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.250205206889504</gpxx:lat>
+      <gpxx:lon>-110.54134747404336</gpxx:lon>
+      <gpxx:y_proj>32.250205206889504</gpxx:y_proj>
+      <gpxx:x_proj>-110.54134747404338</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.25828397279281" lon="-110.54722520175511">
+    <ele>1535.3402109421968</ele>
+    <name>09-196</name>
+    <cmt>FENCE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.25828397279281</gpxx:lat>
+      <gpxx:lon>-110.54722520175511</gpxx:lon>
+      <gpxx:y_proj>32.25828397279281</gpxx:y_proj>
+      <gpxx:x_proj>-110.54722520175511</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.26016087809306" lon="-110.54667595376733">
+    <ele>1525.1640159480255</ele>
+    <name>09-198</name>
+    <cmt>BND Rincon Mountain Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.26016087809306</gpxx:lat>
+      <gpxx:lon>-110.54667595376733</gpxx:lon>
+      <gpxx:y_proj>32.26016087809306</gpxx:y_proj>
+      <gpxx:x_proj>-110.54667595376733</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.271524412641419" lon="-110.54904611098847">
+    <ele>1430.8330438381495</ele>
+    <name>09-206</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.271524412641419</gpxx:lat>
+      <gpxx:lon>-110.54904611098847</gpxx:lon>
+      <gpxx:y_proj>32.271524412641419</gpxx:y_proj>
+      <gpxx:x_proj>-110.54904611098847</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.283224951425687" lon="-110.56858598068878">
+    <ele>1217.1653978008201</ele>
+    <name>09-223</name>
+    <cmt>Italian Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.283224951425687</gpxx:lat>
+      <gpxx:lon>-110.56858598068878</gpxx:lon>
+      <gpxx:y_proj>32.283224951425694</gpxx:y_proj>
+      <gpxx:x_proj>-110.56858598068878</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.284191532519827" lon="-110.56957802695182">
+    <ele>1217.33905404089</ele>
+    <name>09-224</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>32.284191532519827</gpxx:lat>
+      <gpxx:lon>-110.56957802695182</gpxx:lon>
+      <gpxx:y_proj>32.284191532519827</gpxx:y_proj>
+      <gpxx:x_proj>-110.56957802695182</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.306304843524195" lon="-110.57427541434942">
+    <ele>1325.938051929596</ele>
+    <name>09-246</name>
+    <cmt>RJ Redington Rd Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.306304843524195</gpxx:lat>
+      <gpxx:lon>-110.57427541434942</gpxx:lon>
+      <gpxx:y_proj>32.306304843524195</gpxx:y_proj>
+      <gpxx:x_proj>-110.57427541434942</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

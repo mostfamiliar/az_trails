@@ -1,0 +1,497 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="35.956023185593892" minlon="-112.126074406335010" maxlat="36.053405012465085" maxlon="-111.955341867664540" />
+  </metadata>
+  <wpt lat="35.957473707083039" lon="-111.95534186766454">
+    <ele>2294.5825088699412</ele>
+    <name>37-000</name>
+    <cmt>RJ Coconino Road Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.957473707083039</gpxx:lat>
+      <gpxx:lon>-111.95534186766454</gpxx:lon>
+      <gpxx:y_proj>35.957473707083039</gpxx:y_proj>
+      <gpxx:x_proj>-111.95534186766454</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.957725455519771" lon="-111.96504120660327">
+    <ele>2275.4834130239306</ele>
+    <name>37-006</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>35.957725455519771</gpxx:lat>
+      <gpxx:lon>-111.96504120660327</gpxx:lon>
+      <gpxx:y_proj>35.957725455519771</gpxx:y_proj>
+      <gpxx:x_proj>-111.96504120660327</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.956023185593892" lon="-111.97656285671982">
+    <ele>2248.9795324543384</ele>
+    <name>37-014</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.956023185593892</gpxx:lat>
+      <gpxx:lon>-111.97656285671982</gpxx:lon>
+      <gpxx:y_proj>35.956023185593892</gpxx:y_proj>
+      <gpxx:x_proj>-111.97656285671982</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.957119767092969" lon="-112.01957419630818">
+    <ele>2154.0657839834389</ele>
+    <name>37-042</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>35.957119767092969</gpxx:lat>
+      <gpxx:lon>-112.01957419630818</gpxx:lon>
+      <gpxx:y_proj>35.957119767092969</gpxx:y_proj>
+      <gpxx:x_proj>-112.01957419630818</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.957922195029063" lon="-112.02228768491793">
+    <ele>2152.3991210007398</ele>
+    <name>37-044</name>
+    <cmt>Watson Tank</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>35.957922195029063</gpxx:lat>
+      <gpxx:lon>-112.02228768491793</gpxx:lon>
+      <gpxx:y_proj>35.95792219502907</gpxx:y_proj>
+      <gpxx:x_proj>-112.02228768491793</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.959332537804777" lon="-112.02887864834862">
+    <ele>2158.0388428705323</ele>
+    <name>37-049</name>
+    <cmt>RJ FR 303 Road Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.959332537804777</gpxx:lat>
+      <gpxx:lon>-112.02887864834862</gpxx:lon>
+      <gpxx:y_proj>35.959332537804777</gpxx:y_proj>
+      <gpxx:x_proj>-112.02887864834862</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.961214213886329" lon="-112.04774682624314">
+    <ele>2110.8572274547068</ele>
+    <name>37-061</name>
+    <cmt>RJ FR 303 Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.961214213886329</gpxx:lat>
+      <gpxx:lon>-112.04774682624314</gpxx:lon>
+      <gpxx:y_proj>35.961214213886329</gpxx:y_proj>
+      <gpxx:x_proj>-112.04774682624314</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.970034402085496" lon="-112.04660468583845">
+    <ele>2127.9097681476128</ele>
+    <name>37-067</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.970034402085496</gpxx:lat>
+      <gpxx:lon>-112.04660468583845</gpxx:lon>
+      <gpxx:y_proj>35.970034402085496</gpxx:y_proj>
+      <gpxx:x_proj>-112.04660468583845</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.970534088042854" lon="-112.04833788522657">
+    <ele>2131.2769001752672</ele>
+    <name>37-068</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.970534088042854</gpxx:lat>
+      <gpxx:lon>-112.04833788522657</gpxx:lon>
+      <gpxx:y_proj>35.970534088042854</gpxx:y_proj>
+      <gpxx:x_proj>-112.04833788522657</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.970990944708205" lon="-112.05473102252905">
+    <ele>2116.4487289485464</ele>
+    <name>37-072</name>
+    <cmt>RJ FR 825 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.970990944708205</gpxx:lat>
+      <gpxx:lon>-112.05473102252905</gpxx:lon>
+      <gpxx:y_proj>35.970990944708205</gpxx:y_proj>
+      <gpxx:x_proj>-112.05473102252905</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.967795803864675" lon="-112.06180087862485">
+    <ele>2094.1553248356245</ele>
+    <name>37-078a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>35.967795803864675</gpxx:lat>
+      <gpxx:lon>-112.06180087862485</gpxx:lon>
+      <gpxx:y_proj>35.967795803864675</gpxx:y_proj>
+      <gpxx:x_proj>-112.06180087862485</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.967795803864675" lon="-112.06180087862485">
+    <ele>2094.1553248356245</ele>
+    <name>37-078b</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.967795803864675</gpxx:lat>
+      <gpxx:lon>-112.06180087862485</gpxx:lon>
+      <gpxx:y_proj>35.967795803864675</gpxx:y_proj>
+      <gpxx:x_proj>-112.06180087862485</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.975833623772921" lon="-112.06375108575726">
+    <ele>2121.8398565128605</ele>
+    <name>37-085</name>
+    <cmt>RJ FR 818 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.975833623772921</gpxx:lat>
+      <gpxx:lon>-112.06375108575726</gpxx:lon>
+      <gpxx:y_proj>35.975833623772921</gpxx:y_proj>
+      <gpxx:x_proj>-112.06375108575726</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.979714049257815" lon="-112.06393668415522">
+    <ele>2121.5906132709679</ele>
+    <name>37-087</name>
+    <cmt>RJ FR 815/814 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.979714049257815</gpxx:lat>
+      <gpxx:lon>-112.06393668415522</gpxx:lon>
+      <gpxx:y_proj>35.979714049257815</gpxx:y_proj>
+      <gpxx:x_proj>-112.06393668415522</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.97035991007111" lon="-112.08003802345613">
+    <ele>2087.4899637834064</ele>
+    <name>37-100</name>
+    <cmt>RJ FR 2709 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.97035991007111</gpxx:lat>
+      <gpxx:lon>-112.08003802345613</gpxx:lon>
+      <gpxx:y_proj>35.97035991007111</gpxx:y_proj>
+      <gpxx:x_proj>-112.08003802345613</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.958450230067527" lon="-112.08785598088778">
+    <ele>2047.6971302252459</ele>
+    <name>37-110</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>35.958450230067527</gpxx:lat>
+      <gpxx:lon>-112.08785598088778</gpxx:lon>
+      <gpxx:y_proj>35.958450230067527</gpxx:y_proj>
+      <gpxx:x_proj>-112.08785598088778</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.959589515130325" lon="-112.08920370725912">
+    <ele>2044.868847343294</ele>
+    <name>37-111</name>
+    <cmt>2 track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.959589515130325</gpxx:lat>
+      <gpxx:lon>-112.08920370725912</gpxx:lon>
+      <gpxx:y_proj>35.959589515130325</gpxx:y_proj>
+      <gpxx:x_proj>-112.08920370725912</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.959949290073979" lon="-112.09086837862033">
+    <ele>2044.1133556294342</ele>
+    <name>37-113</name>
+    <cmt>2 track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.959949290073979</gpxx:lat>
+      <gpxx:lon>-112.09086837862033</gpxx:lon>
+      <gpxx:y_proj>35.959949290073986</gpxx:y_proj>
+      <gpxx:x_proj>-112.09086837862033</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.965506940368428" lon="-112.09763469146961">
+    <ele>2035.3601856892874</ele>
+    <name>37-119</name>
+    <cmt>TJ FR 3/2</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>35.965506940368428</gpxx:lat>
+      <gpxx:lon>-112.09763469146961</gpxx:lon>
+      <gpxx:y_proj>35.965506940368428</gpxx:y_proj>
+      <gpxx:x_proj>-112.09763469146961</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.975839331588524" lon="-112.11551579395126">
+    <ele>2019.5117473253811</ele>
+    <name>37-134</name>
+    <cmt>RJ BR 1 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.975839331588524</gpxx:lat>
+      <gpxx:lon>-112.11551579395126</gpxx:lon>
+      <gpxx:y_proj>35.975839331588524</gpxx:y_proj>
+      <gpxx:x_proj>-112.11551579395126</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.97368068391345" lon="-112.12200601302743">
+    <ele>2011.1710339607635</ele>
+    <name>37-140</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.97368068391345</gpxx:lat>
+      <gpxx:lon>-112.12200601302743</gpxx:lon>
+      <gpxx:y_proj>35.97368068391345</gpxx:y_proj>
+      <gpxx:x_proj>-112.12200601302743</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.981241660258583" lon="-112.11583844951809">
+    <ele>2029.8097879376114</ele>
+    <name>37-148</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.981241660258583</gpxx:lat>
+      <gpxx:lon>-112.11583844951809</gpxx:lon>
+      <gpxx:y_proj>35.981241660258583</gpxx:y_proj>
+      <gpxx:x_proj>-112.11583844951811</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.980547809047458" lon="-112.1178286308451">
+    <ele>2026.6521190804017</ele>
+    <name>37-149</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.980547809047458</gpxx:lat>
+      <gpxx:lon>-112.1178286308451</gpxx:lon>
+      <gpxx:y_proj>35.980547809047458</gpxx:y_proj>
+      <gpxx:x_proj>-112.1178286308451</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.985056329299276" lon="-112.12308767030028">
+    <ele>2027.9681412909906</ele>
+    <name>37-155a</name>
+    <cmt>HWY 64 Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>35.985056329299276</gpxx:lat>
+      <gpxx:lon>-112.12308767030028</gpxx:lon>
+      <gpxx:y_proj>35.985056329299276</gpxx:y_proj>
+      <gpxx:x_proj>-112.12308767030029</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.98505070128973" lon="-112.12323096132792">
+    <ele>2028.0386983483638</ele>
+    <name>37-155b</name>
+    <cmt>HWY 64</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>35.98505070128973</gpxx:lat>
+      <gpxx:lon>-112.12323096132792</gpxx:lon>
+      <gpxx:y_proj>35.98505070128973</gpxx:y_proj>
+      <gpxx:x_proj>-112.12323096132793</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.985039354257218" lon="-112.12373528542614">
+    <ele>2028.1816808425567</ele>
+    <name>37-155c</name>
+    <cmt>TJ Tusayan Greenway</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>35.985039354257218</gpxx:lat>
+      <gpxx:lon>-112.12373528542614</gpxx:lon>
+      <gpxx:y_proj>35.985039354257218</gpxx:y_proj>
+      <gpxx:x_proj>-112.12373528542614</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.986742983395942" lon="-112.12501327083643">
+    <ele>2034.9647274719273</ele>
+    <name>37-157</name>
+    <cmt>FENCE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>35.986742983395942</gpxx:lat>
+      <gpxx:lon>-112.12501327083643</gpxx:lon>
+      <gpxx:y_proj>35.986742983395942</gpxx:y_proj>
+      <gpxx:x_proj>-112.12501327083643</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.990267431885592" lon="-112.12436739203802">
+    <ele>2040.6474060702499</ele>
+    <name>37-158</name>
+    <cmt>RJ FR 328 Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>35.990267431885592</gpxx:lat>
+      <gpxx:lon>-112.12436739203802</gpxx:lon>
+      <gpxx:y_proj>35.990267431885592</gpxx:y_proj>
+      <gpxx:x_proj>-112.12436739203802</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="35.991892128101242" lon="-112.12423319116319">
+    <ele>2045.3774143659989</ele>
+    <name>37-159</name>
+    <cmt>BND Grand Canyon NP / Kaibab NF</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>35.991892128101242</gpxx:lat>
+      <gpxx:lon>-112.12423319116319</gpxx:lon>
+      <gpxx:y_proj>35.991892128101242</gpxx:y_proj>
+      <gpxx:x_proj>-112.12423319116319</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.017356171281151" lon="-112.12534963676082">
+    <ele>2073.2028978264157</ele>
+    <name>37-179</name>
+    <cmt>RJ Vann Ave Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.017356171281151</gpxx:lat>
+      <gpxx:lon>-112.12534963676082</gpxx:lon>
+      <gpxx:y_proj>36.017356171281151</gpxx:y_proj>
+      <gpxx:x_proj>-112.12534963676082</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.032659506187741" lon="-112.12607440633501">
+    <ele>2103.2900065214249</ele>
+    <name>37-191</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.032659506187741</gpxx:lat>
+      <gpxx:lon>-112.12607440633501</gpxx:lon>
+      <gpxx:y_proj>36.032659506187741</gpxx:y_proj>
+      <gpxx:x_proj>-112.12607440633502</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.039559401221972" lon="-112.12357075348829">
+    <ele>2110.3434440520714</ele>
+    <name>37-196</name>
+    <cmt>RJ Center Road Paved</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.039559401221972</gpxx:lat>
+      <gpxx:lon>-112.12357075348829</gpxx:lon>
+      <gpxx:y_proj>36.039559401221972</gpxx:y_proj>
+      <gpxx:x_proj>-112.12357075348829</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.042689805777705" lon="-112.12103399828221">
+    <ele>2115.5708023077173</ele>
+    <name>37-198</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.042689805777705</gpxx:lat>
+      <gpxx:lon>-112.12103399828221</gpxx:lon>
+      <gpxx:y_proj>36.042689805777705</gpxx:y_proj>
+      <gpxx:x_proj>-112.12103399828223</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.047334161679458" lon="-112.11602102473059">
+    <ele>2141.9316149799934</ele>
+    <name>37-203</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.047334161679458</gpxx:lat>
+      <gpxx:lon>-112.11602102473059</gpxx:lon>
+      <gpxx:y_proj>36.047334161679458</gpxx:y_proj>
+      <gpxx:x_proj>-112.11602102473059</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.050171046401317" lon="-112.11019251184899">
+    <ele>2155.0288232610683</ele>
+    <name>37-207a</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.050171046401317</gpxx:lat>
+      <gpxx:lon>-112.11019251184899</gpxx:lon>
+      <gpxx:y_proj>36.050171046401324</gpxx:y_proj>
+      <gpxx:x_proj>-112.11019251184899</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.050181317402398" lon="-112.11019627685073">
+    <ele>2155.0040147407367</ele>
+    <name>37-207b</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>36.050181317402398</gpxx:lat>
+      <gpxx:lon>-112.11019627685073</gpxx:lon>
+      <gpxx:y_proj>36.050181317402398</gpxx:y_proj>
+      <gpxx:x_proj>-112.11019627685073</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.049841530449825" lon="-112.10872862552988">
+    <ele>2158.8455099338162</ele>
+    <name>37-208</name>
+    <cmt>HWY 64</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>36.049841530449825</gpxx:lat>
+      <gpxx:lon>-112.10872862552988</gpxx:lon>
+      <gpxx:y_proj>36.049841530449832</gpxx:y_proj>
+      <gpxx:x_proj>-112.10872862552988</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.046686364983792" lon="-112.09357811825078">
+    <ele>2176.0528651937634</ele>
+    <name>37-217</name>
+    <cmt>RJ</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.046686364983792</gpxx:lat>
+      <gpxx:lon>-112.09357811825078</gpxx:lon>
+      <gpxx:y_proj>36.046686364983792</gpxx:y_proj>
+      <gpxx:x_proj>-112.09357811825078</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.047211750348993" lon="-112.08875257034946">
+    <ele>2183.590041446234</ele>
+    <name>37-219</name>
+    <cmt>HWY 64</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>36.047211750348993</gpxx:lat>
+      <gpxx:lon>-112.08875257034946</gpxx:lon>
+      <gpxx:y_proj>36.047211750348993</gpxx:y_proj>
+      <gpxx:x_proj>-112.08875257034946</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.051420542205271" lon="-112.08358437972581">
+    <ele>2186.9615650932342</ele>
+    <name>37-223</name>
+    <cmt>RJ South Kaibab Trailhead Access 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.051420542205271</gpxx:lat>
+      <gpxx:lon>-112.08358437972581</gpxx:lon>
+      <gpxx:y_proj>36.051420542205271</gpxx:y_proj>
+      <gpxx:x_proj>-112.08358437972581</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.053405012465085" lon="-112.0834758768904">
+    <ele>2196.5288996365261</ele>
+    <name>37-225</name>
+    <cmt>South Kaibab Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>36.053405012465085</gpxx:lat>
+      <gpxx:lon>-112.0834758768904</gpxx:lon>
+      <gpxx:y_proj>36.053405012465085</gpxx:y_proj>
+      <gpxx:x_proj>-112.0834758768904</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

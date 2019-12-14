@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-000",
+                "cmt": "RJ Winter Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.10708759457593,
+                    36.91779586990532,
+                    1991.0380593384393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-024",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.10697909399792,
+                    36.94202925592802,
+                    1965.4917985420147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-029",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.10537438625813,
+                    36.94774852874385,
+                    1953.4279518860271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-031",
+                "cmt": "TJ Basin Canyon",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1027531710503,
+                    36.950820889296516,
+                    1926.0249382131617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-037",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.10152536943848,
+                    36.9570655481531,
+                    1954.9825412455584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-049",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09863133117669,
+                    36.970025574953105,
+                    1977.9882209172938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-052",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09869857164671,
+                    36.97454031151005,
+                    1952.809906993651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-066",
+                "cmt": "Wildlife Tank",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07978552660892,
+                    36.981476105604564,
+                    1926.0240183580422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-067",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07903375054987,
+                    36.982361126763614,
+                    1918.2501208785354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-075",
+                "cmt": "leave wash heading north",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.06763232372066,
+                    36.986569918030014,
+                    1878.5817512870071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-100",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.04341606890134,
+                    36.99617532880343,
+                    1586.3284910951807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-105",
+                "cmt": "Up and over small ridge to groomed path",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03612396278929,
+                    36.999447209686,
+                    1537.0413925165446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-106",
+                "cmt": "BND Utah",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03500132173671,
+                    37.00112158296753,
+                    1521.4314548276288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43-106",
+                "cmt": "Stateline Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.03499176674367,
+                    37.00120907897908,
+                    1521.3969227833954
+                ]
+            }
+        }
+    ]
+}

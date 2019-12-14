@@ -1,0 +1,173 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="36.917795869905319" minlon="-112.107087594575930" maxlat="37.001209078979080" maxlon="-112.034991766743670" />
+  </metadata>
+  <wpt lat="36.917795869905319" lon="-112.10708759457593">
+    <ele>1991.0380593384393</ele>
+    <name>43-000</name>
+    <cmt>RJ Winter Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.917795869905319</gpxx:lat>
+      <gpxx:lon>-112.10708759457593</gpxx:lon>
+      <gpxx:y_proj>36.917795869905319</gpxx:y_proj>
+      <gpxx:x_proj>-112.10708759457593</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.94202925592802" lon="-112.10697909399792">
+    <ele>1965.4917985420147</ele>
+    <name>43-024</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.94202925592802</gpxx:lat>
+      <gpxx:lon>-112.10697909399792</gpxx:lon>
+      <gpxx:y_proj>36.94202925592802</gpxx:y_proj>
+      <gpxx:x_proj>-112.10697909399792</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.947748528743851" lon="-112.10537438625813">
+    <ele>1953.4279518860271</ele>
+    <name>43-029</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.947748528743851</gpxx:lat>
+      <gpxx:lon>-112.10537438625813</gpxx:lon>
+      <gpxx:y_proj>36.947748528743851</gpxx:y_proj>
+      <gpxx:x_proj>-112.10537438625813</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.950820889296516" lon="-112.1027531710503">
+    <ele>1926.0249382131617</ele>
+    <name>43-031</name>
+    <cmt>TJ Basin Canyon</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.950820889296516</gpxx:lat>
+      <gpxx:lon>-112.1027531710503</gpxx:lon>
+      <gpxx:y_proj>36.950820889296516</gpxx:y_proj>
+      <gpxx:x_proj>-112.1027531710503</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.957065548153103" lon="-112.10152536943848">
+    <ele>1954.9825412455584</ele>
+    <name>43-037</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.957065548153103</gpxx:lat>
+      <gpxx:lon>-112.10152536943848</gpxx:lon>
+      <gpxx:y_proj>36.957065548153103</gpxx:y_proj>
+      <gpxx:x_proj>-112.10152536943848</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.970025574953105" lon="-112.09863133117669">
+    <ele>1977.9882209172938</ele>
+    <name>43-049</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>36.970025574953105</gpxx:lat>
+      <gpxx:lon>-112.09863133117669</gpxx:lon>
+      <gpxx:y_proj>36.970025574953105</gpxx:y_proj>
+      <gpxx:x_proj>-112.09863133117669</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.974540311510047" lon="-112.09869857164671">
+    <ele>1952.8099069936511</ele>
+    <name>43-052</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.974540311510047</gpxx:lat>
+      <gpxx:lon>-112.09869857164671</gpxx:lon>
+      <gpxx:y_proj>36.974540311510047</gpxx:y_proj>
+      <gpxx:x_proj>-112.09869857164671</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.981476105604564" lon="-112.07978552660892">
+    <ele>1926.0240183580422</ele>
+    <name>43-066</name>
+    <cmt>Wildlife Tank</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>36.981476105604564</gpxx:lat>
+      <gpxx:lon>-112.07978552660892</gpxx:lon>
+      <gpxx:y_proj>36.981476105604564</gpxx:y_proj>
+      <gpxx:x_proj>-112.07978552660892</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.982361126763614" lon="-112.07903375054987">
+    <ele>1918.2501208785354</ele>
+    <name>43-067</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.982361126763614</gpxx:lat>
+      <gpxx:lon>-112.07903375054987</gpxx:lon>
+      <gpxx:y_proj>36.982361126763614</gpxx:y_proj>
+      <gpxx:x_proj>-112.07903375054987</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.986569918030014" lon="-112.06763232372066">
+    <ele>1878.5817512870071</ele>
+    <name>43-075</name>
+    <cmt>leave wash heading north</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>36.986569918030014</gpxx:lat>
+      <gpxx:lon>-112.06763232372066</gpxx:lon>
+      <gpxx:y_proj>36.986569918030014</gpxx:y_proj>
+      <gpxx:x_proj>-112.06763232372066</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.996175328803432" lon="-112.04341606890134">
+    <ele>1586.3284910951807</ele>
+    <name>43-100</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>36.996175328803432</gpxx:lat>
+      <gpxx:lon>-112.04341606890134</gpxx:lon>
+      <gpxx:y_proj>36.996175328803432</gpxx:y_proj>
+      <gpxx:x_proj>-112.04341606890134</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.999447209685997" lon="-112.03612396278929">
+    <ele>1537.0413925165446</ele>
+    <name>43-105</name>
+    <cmt>Up and over small ridge to groomed path</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>36.999447209685997</gpxx:lat>
+      <gpxx:lon>-112.03612396278929</gpxx:lon>
+      <gpxx:y_proj>36.999447209685997</gpxx:y_proj>
+      <gpxx:x_proj>-112.03612396278929</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="37.001121582967528" lon="-112.03500132173671">
+    <ele>1521.4314548276288</ele>
+    <name>43-106</name>
+    <cmt>BND Utah</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>37.001121582967528</gpxx:lat>
+      <gpxx:lon>-112.03500132173671</gpxx:lon>
+      <gpxx:y_proj>37.001121582967535</gpxx:y_proj>
+      <gpxx:x_proj>-112.03500132173671</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="37.00120907897908" lon="-112.03499176674367">
+    <ele>1521.3969227833954</ele>
+    <name>43-106</name>
+    <cmt>Stateline Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>37.00120907897908</gpxx:lat>
+      <gpxx:lon>-112.03499176674367</gpxx:lon>
+      <gpxx:y_proj>37.00120907897908</gpxx:y_proj>
+      <gpxx:x_proj>-112.03499176674367</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

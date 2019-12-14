@@ -1,0 +1,281 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="31.909109865847224" minlon="-110.675844446512670" maxlat="32.013628850299931" maxlon="-110.647315065067970" />
+  </metadata>
+  <wpt lat="31.909109865847224" lon="-110.67152749228981">
+    <ele>1243.2386144090467</ele>
+    <name>07-000</name>
+    <cmt>RJ Lakes Rd 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.909109865847224</gpxx:lat>
+      <gpxx:lon>-110.67152749228981</gpxx:lon>
+      <gpxx:y_proj>31.909109865847224</gpxx:y_proj>
+      <gpxx:x_proj>-110.67152749228981</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.910846696215206" lon="-110.66907043990648">
+    <ele>1232.4094427260372</ele>
+    <name>07-002</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.910846696215206</gpxx:lat>
+      <gpxx:lon>-110.66907043990648</gpxx:lon>
+      <gpxx:y_proj>31.910846696215206</gpxx:y_proj>
+      <gpxx:x_proj>-110.66907043990648</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.914224460769205" lon="-110.66780965486693">
+    <ele>1235.5732075953133</ele>
+    <name>07-008</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.914224460769205</gpxx:lat>
+      <gpxx:lon>-110.66780965486693</gpxx:lon>
+      <gpxx:y_proj>31.914224460769205</gpxx:y_proj>
+      <gpxx:x_proj>-110.66780965486693</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.9193786596725" lon="-110.66462668855401">
+    <ele>1264.6061400610188</ele>
+    <name>07-016</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.9193786596725</gpxx:lat>
+      <gpxx:lon>-110.66462668855401</gpxx:lon>
+      <gpxx:y_proj>31.9193786596725</gpxx:y_proj>
+      <gpxx:x_proj>-110.66462668855401</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.927991570976268" lon="-110.66377600792826">
+    <ele>1210.6857105558349</ele>
+    <name>07-027</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.927991570976268</gpxx:lat>
+      <gpxx:lon>-110.66377600792826</gpxx:lon>
+      <gpxx:y_proj>31.927991570976268</gpxx:y_proj>
+      <gpxx:x_proj>-110.66377600792826</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.93404228262072" lon="-110.66906947137377">
+    <ele>1191.679977178462</ele>
+    <name>07-036</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.93404228262072</gpxx:lat>
+      <gpxx:lon>-110.66906947137377</gpxx:lon>
+      <gpxx:y_proj>31.93404228262072</gpxx:y_proj>
+      <gpxx:x_proj>-110.66906947137377</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.937092302984841" lon="-110.67088173193065">
+    <ele>1183.0200786936048</ele>
+    <name>07-038</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.937092302984841</gpxx:lat>
+      <gpxx:lon>-110.67088173193065</gpxx:lon>
+      <gpxx:y_proj>31.937092302984844</gpxx:y_proj>
+      <gpxx:x_proj>-110.67088173193065</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.94633779311275" lon="-110.67584444651267">
+    <ele>1160.2757976134794</ele>
+    <name>07-052</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.94633779311275</gpxx:lat>
+      <gpxx:lon>-110.67584444651267</gpxx:lon>
+      <gpxx:y_proj>31.94633779311275</gpxx:y_proj>
+      <gpxx:x_proj>-110.67584444651267</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.955887099526016" lon="-110.67557500906452">
+    <ele>1136.2965625471093</ele>
+    <name>07-061</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.955887099526016</gpxx:lat>
+      <gpxx:lon>-110.67557500906452</gpxx:lon>
+      <gpxx:y_proj>31.955887099526016</gpxx:y_proj>
+      <gpxx:x_proj>-110.67557500906453</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.962874975674371" lon="-110.6729006389716">
+    <ele>1119.7892846087004</ele>
+    <name>07-067a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.962874975674371</gpxx:lat>
+      <gpxx:lon>-110.6729006389716</gpxx:lon>
+      <gpxx:y_proj>31.962874975674371</gpxx:y_proj>
+      <gpxx:x_proj>-110.6729006389716</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.96317586872205" lon="-110.67282360797527">
+    <ele>1119.0446077362362</ele>
+    <name>07-067b</name>
+    <cmt>RJ Sahuarita Rd Paved</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.96317586872205</gpxx:lat>
+      <gpxx:lon>-110.67282360797527</gpxx:lon>
+      <gpxx:y_proj>31.96317586872205</gpxx:y_proj>
+      <gpxx:x_proj>-110.67282360797529</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.970084604642391" lon="-110.67483313281764">
+    <ele>1106.2310204041678</ele>
+    <name>07-074</name>
+    <cmt>HWY 83 Underpass</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>31.970084604642391</gpxx:lat>
+      <gpxx:lon>-110.67483313281764</gpxx:lon>
+      <gpxx:y_proj>31.970084604642391</gpxx:y_proj>
+      <gpxx:x_proj>-110.67483313281764</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.968510670771348" lon="-110.66704495215457">
+    <ele>1110.2640310665834</ele>
+    <name>07-081</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.968510670771348</gpxx:lat>
+      <gpxx:lon>-110.66704495215457</gpxx:lon>
+      <gpxx:y_proj>31.968510670771352</gpxx:y_proj>
+      <gpxx:x_proj>-110.66704495215457</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.969490865178756" lon="-110.66133833407144">
+    <ele>1136.2181926418089</ele>
+    <name>07-086</name>
+    <cmt>RJ Old Sonoita Hwy Paved</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.969490865178756</gpxx:lat>
+      <gpxx:lon>-110.66133833407144</gpxx:lon>
+      <gpxx:y_proj>31.969490865178756</gpxx:y_proj>
+      <gpxx:x_proj>-110.66133833407144</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.983278989487857" lon="-110.65513391770298">
+    <ele>1111.5377596683502</ele>
+    <name>07-100</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>31.983278989487857</gpxx:lat>
+      <gpxx:lon>-110.65513391770298</gpxx:lon>
+      <gpxx:y_proj>31.983278989487857</gpxx:y_proj>
+      <gpxx:x_proj>-110.655133917703</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.986126325899626" lon="-110.65525956290946">
+    <ele>1102.0324977008686</ele>
+    <name>07-102</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>31.986126325899626</gpxx:lat>
+      <gpxx:lon>-110.65525956290946</gpxx:lon>
+      <gpxx:y_proj>31.986126325899626</gpxx:y_proj>
+      <gpxx:x_proj>-110.65525956290948</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.988416230172081" lon="-110.65662917133028">
+    <ele>1099.0522926686315</ele>
+    <name>07-104</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.988416230172081</gpxx:lat>
+      <gpxx:lon>-110.65662917133028</gpxx:lon>
+      <gpxx:y_proj>31.988416230172085</gpxx:y_proj>
+      <gpxx:x_proj>-110.65662917133029</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.995721825409962" lon="-110.65302830507278">
+    <ele>1068.3576944998044</ele>
+    <name>07-111</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.995721825409962</gpxx:lat>
+      <gpxx:lon>-110.65302830507278</gpxx:lon>
+      <gpxx:y_proj>31.995721825409966</gpxx:y_proj>
+      <gpxx:x_proj>-110.65302830507279</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.996283033505474" lon="-110.65274173905102">
+    <ele>1065.5357043711567</ele>
+    <name>07-112a</name>
+    <cmt>I 10 Eastbound Box Culvert</cmt>
+    <type>Interstat</type>
+    <extensions>
+      <gpxx:lat>31.996283033505474</gpxx:lat>
+      <gpxx:lon>-110.65274173905102</gpxx:lon>
+      <gpxx:y_proj>31.996283033505474</gpxx:y_proj>
+      <gpxx:x_proj>-110.65274173905102</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.996715862566759" lon="-110.65278956008822">
+    <ele>1068.4901669843671</ele>
+    <name>07-112b</name>
+    <cmt>I 10 Westbound Box Culvert</cmt>
+    <type>Interstat</type>
+    <extensions>
+      <gpxx:lat>31.996715862566759</gpxx:lat>
+      <gpxx:lon>-110.65278956008822</gpxx:lon>
+      <gpxx:y_proj>31.996715862566763</gpxx:y_proj>
+      <gpxx:x_proj>-110.65278956008822</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.998474981902415" lon="-110.65111063686327">
+    <ele>1076.3971188389728</ele>
+    <name>07-115</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.998474981902415</gpxx:lat>
+      <gpxx:lon>-110.65111063686327</gpxx:lon>
+      <gpxx:y_proj>31.998474981902415</gpxx:y_proj>
+      <gpxx:x_proj>-110.65111063686327</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.000696915291449" lon="-110.64974451373061">
+    <ele>1076.9391971665962</ele>
+    <name>07-117</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.000696915291449</gpxx:lat>
+      <gpxx:lon>-110.64974451373061</gpxx:lon>
+      <gpxx:y_proj>32.000696915291449</gpxx:y_proj>
+      <gpxx:x_proj>-110.64974451373061</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.013628850299931" lon="-110.64731506506797">
+    <ele>1045.4190907673596</ele>
+    <name>07-127</name>
+    <cmt>Gabe Zimmerman Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.013628850299931</gpxx:lat>
+      <gpxx:lon>-110.64731506506797</gpxx:lon>
+      <gpxx:y_proj>32.013628850299938</gpxx:y_proj>
+      <gpxx:x_proj>-110.64731506506797</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

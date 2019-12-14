@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-000",
+                "cmt": "RJ  Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.17551896671682,
+                    36.55147456171541,
+                    2697.493617173507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-045",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1771922086946,
+                    36.5989105505584,
+                    2638.3232996394327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-047",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.17831721911787,
+                    36.60096354974391,
+                    2638.6265718982795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-063a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1746423800694,
+                    36.61801515011526,
+                    2625.221207134615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-063b",
+                "cmt": "water tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1746423800694,
+                    36.61801515011526,
+                    2625.221207134615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-068",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.17697896404808,
+                    36.623284273626,
+                    2611.75345890796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-083",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1697968470233,
+                    36.63741156685464,
+                    2602.476441474773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-084",
+                "cmt": "FR 205 Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16904303298467,
+                    36.638528011042645,
+                    2602.324880849211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-085",
+                "cmt": "RJ FR 205H 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16857190005527,
+                    36.64018697128056,
+                    2599.106197650717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-086",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16782665302343,
+                    36.641354810474475,
+                    2602.2059842251792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-090",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16864328467533,
+                    36.64633740304614,
+                    2601.4679127686927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-095",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1654624206285,
+                    36.652222286986536,
+                    2601.7487544680507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-099",
+                "cmt": "RJ FR 205 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16468291003157,
+                    36.65786732074313,
+                    2588.4496089799018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-108",
+                "cmt": "RJ FR 20 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.16159627350467,
+                    36.668826167312545,
+                    2566.153461266159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-111a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.15955469645884,
+                    36.67243818989545,
+                    2562.921212597709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-111b",
+                "cmt": "Ridge Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.15931735744215,
+                    36.67274334294885,
+                    2562.305184761415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-150",
+                "cmt": "Big Ridge Tank",
+                "type": "Tank"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18801115628558,
+                    36.71506005139805,
+                    2361.3687656814423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-152",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18842518259619,
+                    36.71737003165995,
+                    2371.9400087390677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-159",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18658919113304,
+                    36.72643006890935,
+                    2334.6708417222944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-161",
+                "cmt": "RJ FR 258 B/C 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18710886557123,
+                    36.729813663298415,
+                    2305.2403007736643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-165",
+                "cmt": "Orderville Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18907906050099,
+                    36.73526738785253,
+                    2293.816785116164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41-166",
+                "cmt": "HWY 89A",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.18892487157976,
+                    36.73636669899969,
+                    2293.348474777
+                ]
+            }
+        }
+    ]
+}

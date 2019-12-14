@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-000",
+                "cmt": "Pine Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44338162111768,
+                    34.37439845798966,
+                    1636.2470157343082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-003",
+                "cmt": "TJ Pineview",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.43999514540054,
+                    34.373846896102414,
+                    1662.7871163309708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-007",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.43437047031871,
+                    34.37428837247377,
+                    1691.6488603363214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-010",
+                "cmt": "TJ Pineview",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.43160161602633,
+                    34.377487746061234,
+                    1729.2848526596567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-026",
+                "cmt": "TJ Donahue",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.42302066830123,
+                    34.37723954850279,
+                    1873.2762971245038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-044a",
+                "cmt": "Red Rock Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.40133401748211,
+                    34.37092538384623,
+                    1836.934795584718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-044b",
+                "cmt": "TJ Red Rock",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.40084210236155,
+                    34.37064279383509,
+                    1833.2563636064135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-055",
+                "cmt": "Pine Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.38959105375528,
+                    34.378477988522285,
+                    1836.1395263671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-083",
+                "cmt": "TJ Geronimo",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.36852890117761,
+                    34.398473920405706,
+                    1689.6180813834503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-084a",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.36743973297827,
+                    34.39868944149535,
+                    1675.5549768703381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-084b",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.36740124397686,
+                    34.39876655450799,
+                    1674.5004609673724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-087",
+                "cmt": "RJ FR 440 (Webber Creek Rd) 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.36569270579703,
+                    34.40075111187228,
+                    1655.830936343396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-104",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.35307899418699,
+                    34.411902845087,
+                    1843.7860499543772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-110",
+                "cmt": "Bear Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3494725255607,
+                    34.41303686244114,
+                    1836.5832069295504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-121",
+                "cmt": "Bray Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.33324107248859,
+                    34.41501268261025,
+                    1907.1837636037171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-135",
+                "cmt": "North Sycamore Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.31872505786468,
+                    34.418320211865314,
+                    1959.0835467606755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-150",
+                "cmt": "Chase Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3014733285538,
+                    34.419883577035186,
+                    1859.6839459091798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-157",
+                "cmt": "Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.29098928678847,
+                    34.42389480616269,
+                    1864.001917356267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-174",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.268904275647,
+                    34.42713186182892,
+                    1847.0993427096664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-183",
+                "cmt": "TJ Washington Park",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.261293670422,
+                    34.43075516074457,
+                    1859.033555225932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-184",
+                "cmt": "TJ Washington Park",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.2602761291976,
+                    34.43048927676486,
+                    1850.9008622698452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-185",
+                "cmt": "East Verde River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25953823612024,
+                    34.43135290792341,
+                    1856.3171156613134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-199",
+                "cmt": "TJ RR Tunnel",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.24918930948137,
+                    34.448971663896614,
+                    2096.050608898534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-200",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25556216602881,
+                    34.440028187325204,
+                    1958.1447922851053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-202a",
+                "cmt": "BND Coconino NF / Tonto NF",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25083953517333,
+                    34.45345015841445,
+                    2208.508357480009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26-202b",
+                "cmt": "RJ FR 300 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25083717220102,
+                    34.453798013461956,
+                    2208.227188784341
+                ]
+            }
+        }
+    ]
+}

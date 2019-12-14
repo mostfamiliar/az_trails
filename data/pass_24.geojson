@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-000",
+                "cmt": "TJ Red Hills",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50525334774723,
+                    34.1784581849599,
+                    1855.354761435976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-003",
+                "cmt": "TJ North Peak Trail #24",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50358849457525,
+                    34.18045511732272,
+                    1812.7669828962494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-012",
+                "cmt": "Seep",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51679800504319,
+                    34.17855359734148,
+                    1722.639125252364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-026",
+                "cmt": "TJ Brush Spring #272",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53485588912145,
+                    34.172236816494674,
+                    1854.5384723008092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-045",
+                "cmt": "Brush Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.54062561942928,
+                    34.18694380217885,
+                    1591.665118027732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-046",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.54086662257528,
+                    34.18818357333423,
+                    1617.4267996289843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-070",
+                "cmt": "TJ Bull Spring Trail #34",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.54787816228773,
+                    34.204867726217515,
+                    1551.8118493702113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-103a",
+                "cmt": "RJ LF Ranch Road 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51616790652497,
+                    34.22401010755725,
+                    1029.998861526137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-103b",
+                "cmt": "RJ LF Ranch Road 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51565336044106,
+                    34.22423742761641,
+                    1027.4484430624425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24-109",
+                "cmt": "East Verde River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51317130336565,
+                    34.22947627846458,
+                    998.5706996620127
+                ]
+            }
+        }
+    ]
+}
