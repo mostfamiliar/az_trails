@@ -1,0 +1,563 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-000",
+                "cmt": "RJ FR 300 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25083717220102,
+                    34.453798013461956,
+                    2208.227188784341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-004",
+                "cmt": "RJ  Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25150655769765,
+                    34.458278397034434,
+                    2186.924141245706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-005",
+                "cmt": "General Springs Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.25072341464028,
+                    34.459498739244076,
+                    2184.475916292131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-014",
+                "cmt": "General Spring Canyon",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.24721358367259,
+                    34.46853351966865,
+                    2157.8364155250247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-033",
+                "cmt": "TJ #28",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.22877760449764,
+                    34.48706809921683,
+                    2128.3270131341233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-039",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23349866469788,
+                    34.490240681385416,
+                    2203.8493576447154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-043",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23428541431058,
+                    34.49584630610406,
+                    2194.9225728646275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-044",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23533270566024,
+                    34.4975752812809,
+                    2185.1263491262953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-045",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23546975576913,
+                    34.4985778654096,
+                    2184.307083686981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-051",
+                "cmt": "RJ FR 123 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23367522893011,
+                    34.50495945237748,
+                    2173.7967443886014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-053",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.2349391974392,
+                    34.50811467973598,
+                    2165.0110534170963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-055",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23483549962562,
+                    34.51065912308776,
+                    2166.1262744169553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-058a",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23655755534989,
+                    34.51533146762684,
+                    2149.1755761754653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-058b",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23650171037855,
+                    34.515820615696484,
+                    2147.914264054817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-068",
+                "cmt": "RJ FR 123A 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23494086615229,
+                    34.52913606559335,
+                    2173.2467655316946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-070",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23661357556838,
+                    34.530143799636896,
+                    2169.214070878956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-077",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23534675207624,
+                    34.53946771297451,
+                    2160.813871481757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-079",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23384275398756,
+                    34.54205905141065,
+                    2155.4577055456166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-084",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23401018359482,
+                    34.54908519635574,
+                    2138.087982243313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-086",
+                "cmt": "East Clear Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.23572926712745,
+                    34.55140342957449,
+                    2051.3671775308144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-104",
+                "cmt": "Rock Crossing Campground",
+                "type": "Campground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.22403278557655,
+                    34.56100080553244,
+                    2244.777892595531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-111a",
+                "cmt": "RJ FR 751 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.22565258063425,
+                    34.56997491766055,
+                    2232.364013671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-111b",
+                "cmt": "Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.22575861166762,
+                    34.57012435767489,
+                    2232.1391422861807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-117",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.21577723659246,
+                    34.56912575509825,
+                    2242.363073376915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-118",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.2153260835827,
+                    34.57010779625688,
+                    2244.13536834328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-122",
+                "cmt": "RJ FR 751B Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.21227120843756,
+                    34.57578905119959,
+                    2250.6640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-138",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.20155157738819,
+                    34.589122089611166,
+                    2133.2115763081765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-140a",
+                "cmt": "RJ FR 138RD Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.20045888241577,
+                    34.59212125907977,
+                    2112.1849923690897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-140b",
+                "cmt": "Blue Ridge Campground",
+                "type": "Campground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.20078885543748,
+                    34.59158222198804,
+                    2115.281147576533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-144",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.19672184203851,
+                    34.59662765090134,
+                    2103.1271490186277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-145",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.19668873813187,
+                    34.59784654906871,
+                    2097.9501597629096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-150",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.19588448850863,
+                    34.60439643600325,
+                    2095.188391932124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-153",
+                "cmt": "Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.20052518161495,
+                    34.606576202038745,
+                    2088.1461477971097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-154a",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.19966133750867,
+                    34.607384079196905,
+                    2085.3001519539353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27-154b",
+                "cmt": "HWY 87",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.19968271153067,
+                    34.60760024822504,
+                    2084.495443825747
+                ]
+            }
+        }
+    ]
+}

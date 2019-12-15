@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-000",
+                "cmt": "RJ FR 4072 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.72345398650722,
+                    31.81055902499046,
+                    1588.193666112712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-002",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.72571064014255,
+                    31.81348495131752,
+                    1601.112379315062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-016",
+                "cmt": "RJ FR 4064 Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7218043842356,
+                    31.82747179255127,
+                    1471.7635868913299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-019",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71919063991372,
+                    31.830694954144263,
+                    1451.5748246021192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-032",
+                "cmt": "RJ FR 231 Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71825439854132,
+                    31.843690843096315,
+                    1406.4517668431117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-041",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.72037064155171,
+                    31.853024957370465,
+                    1479.3085490161416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-046",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71864620440535,
+                    31.856195941915086,
+                    1413.4469300335186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-054",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71774064163748,
+                    31.862774958922618,
+                    1420.5363791539708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-057",
+                "cmt": "RJ FR 4062 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71670436166463,
+                    31.866508598518248,
+                    1417.3216134315255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-068",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7085616994512,
+                    31.87316607186901,
+                    1402.268011275397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-071",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.70568947268148,
+                    31.870086425548443,
+                    1393.681979437427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-104a",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69692048860512,
+                    31.89677641686954,
+                    1368.518558761241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-104b",
+                "cmt": "BND Coronado NF",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6962877454808,
+                    31.896817343904583,
+                    1365.4655463536494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-114",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69078502088122,
+                    31.904801721329523,
+                    1314.810030051593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "06-131",
+                "cmt": "RJ Lakes Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.67152749228981,
+                    31.909109865847224,
+                    1243.2386144090467
+                ]
+            }
+        }
+    ]
+}

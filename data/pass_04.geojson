@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-000",
+                "cmt": "Patagonia Post Office",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75186842660514,
+                    31.541592525068307,
+                    1241.9505196997397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-003",
+                "cmt": "HWY 82",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74810793999451,
+                    31.543929193581423,
+                    1242.475691158175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-013",
+                "cmt": "RJ  Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75010924220439,
+                    31.557219783455817,
+                    1278.7180890149107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-014",
+                "cmt": "RJ  Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75120976253784,
+                    31.559076776680957,
+                    1282.9521707475824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-015",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7531880080233,
+                    31.560543726809236,
+                    1296.3483540992706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-023",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76179558711223,
+                    31.566546360310976,
+                    1368.4903414934788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-024",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76281182641736,
+                    31.568213503511654,
+                    1368.8471742146298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-032",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76200964790027,
+                    31.578755372103846,
+                    1381.9593237485822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-034",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76209157404107,
+                    31.580792055400792,
+                    1392.1417333998556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-037",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76381383058687,
+                    31.584083438809497,
+                    1407.2262187585086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-048",
+                "cmt": "Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77168357273624,
+                    31.593477731843095,
+                    1383.8976115043795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-057",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77637434226038,
+                    31.60304365404376,
+                    1444.3000353373516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-066",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.78479770688409,
+                    31.602036173517376,
+                    1357.8529138416545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-068",
+                "cmt": "Temporal Gulch Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.78795862258835,
+                    31.603209541548605,
+                    1350.4105920360598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-073",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79007982940415,
+                    31.609599539395433,
+                    1361.8136262085268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-077",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79176283011617,
+                    31.615722199222308,
+                    1374.3897299535183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-078",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79233659232537,
+                    31.617262082423462,
+                    1377.1673151292982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-089",
+                "cmt": "Anaconda Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80024343766551,
+                    31.62962155088912,
+                    1444.406085501154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-115",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81165475972787,
+                    31.658561856636318,
+                    1716.9676445062396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-123",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81537248409198,
+                    31.668630489950097,
+                    1735.0155059528192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-126",
+                "cmt": "Walker Basin Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81646294150805,
+                    31.671841265373242,
+                    1735.4108758536568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-133",
+                "cmt": "BND Mt.  Wrightson Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82136463585836,
+                    31.677839473034215,
+                    1930.2598923498576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-136a",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82275182525423,
+                    31.679758451253758,
+                    1999.7129093575631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-136b",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82274863527034,
+                    31.680030454293917,
+                    2000.4239884998033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-155",
+                "cmt": "Casa Blanca Canyon",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80544715100001,
+                    31.683099447526654,
+                    1728.289716324902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-156",
+                "cmt": "Bear Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80354417164176,
+                    31.683460832665716,
+                    1725.65501501065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-172",
+                "cmt": "BND Mt. Wrightson Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79500905239615,
+                    31.690934145150724,
+                    1719.7845591327732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-188",
+                "cmt": "Tunnel Spring Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79299690267817,
+                    31.70200373087002,
+                    1716.4045786815464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-199",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77521388641574,
+                    31.70678808737835,
+                    1650.025082318332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-212",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76120013199348,
+                    31.712972869922627,
+                    1619.8782129264646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-214",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75991879986267,
+                    31.71500287827939,
+                    1606.7844853294066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04-218",
+                "cmt": "RJ Gardner Canyon Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75689113350407,
+                    31.718998489004505,
+                    1592.1107047703504
+                ]
+            }
+        }
+    ]
+}

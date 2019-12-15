@@ -1,0 +1,161 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-000",
+                "cmt": "Parker Canyon Lake Trailhead / FR 194",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.44183206597653,
+                    31.419551249687075,
+                    1728.9739581393233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-024",
+                "cmt": "Parker Canyon",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.47386826043393,
+                    31.419652545290045,
+                    1581.2622249167991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-037",
+                "cmt": "Trap Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.47924616532227,
+                    31.43308511405681,
+                    1639.9914426384457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-040",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.48112460994038,
+                    31.437081931570034,
+                    1693.7964980415654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-061",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.49747163739484,
+                    31.45645046573499,
+                    1847.8867777898893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-085",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.51174185634022,
+                    31.47428085075923,
+                    1671.1343926490476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-103",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.52895708036368,
+                    31.483576211379887,
+                    1651.6523491495561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-123",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.54463596531191,
+                    31.496745439643217,
+                    1824.8564429276157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-141",
+                "cmt": "RJ FR 799 Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.55749113883778,
+                    31.512307127385398,
+                    1623.7990789115634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "02-142",
+                "cmt": "Canelo Pass Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.55828819803301,
+                    31.512885796435935,
+                    1629.4104325768708
+                ]
+            }
+        }
+    ]
+}

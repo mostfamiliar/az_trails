@@ -1,0 +1,546 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-000a",
+                "cmt": "HWY 87 Southbound Box Culvert",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47399021989183,
+                    33.86243101545149,
+                    1059.7721118301563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-000b",
+                "cmt": "HWY 87 Northbound Box Culvert",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47321777774405,
+                    33.86249980550225,
+                    1058.3622733358143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-000c",
+                "cmt": "HWY 87 Underpass",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47280606466144,
+                    33.862486872522524,
+                    1048.2371089546923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-006",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4788459280565,
+                    33.86506233755287,
+                    1084.1397329095105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-013",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47901684968006,
+                    33.872727078595695,
+                    1082.478084669566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-016a",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48040495833608,
+                    33.877675292200344,
+                    1073.1739317682154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-016b",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4805330263987,
+                    33.87815898725987,
+                    1072.948649876484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-023",
+                "cmt": "Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48594835091,
+                    33.88384722475012,
+                    1100.1688411450666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-025",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49036093689053,
+                    33.885225207702604,
+                    1110.691138522698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-034",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49898568817036,
+                    33.892633609256045,
+                    1140.7175316503033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-039",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49428093862406,
+                    33.89763520919412,
+                    1158.0101875272421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-044a",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49453093918734,
+                    33.904292378093295,
+                    1199.6824578563442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-044b",
+                "cmt": "RJ FR 393 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49448946323726,
+                    33.90504511719871,
+                    1197.0061857397166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-049",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49537496680274,
+                    33.91009611984347,
+                    1180.213977115781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-051",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49321172852933,
+                    33.91210577923502,
+                    1206.5647094341366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-052",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49445793776725,
+                    33.9119896211522,
+                    1219.5076058730606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-054",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49704995035925,
+                    33.91300457515208,
+                    1210.7148369590518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-059",
+                "cmt": "Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49710616789166,
+                    33.91974918907323,
+                    1279.2910764760763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-065",
+                "cmt": "BND Mazatzal Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5041621816734,
+                    33.92471287237398,
+                    1372.967673915605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-068",
+                "cmt": "Leave Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5075599466083,
+                    33.92809751165492,
+                    1377.894094528908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-072a",
+                "cmt": "Ridge",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51246191961158,
+                    33.92851447144843,
+                    1412.0082029648688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-072b",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51271558266939,
+                    33.92861263444823,
+                    1408.5282919497172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-084",
+                "cmt": "RJ FR 25 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5088648738067,
+                    33.94023838524704,
+                    1536.6431833595288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-113",
+                "cmt": "RJ FR 25 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50819788146958,
+                    33.963386370451,
+                    1603.9958804396458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-119",
+                "cmt": "TJ #88",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50812282189254,
+                    33.969025515226505,
+                    1496.737198579628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-121",
+                "cmt": "BND Mazatzal Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50436159624272,
+                    33.9702524935972,
+                    1480.2728203131412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-126",
+                "cmt": "trail briefly joins a wash",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49902094543557,
+                    33.97348521932745,
+                    1487.8692544318205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-130",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49304843347346,
+                    33.976334784039445,
+                    1559.9721095392713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-133",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4907154449208,
+                    33.975172423006256,
+                    1568.3688970025034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-140",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48305399227898,
+                    33.97358586520224,
+                    1435.8913211131912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-148",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48458092525615,
+                    33.98226515930774,
+                    1526.5100106063837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-155",
+                "cmt": "TJ Cornucopia #86",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48486882597366,
+                    33.99075650545411,
+                    1597.6667689701007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-156",
+                "cmt": "Trail to Thicket Spring",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48455941004485,
+                    33.99245938970378,
+                    1627.0668246221603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22-166",
+                "cmt": "Mt Peeley Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47734014635536,
+                    34.001986746397094,
+                    1761.982382481155
+                ]
+            }
+        }
+    ]
+}

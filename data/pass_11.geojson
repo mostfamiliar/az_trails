@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-000",
+                "cmt": "Gordon Hiabayashi Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71986924457029,
+                    32.33612321594903,
+                    1476.3213390442256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-010",
+                "cmt": "BND Push Ridge Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73385200876551,
+                    32.342030069141266,
+                    1528.4974338031595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-022",
+                "cmt": "Sycamore Reservoir",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74611765572642,
+                    32.34961013065728,
+                    1336.8808697221243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-029",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75393970068177,
+                    32.35545892213306,
+                    1369.3273780231584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-032a",
+                "cmt": "Sycamore Canyon",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75598304434008,
+                    32.35921702158071,
+                    1389.0484945176145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-032b",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75717221458684,
+                    32.359342486542204,
+                    1400.6437955250085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-042",
+                "cmt": "TJ Palisade",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76087783963658,
+                    32.36397759003762,
+                    1259.769261707465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-052a",
+                "cmt": "Sabino Canyon",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77351308228532,
+                    32.36572763368862,
+                    1125.7666649577584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-052b",
+                "cmt": "TJ Sabino Canyon",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77318915122078,
+                    32.36573328570492,
+                    1128.6365077707164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-067",
+                "cmt": "Hutchs Pool",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79246576562444,
+                    32.3738948459675,
+                    1183.3434232254035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-099",
+                "cmt": "TJ Cathedral",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82577396638983,
+                    32.39038415776303,
+                    1609.7415649679162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-116",
+                "cmt": "TJ Romero Pass Trail",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.83028138188311,
+                    32.39927635283357,
+                    1843.2414672991958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-133",
+                "cmt": "TJ Wilderness of Rocks",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81771650098321,
+                    32.40853948277463,
+                    2219.5849878125546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-139",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80979908559287,
+                    32.41147570157844,
+                    2177.981223694202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-149",
+                "cmt": "Lemmon Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79901993278753,
+                    32.41679270986384,
+                    2170.737060546875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-172",
+                "cmt": "TJ Marshal Gulch",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.77316014254808,
+                    32.43094679715127,
+                    2430.275517286834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-183",
+                "cmt": "BND Pusch Ridge Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75769039122314,
+                    32.42759556040775,
+                    2290.0519676978593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11-185",
+                "cmt": "Marshal Gulch Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75569256487202,
+                    32.42833903961117,
+                    2268.5671804939807
+                ]
+            }
+        }
+    ]
+}

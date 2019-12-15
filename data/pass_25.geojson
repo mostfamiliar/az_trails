@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-000",
+                "cmt": "East Verde River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51317130336565,
+                    34.22947627846458,
+                    998.5706996620127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-006",
+                "cmt": "Polk Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51032954729189,
+                    34.23562988645679,
+                    1066.182494733993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-024",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.52039268302336,
+                    34.25742542386445,
+                    1289.2345370325056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-032",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5190909725959,
+                    34.267835258349294,
+                    1313.577738066003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-037",
+                "cmt": "Whiterock Spring",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51360846586068,
+                    34.27224068024903,
+                    1330.6479129884522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-079",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53654029330785,
+                    34.320982337595424,
+                    1645.9667905488222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-088",
+                "cmt": "BND Mazatzal Wilderness",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53936638987344,
+                    34.33350830313625,
+                    1691.707287860445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-095",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5442109835501,
+                    34.34242526707595,
+                    1731.443754943275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-103",
+                "cmt": "Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.55195503181547,
+                    34.35151251787765,
+                    1757.7629155650372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-107",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.55651515897009,
+                    34.35463247704745,
+                    1774.329154375077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-110",
+                "cmt": "RJ FR 194 Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.55731462349837,
+                    34.359227138624874,
+                    1781.8110765863316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-122",
+                "cmt": "RJ Powerline Road 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.54414570684851,
+                    34.37114138596635,
+                    1814.973542322561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-135",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5278901927523,
+                    34.360292379398295,
+                    1836.6940994619895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-142",
+                "cmt": "Rock Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51698742021689,
+                    34.3556512403733,
+                    1843.3064191594408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-145",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.51305957329153,
+                    34.35383089234405,
+                    1858.3655689540697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-148",
+                "cmt": "RJ FR 251 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50799670711012,
+                    34.35162717932561,
+                    1873.680506727213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-153",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.50343179478698,
+                    34.346432440874146,
+                    1871.1475496575408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-159",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.49414059584927,
+                    34.345256974228626,
+                    1900.6170151898082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-168",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48940860497801,
+                    34.33364963991616,
+                    1818.5552075642804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-170a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48713123653869,
+                    34.33380564206312,
+                    1798.3393389982214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-170b",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4867409714837,
+                    34.3340852691226,
+                    1802.9634431199274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-176",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48113637685037,
+                    34.34004753124109,
+                    1757.2873709580454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-178",
+                "cmt": "TJ #251",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47839081233874,
+                    34.340461378448985,
+                    1786.8008048369388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-182",
+                "cmt": "Ridge Tank",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4720280192535,
+                    34.34267240510064,
+                    1724.3620917610265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-190",
+                "cmt": "TJ #16",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47356393421116,
+                    34.35079464511745,
+                    1579.8786855640517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-192",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.47451487853023,
+                    34.35241536928469,
+                    1584.2177539316795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-210",
+                "cmt": "Bradshaw Tank seasonal",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.4571736663169,
+                    34.36769409231652,
+                    1642.503493225723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-215",
+                "cmt": "Pine Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.45217049053747,
+                    34.370352971954205,
+                    1608.271051839337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-217",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44834751482304,
+                    34.37090964124139,
+                    1620.75729617698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-218",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44710342954538,
+                    34.37052989525874,
+                    1625.3405644031063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-222",
+                "cmt": "HWY 87",
+                "type": "Highway J"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44053903517167,
+                    34.36966297750457,
+                    1653.6211324649976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-226",
+                "cmt": "TJ Pine Trailhead",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44375965111838,
+                    34.37347535184349,
+                    1634.849638548452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25-227",
+                "cmt": "Pine Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44338162111768,
+                    34.37439845798966,
+                    1636.2470157343082
+                ]
+            }
+        }
+    ]
+}

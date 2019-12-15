@@ -1,0 +1,419 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-000",
+                "cmt": "Gila River River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97458345321226,
+                    33.102840215461526,
+                    534.928836148321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-001",
+                "cmt": "RJ Centurian Road Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97432575122347,
+                    33.10372004259924,
+                    545.1216971781677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-002",
+                "cmt": "Mineral Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97469795937907,
+                    33.104858618741794,
+                    536.8142118437634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-008",
+                "cmt": "RJ End of Centurian Road Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.98276674217459,
+                    33.10741660869656,
+                    545.8421253439307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-026",
+                "cmt": "Trail Marker",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.99473693745375,
+                    33.105828066866664,
+                    650.8271180245445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-035",
+                "cmt": "East Gate",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.00161741383303,
+                    33.105889024527656,
+                    532.4640952583098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-065",
+                "cmt": "Wash Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.03001931517622,
+                    33.11527118141973,
+                    545.2000666631292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-100",
+                "cmt": "Large Cairn",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.066179218523,
+                    33.11706920184477,
+                    525.4992846087378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-102",
+                "cmt": "ATV Barrier",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.06984925333742,
+                    33.118218517821525,
+                    519.8581563704602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-105",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.07098759562575,
+                    33.11907448588486,
+                    526.3163000997489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-116",
+                "cmt": "Walnut Canyon Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.08875153597971,
+                    33.11641959561092,
+                    515.8014532201771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-122",
+                "cmt": "RJ Wash Road 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.09832090971017,
+                    33.113929064774986,
+                    511.2199959252821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-132",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.10813104726552,
+                    33.108319948486695,
+                    513.6576932348985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-144",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1202696325014,
+                    33.105745812509376,
+                    518.6440047374062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-145",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.12140563467514,
+                    33.10500869934787,
+                    511.78413330910536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-158",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13784523136948,
+                    33.11086704934298,
+                    513.3262840566226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-163a",
+                "cmt": "Leave Gila River",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14462392584161,
+                    33.11256974124012,
+                    502.09711243027147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-163b",
+                "cmt": "RJ Rincon Road 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14468443185962,
+                    33.11265314224887,
+                    502.17710468241603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-165",
+                "cmt": "RJ Rincon Road 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14317669481436,
+                    33.11622248382861,
+                    549.5369760589574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-185",
+                "cmt": "Drainage Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14053715152949,
+                    33.133569846408534,
+                    687.9899076395063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-186",
+                "cmt": "Wash",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14156939875305,
+                    33.133819623391446,
+                    683.0359627543144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-188",
+                "cmt": "RJ  2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1440418653958,
+                    33.13591634156167,
+                    735.3787019975384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-236",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14561081467458,
+                    33.16333512534593,
+                    1064.1663765106698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-256",
+                "cmt": "BND Tonto NF",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13733237506547,
+                    33.177814058806234,
+                    1086.9006894540514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-258",
+                "cmt": "RJ Ajax Road 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13809381131455,
+                    33.17916779195814,
+                    1101.522334873274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16-260",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13718081426907,
+                    33.18106512827183,
+                    1123.5670413208231
+                ]
+            }
+        }
+    ]
+}

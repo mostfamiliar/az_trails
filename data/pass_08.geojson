@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-000",
+                "cmt": "Gabe Zimmerman Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64731506506797,
+                    32.01362885029993,
+                    1045.4190907673596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-004",
+                "cmt": "Cienega Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64294294746968,
+                    32.0180087341447,
+                    1010.5446969929632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-005",
+                "cmt": "Railroad Jct Underpass",
+                "type": "Railroad "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64371090370908,
+                    32.01934212830452,
+                    1007.8179111476446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-009",
+                "cmt": "RJ  2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64166181449473,
+                    32.02242816385192,
+                    1038.3300286057874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-012a",
+                "cmt": "RJ Marsh Station Rd Paved",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64568218218946,
+                    32.020664677406955,
+                    1027.8600757342404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-012b",
+                "cmt": "Railroad Jct Underpass",
+                "type": "Railroad "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64623050128165,
+                    32.02038384734036,
+                    1027.3640648084258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-016",
+                "cmt": "FENCE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64888063796727,
+                    32.02278498556939,
+                    1029.6641779602876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-024",
+                "cmt": "Gas Pipeline",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64100574276928,
+                    32.02878369081392,
+                    1038.0938637461772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-028a",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64075506205356,
+                    32.034015170592276,
+                    1061.877393824019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-028b",
+                "cmt": "RJ Powerline Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64068007805875,
+                    32.034332235642204,
+                    1059.8000870694273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-034",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63438063602402,
+                    32.037934988462716,
+                    1085.193210067625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-040",
+                "cmt": "Saddle",
+                "type": "Landmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63198012099386,
+                    32.044995814608995,
+                    1121.0890759547326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-047",
+                "cmt": "TJ Spur",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63683424518602,
+                    32.04838344387976,
+                    1051.3347745875012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-054",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63111292117347,
+                    32.050518779458564,
+                    1040.7543832827487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-055",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62965063588139,
+                    32.05054499053041,
+                    1047.5918238597878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-058",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63039349410595,
+                    32.05171976166799,
+                    1050.4134109500017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-060",
+                "cmt": "TJ",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63171869149272,
+                    32.05360002688188,
+                    1061.1391605092126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-066a",
+                "cmt": "RJ  Road Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62982961151205,
+                    32.05981982488101,
+                    1060.4862504002153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-066b",
+                "cmt": "RJ  Road Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62965364048188,
+                    32.05990107190108,
+                    1062.5226586201347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-072",
+                "cmt": "La Selvilla Campground",
+                "type": "Campground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62254777432179,
+                    32.064071996842756,
+                    1082.7384543599815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-083",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.61810445506273,
+                    32.07394470949601,
+                    1103.2302297516594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-085",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62016644259653,
+                    32.07580400767235,
+                    1108.529756563227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-088",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62180227505627,
+                    32.07784216389472,
+                    1097.399902940158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-089",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62248504820826,
+                    32.07807247089664,
+                    1093.9368470789905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-090",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62352775246279,
+                    32.07877315195069,
+                    1090.9489324934918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-097",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6270792536677,
+                    32.086414041904064,
+                    1075.5503051203498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-100a",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62477516739074,
+                    32.089305309434835,
+                    1066.8948308479055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-100b",
+                "cmt": "Electrical Lines",
+                "type": "Utility"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6246796393777,
+                    32.089401684453456,
+                    1066.3058797650713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-102a",
+                "cmt": "RJ Pistol Hill Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62442745344973,
+                    32.09130887074444,
+                    1063.1724995142472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-102b",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.62461063749149,
+                    32.09138499674706,
+                    1062.4705674361874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-119",
+                "cmt": "RJ X9 Ranch Rd Dirt/Gravel",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63214341017422,
+                    32.109537217052385,
+                    999.6723700191098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-127",
+                "cmt": "RJ Dorotea Rd 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63559140445786,
+                    32.11869717223147,
+                    973.7163890703154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-128",
+                "cmt": "RJ  2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6361971586254,
+                    32.11940764730707,
+                    974.7904899159771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-134",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64323064340944,
+                    32.1251550008188,
+                    945.4488363882733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-137",
+                "cmt": "Rincon Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64286383653456,
+                    32.128233430286066,
+                    940.4601293434149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08-139",
+                "cmt": "BND East Saguaro NP",
+                "type": "Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64471848399788,
+                    32.129637868404664,
+                    950.1877801990063
+                ]
+            }
+        }
+    ]
+}

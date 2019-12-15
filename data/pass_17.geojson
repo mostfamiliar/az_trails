@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-000a",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13718081426907,
+                    33.18106512827183,
+                    1123.5670413208231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-000b",
+                "cmt": "RJ Ajax Road 2 Track Join",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1371951542726,
+                    33.18107460027242,
+                    1123.6157020553828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-001",
+                "cmt": "RJ Ajax Road 2 Track Leave",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1378242574594,
+                    33.18192882436073,
+                    1126.8139395155497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-010",
+                "cmt": "Drainage Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13508299946913,
+                    33.18965583758838,
+                    1050.1281940567028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-020",
+                "cmt": "GATE",
+                "type": "Structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.13806129667218,
+                    33.19811953262846,
+                    1096.2887488135073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-041",
+                "cmt": "RJ FR 4 2 Track",
+                "type": "Road Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.14799609705169,
+                    33.21753227885419,
+                    968.2384897394826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-092",
+                "cmt": "Drainage Creek",
+                "type": "Water"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.16912139356603,
+                    33.249427797259564,
+                    805.3989249630282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-112",
+                "cmt": "TJ Picketpost",
+                "type": "Trail Jct"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.17402366580421,
+                    33.2668378094541,
+                    744.0266250321661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17-117",
+                "cmt": "PicketPost  Trailhead",
+                "type": "Trailhead"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.17626684262542,
+                    33.27199866606389,
+                    730.2584530792308
+                ]
+            }
+        }
+    ]
+}
