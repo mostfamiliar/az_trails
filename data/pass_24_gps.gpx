@@ -1,0 +1,125 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="34.172236816494674" minlon="-111.547878162287730" maxlat="34.229476278464581" maxlon="-111.503588494575250" />
+  </metadata>
+  <wpt lat="34.178458184959901" lon="-111.50525334774723">
+    <ele>1855.3547614359759</ele>
+    <name>24-000</name>
+    <cmt>TJ Red Hills</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.178458184959901</gpxx:lat>
+      <gpxx:lon>-111.50525334774723</gpxx:lon>
+      <gpxx:y_proj>34.178458184959901</gpxx:y_proj>
+      <gpxx:x_proj>-111.50525334774723</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.180455117322722" lon="-111.50358849457525">
+    <ele>1812.7669828962494</ele>
+    <name>24-003</name>
+    <cmt>TJ North Peak Trail #24</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.180455117322722</gpxx:lat>
+      <gpxx:lon>-111.50358849457525</gpxx:lon>
+      <gpxx:y_proj>34.180455117322722</gpxx:y_proj>
+      <gpxx:x_proj>-111.50358849457525</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.178553597341477" lon="-111.51679800504319">
+    <ele>1722.639125252364</ele>
+    <name>24-012</name>
+    <cmt>Seep</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.178553597341477</gpxx:lat>
+      <gpxx:lon>-111.51679800504319</gpxx:lon>
+      <gpxx:y_proj>34.178553597341477</gpxx:y_proj>
+      <gpxx:x_proj>-111.51679800504319</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.172236816494674" lon="-111.53485588912145">
+    <ele>1854.5384723008092</ele>
+    <name>24-026</name>
+    <cmt>TJ Brush Spring #272</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.172236816494674</gpxx:lat>
+      <gpxx:lon>-111.53485588912145</gpxx:lon>
+      <gpxx:y_proj>34.172236816494674</gpxx:y_proj>
+      <gpxx:x_proj>-111.53485588912145</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.186943802178853" lon="-111.54062561942928">
+    <ele>1591.665118027732</ele>
+    <name>24-045</name>
+    <cmt>Brush Tank</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.186943802178853</gpxx:lat>
+      <gpxx:lon>-111.54062561942928</gpxx:lon>
+      <gpxx:y_proj>34.186943802178853</gpxx:y_proj>
+      <gpxx:x_proj>-111.54062561942928</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.188183573334229" lon="-111.54086662257528">
+    <ele>1617.4267996289843</ele>
+    <name>24-046</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.188183573334229</gpxx:lat>
+      <gpxx:lon>-111.54086662257528</gpxx:lon>
+      <gpxx:y_proj>34.188183573334229</gpxx:y_proj>
+      <gpxx:x_proj>-111.54086662257528</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.204867726217515" lon="-111.54787816228773">
+    <ele>1551.8118493702113</ele>
+    <name>24-070</name>
+    <cmt>TJ Bull Spring Trail #34</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.204867726217515</gpxx:lat>
+      <gpxx:lon>-111.54787816228773</gpxx:lon>
+      <gpxx:y_proj>34.204867726217515</gpxx:y_proj>
+      <gpxx:x_proj>-111.54787816228773</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.224010107557248" lon="-111.51616790652497">
+    <ele>1029.998861526137</ele>
+    <name>24-103a</name>
+    <cmt>RJ LF Ranch Road 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>34.224010107557248</gpxx:lat>
+      <gpxx:lon>-111.51616790652497</gpxx:lon>
+      <gpxx:y_proj>34.224010107557248</gpxx:y_proj>
+      <gpxx:x_proj>-111.51616790652497</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.224237427616409" lon="-111.51565336044106">
+    <ele>1027.4484430624425</ele>
+    <name>24-103b</name>
+    <cmt>RJ LF Ranch Road 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>34.224237427616409</gpxx:lat>
+      <gpxx:lon>-111.51565336044106</gpxx:lon>
+      <gpxx:y_proj>34.224237427616409</gpxx:y_proj>
+      <gpxx:x_proj>-111.51565336044106</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.229476278464581" lon="-111.51317130336565">
+    <ele>998.57069966201266</ele>
+    <name>24-109</name>
+    <cmt>East Verde River</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.229476278464581</gpxx:lat>
+      <gpxx:lon>-111.51317130336565</gpxx:lon>
+      <gpxx:y_proj>34.229476278464581</gpxx:y_proj>
+      <gpxx:x_proj>-111.51317130336567</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

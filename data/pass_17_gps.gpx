@@ -1,0 +1,113 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="33.181065128271833" minlon="-111.176266842625420" maxlat="33.271998666063887" maxlon="-111.135082999469130" />
+  </metadata>
+  <wpt lat="33.181065128271833" lon="-111.13718081426907">
+    <ele>1123.5670413208231</ele>
+    <name>17-000a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.181065128271833</gpxx:lat>
+      <gpxx:lon>-111.13718081426907</gpxx:lon>
+      <gpxx:y_proj>33.181065128271833</gpxx:y_proj>
+      <gpxx:x_proj>-111.13718081426907</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.181074600272417" lon="-111.1371951542726">
+    <ele>1123.6157020553828</ele>
+    <name>17-000b</name>
+    <cmt>RJ Ajax Road 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.181074600272417</gpxx:lat>
+      <gpxx:lon>-111.1371951542726</gpxx:lon>
+      <gpxx:y_proj>33.181074600272417</gpxx:y_proj>
+      <gpxx:x_proj>-111.13719515427262</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.181928824360732" lon="-111.1378242574594">
+    <ele>1126.8139395155497</ele>
+    <name>17-001</name>
+    <cmt>RJ Ajax Road 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.181928824360732</gpxx:lat>
+      <gpxx:lon>-111.1378242574594</gpxx:lon>
+      <gpxx:y_proj>33.181928824360732</gpxx:y_proj>
+      <gpxx:x_proj>-111.1378242574594</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.189655837588383" lon="-111.13508299946913">
+    <ele>1050.1281940567028</ele>
+    <name>17-010</name>
+    <cmt>Drainage Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.189655837588383</gpxx:lat>
+      <gpxx:lon>-111.13508299946913</gpxx:lon>
+      <gpxx:y_proj>33.189655837588383</gpxx:y_proj>
+      <gpxx:x_proj>-111.13508299946913</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.198119532628461" lon="-111.13806129667218">
+    <ele>1096.2887488135073</ele>
+    <name>17-020</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.198119532628461</gpxx:lat>
+      <gpxx:lon>-111.13806129667218</gpxx:lon>
+      <gpxx:y_proj>33.198119532628461</gpxx:y_proj>
+      <gpxx:x_proj>-111.13806129667218</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.217532278854193" lon="-111.14799609705169">
+    <ele>968.23848973948259</ele>
+    <name>17-041</name>
+    <cmt>RJ FR 4 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.217532278854193</gpxx:lat>
+      <gpxx:lon>-111.14799609705169</gpxx:lon>
+      <gpxx:y_proj>33.2175322788542</gpxx:y_proj>
+      <gpxx:x_proj>-111.1479960970517</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.249427797259564" lon="-111.16912139356603">
+    <ele>805.39892496302821</ele>
+    <name>17-092</name>
+    <cmt>Drainage Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.249427797259564</gpxx:lat>
+      <gpxx:lon>-111.16912139356603</gpxx:lon>
+      <gpxx:y_proj>33.249427797259564</gpxx:y_proj>
+      <gpxx:x_proj>-111.16912139356604</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.266837809454103" lon="-111.17402366580421">
+    <ele>744.02662503216607</ele>
+    <name>17-112</name>
+    <cmt>TJ Picketpost</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.266837809454103</gpxx:lat>
+      <gpxx:lon>-111.17402366580421</gpxx:lon>
+      <gpxx:y_proj>33.266837809454103</gpxx:y_proj>
+      <gpxx:x_proj>-111.17402366580421</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.271998666063887" lon="-111.17626684262542">
+    <ele>730.25845307923078</ele>
+    <name>17-117</name>
+    <cmt>PicketPost  Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.271998666063887</gpxx:lat>
+      <gpxx:lon>-111.17626684262542</gpxx:lon>
+      <gpxx:y_proj>33.271998666063887</gpxx:y_proj>
+      <gpxx:x_proj>-111.17626684262544</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

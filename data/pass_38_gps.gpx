@@ -1,0 +1,341 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="36.053405012465085" minlon="-112.096085123984050" maxlat="36.217241156978481" maxlon="-112.031979584247990" />
+  </metadata>
+  <wpt lat="36.053405012465085" lon="-112.0834758768904">
+    <ele>2196.5288996365261</ele>
+    <name>38-000</name>
+    <cmt>South Kaibab Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>36.053405012465085</gpxx:lat>
+      <gpxx:lon>-112.0834758768904</gpxx:lon>
+      <gpxx:y_proj>36.053405012465085</gpxx:y_proj>
+      <gpxx:x_proj>-112.0834758768904</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.064106877459373" lon="-112.08946926507471">
+    <ele>1851.9348235615585</ele>
+    <name>38-014</name>
+    <cmt>Cedar Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>36.064106877459373</gpxx:lat>
+      <gpxx:lon>-112.08946926507471</gpxx:lon>
+      <gpxx:y_proj>36.064106877459373</gpxx:y_proj>
+      <gpxx:x_proj>-112.08946926507471</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.090064896803732" lon="-112.08889248639929">
+    <ele>1224.2013527411864</ele>
+    <name>38-047</name>
+    <cmt>TJ Tonto</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.090064896803732</gpxx:lat>
+      <gpxx:lon>-112.08889248639929</gpxx:lon>
+      <gpxx:y_proj>36.090064896803732</gpxx:y_proj>
+      <gpxx:x_proj>-112.0888924863993</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.091461164915316" lon="-112.08996324374158">
+    <ele>1199.4058766318014</ele>
+    <name>38-048</name>
+    <cmt>The Tipoff</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>36.091461164915316</gpxx:lat>
+      <gpxx:lon>-112.08996324374158</gpxx:lon>
+      <gpxx:y_proj>36.091461164915316</gpxx:y_proj>
+      <gpxx:x_proj>-112.08996324374158</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.099467575995845" lon="-112.08898671430239">
+    <ele>811.35687151168622</ele>
+    <name>38-065</name>
+    <cmt>TJ River</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.099467575995845</gpxx:lat>
+      <gpxx:lon>-112.08898671430239</gpxx:lon>
+      <gpxx:y_proj>36.099467575995853</gpxx:y_proj>
+      <gpxx:x_proj>-112.08898671430239</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.100341314115447" lon="-112.08885251235814">
+    <ele>763.77412483045805</ele>
+    <name>38-067</name>
+    <cmt>Tunnel</cmt>
+    <type>Tunnel</type>
+    <extensions>
+      <gpxx:lat>36.100341314115447</gpxx:lat>
+      <gpxx:lon>-112.08885251235814</gpxx:lon>
+      <gpxx:y_proj>36.100341314115447</gpxx:y_proj>
+      <gpxx:x_proj>-112.08885251235814</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.10102088916608" lon="-112.08943214953629">
+    <ele>738.18260157453324</ele>
+    <name>38-068</name>
+    <cmt>Kaibab "Black" Suspension</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.10102088916608</gpxx:lat>
+      <gpxx:lon>-112.08943214953629</gpxx:lon>
+      <gpxx:y_proj>36.10102088916608</gpxx:y_proj>
+      <gpxx:x_proj>-112.08943214953629</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.100172848877357" lon="-112.09234746503088">
+    <ele>753.94796689468535</ele>
+    <name>38-070</name>
+    <cmt>TJ Beach</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.100172848877357</gpxx:lat>
+      <gpxx:lon>-112.09234746503088</gpxx:lon>
+      <gpxx:y_proj>36.100172848877357</gpxx:y_proj>
+      <gpxx:x_proj>-112.09234746503088</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.099970118745695" lon="-112.09405496734816">
+    <ele>750.20134260506302</ele>
+    <name>38-071a</name>
+    <cmt>TJ Bright Angel Trail/Campground</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.099970118745695</gpxx:lat>
+      <gpxx:lon>-112.09405496734816</gpxx:lon>
+      <gpxx:y_proj>36.099970118745695</gpxx:y_proj>
+      <gpxx:x_proj>-112.09405496734816</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.099735979721551" lon="-112.0939635953081">
+    <ele>750.34984533448596</ele>
+    <name>38-071b</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.099735979721551</gpxx:lat>
+      <gpxx:lon>-112.0939635953081</gpxx:lon>
+      <gpxx:y_proj>36.099735979721551</gpxx:y_proj>
+      <gpxx:x_proj>-112.09396359530811</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.102505671953246" lon="-112.09591665795357">
+    <ele>761.9127047745319</ele>
+    <name>38-073a</name>
+    <cmt>TJ Bright Angel Campground</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.102505671953246</gpxx:lat>
+      <gpxx:lon>-112.09591665795357</gpxx:lon>
+      <gpxx:y_proj>36.102505671953246</gpxx:y_proj>
+      <gpxx:x_proj>-112.09591665795357</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.102477118939177" lon="-112.09608512398405">
+    <ele>764.04677340670992</ele>
+    <name>38-073b</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.102477118939177</gpxx:lat>
+      <gpxx:lon>-112.09608512398405</gpxx:lon>
+      <gpxx:y_proj>36.102477118939177</gpxx:y_proj>
+      <gpxx:x_proj>-112.09608512398405</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.104021865170203" lon="-112.09553118502036">
+    <ele>769.31915701433491</ele>
+    <name>38-074</name>
+    <cmt>GCNP Ranger Station</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>36.104021865170203</gpxx:lat>
+      <gpxx:lon>-112.09553118502036</gpxx:lon>
+      <gpxx:y_proj>36.104021865170203</gpxx:y_proj>
+      <gpxx:x_proj>-112.09553118502036</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.105104044338624" lon="-112.09503720902492">
+    <ele>773.54767615017693</ele>
+    <name>38-075</name>
+    <cmt>Phantom Ranch</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>36.105104044338624</gpxx:lat>
+      <gpxx:lon>-112.09503720902492</gpxx:lon>
+      <gpxx:y_proj>36.105104044338624</gpxx:y_proj>
+      <gpxx:x_proj>-112.09503720902492</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.110663417254315" lon="-112.09168787988864">
+    <ele>807.525675378095</ele>
+    <name>38-080</name>
+    <cmt>TJ Clear Creek</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.110663417254315</gpxx:lat>
+      <gpxx:lon>-112.09168787988864</gpxx:lon>
+      <gpxx:y_proj>36.110663417254315</gpxx:y_proj>
+      <gpxx:x_proj>-112.09168787988864</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.113527337834874" lon="-112.08820720347269">
+    <ele>812.10933460206434</ele>
+    <name>38-084</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.113527337834874</gpxx:lat>
+      <gpxx:lon>-112.08820720347269</gpxx:lon>
+      <gpxx:y_proj>36.113527337834874</gpxx:y_proj>
+      <gpxx:x_proj>-112.08820720347271</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.115337632151096" lon="-112.08682521237094">
+    <ele>827.06683038754863</ele>
+    <name>38-087</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.115337632151096</gpxx:lat>
+      <gpxx:lon>-112.08682521237094</gpxx:lon>
+      <gpxx:y_proj>36.115337632151096</gpxx:y_proj>
+      <gpxx:x_proj>-112.08682521237094</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.130827925805043" lon="-112.07584352366732">
+    <ele>943.90466854335727</ele>
+    <name>38-107</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.130827925805043</gpxx:lat>
+      <gpxx:lon>-112.07584352366732</gpxx:lon>
+      <gpxx:y_proj>36.13082792580505</gpxx:y_proj>
+      <gpxx:x_proj>-112.07584352366733</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.133263542268722" lon="-112.07337078740977">
+    <ele>947.57781169626833</ele>
+    <name>38-110</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.133263542268722</gpxx:lat>
+      <gpxx:lon>-112.07337078740977</gpxx:lon>
+      <gpxx:y_proj>36.133263542268722</gpxx:y_proj>
+      <gpxx:x_proj>-112.07337078740977</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.159033109863451" lon="-112.05222689467494">
+    <ele>1138.3088283739421</ele>
+    <name>38-136</name>
+    <cmt>TJ Ribbon Falls</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.159033109863451</gpxx:lat>
+      <gpxx:lon>-112.05222689467494</gpxx:lon>
+      <gpxx:y_proj>36.159033109863451</gpxx:y_proj>
+      <gpxx:x_proj>-112.05222689467494</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.170006233956613" lon="-112.04103390950503">
+    <ele>1236.9991491717387</ele>
+    <name>38-147</name>
+    <cmt>Cottonwood Campground</cmt>
+    <type>Campground</type>
+    <extensions>
+      <gpxx:lat>36.170006233956613</gpxx:lat>
+      <gpxx:lon>-112.04103390950503</gpxx:lon>
+      <gpxx:y_proj>36.170006233956613</gpxx:y_proj>
+      <gpxx:x_proj>-112.04103390950503</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.184976853419769" lon="-112.03207952115572">
+    <ele>1377.6162940436029</ele>
+    <name>38-161</name>
+    <cmt>Manzanita Creek Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.184976853419769</gpxx:lat>
+      <gpxx:lon>-112.03207952115572</gpxx:lon>
+      <gpxx:y_proj>36.184976853419776</gpxx:y_proj>
+      <gpxx:x_proj>-112.03207952115572</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.186158969576468" lon="-112.03197958424799">
+    <ele>1387.2492318159975</ele>
+    <name>38-162</name>
+    <cmt>Rest House</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>36.186158969576468</gpxx:lat>
+      <gpxx:lon>-112.03197958424799</gpxx:lon>
+      <gpxx:y_proj>36.186158969576475</gpxx:y_proj>
+      <gpxx:x_proj>-112.03197958424799</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.192743415252501" lon="-112.03458081238537">
+    <ele>1537.2893327607176</ele>
+    <name>38-169</name>
+    <cmt>TJ Roaring Springs</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>36.192743415252501</gpxx:lat>
+      <gpxx:lon>-112.03458081238537</gpxx:lon>
+      <gpxx:y_proj>36.192743415252501</gpxx:y_proj>
+      <gpxx:x_proj>-112.03458081238537</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.207267408352685" lon="-112.04657544112985">
+    <ele>1830.2337385859219</ele>
+    <name>38-190</name>
+    <cmt>Footbridge</cmt>
+    <type>Bridge</type>
+    <extensions>
+      <gpxx:lat>36.207267408352685</gpxx:lat>
+      <gpxx:lon>-112.04657544112985</gpxx:lon>
+      <gpxx:y_proj>36.207267408352692</gpxx:y_proj>
+      <gpxx:x_proj>-112.04657544112985</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.211294921688328" lon="-112.04940529707055">
+    <ele>2079.383905617261</ele>
+    <name>38-201</name>
+    <cmt>Tunnel</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>36.211294921688328</gpxx:lat>
+      <gpxx:lon>-112.04940529707055</gpxx:lon>
+      <gpxx:y_proj>36.211294921688328</gpxx:y_proj>
+      <gpxx:x_proj>-112.04940529707055</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.2169698989563" lon="-112.05667482804361">
+    <ele>2510.4469911470342</ele>
+    <name>38-218a</name>
+    <cmt>North Kaibab Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>36.2169698989563</gpxx:lat>
+      <gpxx:lon>-112.05667482804361</gpxx:lon>
+      <gpxx:y_proj>36.2169698989563</gpxx:y_proj>
+      <gpxx:x_proj>-112.05667482804361</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="36.217241156978481" lon="-112.05687184710823">
+    <ele>2507.8465406028554</ele>
+    <name>38-218b</name>
+    <cmt>HWY 67</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>36.217241156978481</gpxx:lat>
+      <gpxx:lon>-112.05687184710823</gpxx:lon>
+      <gpxx:y_proj>36.217241156978481</gpxx:y_proj>
+      <gpxx:x_proj>-112.05687184710823</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

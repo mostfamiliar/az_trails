@@ -1,0 +1,315 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="33.102840215461526" minlon="-111.145610814674580" maxlat="33.181065128271833" maxlon="-110.974325751223470" />
+  </metadata>
+  <wpt lat="33.102840215461526" lon="-110.97458345321226">
+    <ele>534.92883614832101</ele>
+    <name>16-000</name>
+    <cmt>Gila River River</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.102840215461526</gpxx:lat>
+      <gpxx:lon>-110.97458345321226</gpxx:lon>
+      <gpxx:y_proj>33.102840215461526</gpxx:y_proj>
+      <gpxx:x_proj>-110.97458345321226</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.103720042599242" lon="-110.97432575122347">
+    <ele>545.12169717816766</ele>
+    <name>16-001</name>
+    <cmt>RJ Centurian Road Road Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.103720042599242</gpxx:lat>
+      <gpxx:lon>-110.97432575122347</gpxx:lon>
+      <gpxx:y_proj>33.103720042599242</gpxx:y_proj>
+      <gpxx:x_proj>-110.97432575122347</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.104858618741794" lon="-110.97469795937907">
+    <ele>536.81421184376336</ele>
+    <name>16-002</name>
+    <cmt>Mineral Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.104858618741794</gpxx:lat>
+      <gpxx:lon>-110.97469795937907</gpxx:lon>
+      <gpxx:y_proj>33.104858618741794</gpxx:y_proj>
+      <gpxx:x_proj>-110.97469795937907</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.10741660869656" lon="-110.98276674217459">
+    <ele>545.84212534393066</ele>
+    <name>16-008</name>
+    <cmt>RJ End of Centurian Road Road Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.10741660869656</gpxx:lat>
+      <gpxx:lon>-110.98276674217459</gpxx:lon>
+      <gpxx:y_proj>33.10741660869656</gpxx:y_proj>
+      <gpxx:x_proj>-110.98276674217459</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.105828066866664" lon="-110.99473693745375">
+    <ele>650.82711802454446</ele>
+    <name>16-026</name>
+    <cmt>Trail Marker</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.105828066866664</gpxx:lat>
+      <gpxx:lon>-110.99473693745375</gpxx:lon>
+      <gpxx:y_proj>33.105828066866664</gpxx:y_proj>
+      <gpxx:x_proj>-110.99473693745375</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.105889024527656" lon="-111.00161741383303">
+    <ele>532.46409525830984</ele>
+    <name>16-035</name>
+    <cmt>East Gate</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.105889024527656</gpxx:lat>
+      <gpxx:lon>-111.00161741383303</gpxx:lon>
+      <gpxx:y_proj>33.105889024527656</gpxx:y_proj>
+      <gpxx:x_proj>-111.00161741383303</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.115271181419729" lon="-111.03001931517622">
+    <ele>545.20006666312918</ele>
+    <name>16-065</name>
+    <cmt>Wash Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.115271181419729</gpxx:lat>
+      <gpxx:lon>-111.03001931517622</gpxx:lon>
+      <gpxx:y_proj>33.115271181419729</gpxx:y_proj>
+      <gpxx:x_proj>-111.03001931517622</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.117069201844771" lon="-111.066179218523">
+    <ele>525.49928460873775</ele>
+    <name>16-100</name>
+    <cmt>Large Cairn</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.117069201844771</gpxx:lat>
+      <gpxx:lon>-111.066179218523</gpxx:lon>
+      <gpxx:y_proj>33.117069201844771</gpxx:y_proj>
+      <gpxx:x_proj>-111.066179218523</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.118218517821525" lon="-111.06984925333742">
+    <ele>519.85815637046016</ele>
+    <name>16-102</name>
+    <cmt>ATV Barrier</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.118218517821525</gpxx:lat>
+      <gpxx:lon>-111.06984925333742</gpxx:lon>
+      <gpxx:y_proj>33.118218517821525</gpxx:y_proj>
+      <gpxx:x_proj>-111.06984925333742</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.119074485884859" lon="-111.07098759562575">
+    <ele>526.3163000997489</ele>
+    <name>16-105</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.119074485884859</gpxx:lat>
+      <gpxx:lon>-111.07098759562575</gpxx:lon>
+      <gpxx:y_proj>33.119074485884859</gpxx:y_proj>
+      <gpxx:x_proj>-111.07098759562575</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.116419595610921" lon="-111.08875153597971">
+    <ele>515.80145322017711</ele>
+    <name>16-116</name>
+    <cmt>Walnut Canyon Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.116419595610921</gpxx:lat>
+      <gpxx:lon>-111.08875153597971</gpxx:lon>
+      <gpxx:y_proj>33.116419595610928</gpxx:y_proj>
+      <gpxx:x_proj>-111.08875153597971</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.113929064774986" lon="-111.09832090971017">
+    <ele>511.21999592528209</ele>
+    <name>16-122</name>
+    <cmt>RJ Wash Road 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.113929064774986</gpxx:lat>
+      <gpxx:lon>-111.09832090971017</gpxx:lon>
+      <gpxx:y_proj>33.113929064774986</gpxx:y_proj>
+      <gpxx:x_proj>-111.09832090971017</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.108319948486695" lon="-111.10813104726552">
+    <ele>513.65769323489849</ele>
+    <name>16-132</name>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.108319948486695</gpxx:lat>
+      <gpxx:lon>-111.10813104726552</gpxx:lon>
+      <gpxx:y_proj>33.108319948486695</gpxx:y_proj>
+      <gpxx:x_proj>-111.10813104726552</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.105745812509376" lon="-111.1202696325014">
+    <ele>518.64400473740625</ele>
+    <name>16-144</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.105745812509376</gpxx:lat>
+      <gpxx:lon>-111.1202696325014</gpxx:lon>
+      <gpxx:y_proj>33.105745812509376</gpxx:y_proj>
+      <gpxx:x_proj>-111.1202696325014</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.10500869934787" lon="-111.12140563467514">
+    <ele>511.78413330910536</ele>
+    <name>16-145</name>
+    <cmt>RJ  2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.10500869934787</gpxx:lat>
+      <gpxx:lon>-111.12140563467514</gpxx:lon>
+      <gpxx:y_proj>33.10500869934787</gpxx:y_proj>
+      <gpxx:x_proj>-111.12140563467516</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.110867049342978" lon="-111.13784523136948">
+    <ele>513.32628405662263</ele>
+    <name>16-158</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.110867049342978</gpxx:lat>
+      <gpxx:lon>-111.13784523136948</gpxx:lon>
+      <gpxx:y_proj>33.110867049342978</gpxx:y_proj>
+      <gpxx:x_proj>-111.13784523136948</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.112569741240122" lon="-111.14462392584161">
+    <ele>502.09711243027147</ele>
+    <name>16-163a</name>
+    <cmt>Leave Gila River</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.112569741240122</gpxx:lat>
+      <gpxx:lon>-111.14462392584161</gpxx:lon>
+      <gpxx:y_proj>33.112569741240122</gpxx:y_proj>
+      <gpxx:x_proj>-111.14462392584161</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.112653142248867" lon="-111.14468443185962">
+    <ele>502.17710468241603</ele>
+    <name>16-163b</name>
+    <cmt>RJ Rincon Road 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.112653142248867</gpxx:lat>
+      <gpxx:lon>-111.14468443185962</gpxx:lon>
+      <gpxx:y_proj>33.112653142248867</gpxx:y_proj>
+      <gpxx:x_proj>-111.14468443185962</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.116222483828608" lon="-111.14317669481436">
+    <ele>549.53697605895741</ele>
+    <name>16-165</name>
+    <cmt>RJ Rincon Road 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.116222483828608</gpxx:lat>
+      <gpxx:lon>-111.14317669481436</gpxx:lon>
+      <gpxx:y_proj>33.116222483828608</gpxx:y_proj>
+      <gpxx:x_proj>-111.14317669481436</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.133569846408534" lon="-111.14053715152949">
+    <ele>687.98990763950633</ele>
+    <name>16-185</name>
+    <cmt>Drainage Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.133569846408534</gpxx:lat>
+      <gpxx:lon>-111.14053715152949</gpxx:lon>
+      <gpxx:y_proj>33.133569846408534</gpxx:y_proj>
+      <gpxx:x_proj>-111.1405371515295</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.133819623391446" lon="-111.14156939875305">
+    <ele>683.03596275431437</ele>
+    <name>16-186</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.133819623391446</gpxx:lat>
+      <gpxx:lon>-111.14156939875305</gpxx:lon>
+      <gpxx:y_proj>33.133819623391446</gpxx:y_proj>
+      <gpxx:x_proj>-111.14156939875305</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.135916341561668" lon="-111.14404186539581">
+    <ele>735.37870199753843</ele>
+    <name>16-188</name>
+    <cmt>RJ  2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.135916341561668</gpxx:lat>
+      <gpxx:lon>-111.14404186539581</gpxx:lon>
+      <gpxx:y_proj>33.135916341561668</gpxx:y_proj>
+      <gpxx:x_proj>-111.14404186539581</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.163335125345931" lon="-111.14561081467458">
+    <ele>1064.1663765106698</ele>
+    <name>16-236</name>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.163335125345931</gpxx:lat>
+      <gpxx:lon>-111.14561081467458</gpxx:lon>
+      <gpxx:y_proj>33.163335125345931</gpxx:y_proj>
+      <gpxx:x_proj>-111.14561081467458</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.177814058806234" lon="-111.13733237506547">
+    <ele>1086.9006894540514</ele>
+    <name>16-256</name>
+    <cmt>BND Tonto NF</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>33.177814058806234</gpxx:lat>
+      <gpxx:lon>-111.13733237506547</gpxx:lon>
+      <gpxx:y_proj>33.177814058806234</gpxx:y_proj>
+      <gpxx:x_proj>-111.13733237506547</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.179167791958143" lon="-111.13809381131455">
+    <ele>1101.5223348732741</ele>
+    <name>16-258</name>
+    <cmt>RJ Ajax Road 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.179167791958143</gpxx:lat>
+      <gpxx:lon>-111.13809381131455</gpxx:lon>
+      <gpxx:y_proj>33.179167791958143</gpxx:y_proj>
+      <gpxx:x_proj>-111.13809381131455</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.181065128271833" lon="-111.13718081426907">
+    <ele>1123.5670413208231</ele>
+    <name>16-260</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.181065128271833</gpxx:lat>
+      <gpxx:lon>-111.13718081426907</gpxx:lon>
+      <gpxx:y_proj>33.181065128271833</gpxx:y_proj>
+      <gpxx:x_proj>-111.13718081426907</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

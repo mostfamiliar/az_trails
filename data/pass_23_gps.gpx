@@ -1,0 +1,413 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="34.001529923342993" minlon="-111.513492355769930" maxlat="34.178458184959901" maxlon="-111.468869433132650" />
+  </metadata>
+  <wpt lat="34.001986746397094" lon="-111.47734014635536">
+    <ele>1761.9823824811549</ele>
+    <name>23-000</name>
+    <cmt>Mt Peeley Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>34.001986746397094</gpxx:lat>
+      <gpxx:lon>-111.47734014635536</gpxx:lon>
+      <gpxx:y_proj>34.001986746397094</gpxx:y_proj>
+      <gpxx:x_proj>-111.47734014635536</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.006462806480904" lon="-111.48711924764272">
+    <ele>1979.9161343143446</ele>
+    <name>23-015</name>
+    <cmt>BND Mazatzal Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>34.006462806480904</gpxx:lat>
+      <gpxx:lon>-111.48711924764272</gpxx:lon>
+      <gpxx:y_proj>34.006462806480904</gpxx:y_proj>
+      <gpxx:x_proj>-111.48711924764272</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.001529923342993" lon="-111.49569398695799">
+    <ele>1955.0896994020352</ele>
+    <name>23-024</name>
+    <cmt>Draw</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.001529923342993</gpxx:lat>
+      <gpxx:lon>-111.49569398695799</gpxx:lon>
+      <gpxx:y_proj>34.001529923342993</gpxx:y_proj>
+      <gpxx:x_proj>-111.49569398695799</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.003297697605589" lon="-111.495307178019">
+    <ele>1946.5329589531091</ele>
+    <name>23-025</name>
+    <cmt>Sign</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.003297697605589</gpxx:lat>
+      <gpxx:lon>-111.495307178019</gpxx:lon>
+      <gpxx:y_proj>34.003297697605596</gpxx:y_proj>
+      <gpxx:x_proj>-111.495307178019</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.006157267772537" lon="-111.4994521530633">
+    <ele>1895.3316291359756</ele>
+    <name>23-032</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.006157267772537</gpxx:lat>
+      <gpxx:lon>-111.4994521530633</gpxx:lon>
+      <gpxx:y_proj>34.006157267772537</gpxx:y_proj>
+      <gpxx:x_proj>-111.49945215306332</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.010241271300316" lon="-111.50001654349343">
+    <ele>1898.1020442787526</ele>
+    <name>23-035</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.010241271300316</gpxx:lat>
+      <gpxx:lon>-111.50001654349343</gpxx:lon>
+      <gpxx:y_proj>34.010241271300316</gpxx:y_proj>
+      <gpxx:x_proj>-111.50001654349343</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.015918760289054" lon="-111.4960836221567">
+    <ele>1950.8326709394728</ele>
+    <name>23-041</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.015918760289054</gpxx:lat>
+      <gpxx:lon>-111.4960836221567</gpxx:lon>
+      <gpxx:y_proj>34.015918760289054</gpxx:y_proj>
+      <gpxx:x_proj>-111.4960836221567</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.02771220017906" lon="-111.4909438760583">
+    <ele>2068.2107094578064</ele>
+    <name>23-054</name>
+    <cmt>Washout</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.02771220017906</gpxx:lat>
+      <gpxx:lon>-111.4909438760583</gpxx:lon>
+      <gpxx:y_proj>34.02771220017906</gpxx:y_proj>
+      <gpxx:x_proj>-111.49094387605831</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.03046176626146" lon="-111.49636257834706">
+    <ele>2121.3498446813874</ele>
+    <name>23-059</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.03046176626146</gpxx:lat>
+      <gpxx:lon>-111.49636257834706</gpxx:lon>
+      <gpxx:y_proj>34.03046176626146</gpxx:y_proj>
+      <gpxx:x_proj>-111.49636257834706</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.036171552194709" lon="-111.49353549723278">
+    <ele>2160.932862841586</ele>
+    <name>23-064</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.036171552194709</gpxx:lat>
+      <gpxx:lon>-111.49353549723278</gpxx:lon>
+      <gpxx:y_proj>34.036171552194709</gpxx:y_proj>
+      <gpxx:x_proj>-111.49353549723278</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.03762522858473" lon="-111.49000094864576">
+    <ele>2179.2213519251418</ele>
+    <name>23-067</name>
+    <cmt>ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.03762522858473</gpxx:lat>
+      <gpxx:lon>-111.49000094864576</gpxx:lon>
+      <gpxx:y_proj>34.03762522858473</gpxx:y_proj>
+      <gpxx:x_proj>-111.49000094864576</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.040038759860415" lon="-111.49099921203226">
+    <ele>2126.7932346985413</ele>
+    <name>23-071</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.040038759860415</gpxx:lat>
+      <gpxx:lon>-111.49099921203226</gpxx:lon>
+      <gpxx:y_proj>34.040038759860415</gpxx:y_proj>
+      <gpxx:x_proj>-111.49099921203226</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.038498115014157" lon="-111.48427418257866">
+    <ele>2063.2401322659539</ele>
+    <name>23-077</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.038498115014157</gpxx:lat>
+      <gpxx:lon>-111.48427418257866</gpxx:lon>
+      <gpxx:y_proj>34.038498115014157</gpxx:y_proj>
+      <gpxx:x_proj>-111.48427418257866</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.039964274556901" lon="-111.47795341544004">
+    <ele>2020.5696297541449</ele>
+    <name>23-083</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.039964274556901</gpxx:lat>
+      <gpxx:lon>-111.47795341544004</gpxx:lon>
+      <gpxx:y_proj>34.039964274556901</gpxx:y_proj>
+      <gpxx:x_proj>-111.47795341544004</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.040742328739768" lon="-111.47654111622083">
+    <ele>2002.8337995103309</ele>
+    <name>23-084</name>
+    <cmt>TJ Bear Spring</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.040742328739768</gpxx:lat>
+      <gpxx:lon>-111.47654111622083</gpxx:lon>
+      <gpxx:y_proj>34.040742328739768</gpxx:y_proj>
+      <gpxx:x_proj>-111.47654111622083</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.049803983275261" lon="-111.47105907684227">
+    <ele>2001.9849128259152</ele>
+    <name>23-093</name>
+    <cmt>Washout</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.049803983275261</gpxx:lat>
+      <gpxx:lon>-111.47105907684227</gpxx:lon>
+      <gpxx:y_proj>34.049803983275261</gpxx:y_proj>
+      <gpxx:x_proj>-111.47105907684227</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.05906384265937" lon="-111.46886943313265">
+    <ele>1997.2481991540633</ele>
+    <name>23-104</name>
+    <cmt>TJ Shake Tree</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.05906384265937</gpxx:lat>
+      <gpxx:lon>-111.46886943313265</gpxx:lon>
+      <gpxx:y_proj>34.05906384265937</gpxx:y_proj>
+      <gpxx:x_proj>-111.46886943313265</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.071712105703043" lon="-111.48147647962362">
+    <ele>1847.1642197066626</ele>
+    <name>23-123</name>
+    <cmt>TJ Brody Seep</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.071712105703043</gpxx:lat>
+      <gpxx:lon>-111.48147647962362</gpxx:lon>
+      <gpxx:y_proj>34.071712105703043</gpxx:y_proj>
+      <gpxx:x_proj>-111.48147647962362</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.0859587418011" lon="-111.47866058218274">
+    <ele>1838.6876686734204</ele>
+    <name>23-138</name>
+    <cmt>TJ Barnhardt Trail #43</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.0859587418011</gpxx:lat>
+      <gpxx:lon>-111.47866058218274</gpxx:lon>
+      <gpxx:y_proj>34.0859587418011</gpxx:y_proj>
+      <gpxx:x_proj>-111.47866058218274</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.085522186055471" lon="-111.49128592265178">
+    <ele>1761.158169966908</ele>
+    <name>23-146</name>
+    <cmt>Chilson Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.085522186055471</gpxx:lat>
+      <gpxx:lon>-111.49128592265178</gpxx:lon>
+      <gpxx:y_proj>34.085522186055471</gpxx:y_proj>
+      <gpxx:x_proj>-111.49128592265178</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.086785375118573" lon="-111.49329643814953">
+    <ele>1740.5005213128861</ele>
+    <name>23-148</name>
+    <cmt>TJ Brody Seep</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.086785375118573</gpxx:lat>
+      <gpxx:lon>-111.49329643814953</gpxx:lon>
+      <gpxx:y_proj>34.086785375118573</gpxx:y_proj>
+      <gpxx:x_proj>-111.49329643814953</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.106903135951001" lon="-111.49168153041016">
+    <ele>1807.2202369275874</ele>
+    <name>23-166</name>
+    <cmt>TJ Sandy Sad #231</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.106903135951001</gpxx:lat>
+      <gpxx:lon>-111.49168153041016</gpxx:lon>
+      <gpxx:y_proj>34.106903135951001</gpxx:y_proj>
+      <gpxx:x_proj>-111.49168153041016</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.112828644794419" lon="-111.49103414274798">
+    <ele>1863.7962410663727</ele>
+    <name>23-171</name>
+    <cmt>Horse Camp Seep</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.112828644794419</gpxx:lat>
+      <gpxx:lon>-111.49103414274798</gpxx:lon>
+      <gpxx:y_proj>34.112828644794419</gpxx:y_proj>
+      <gpxx:x_proj>-111.49103414274798</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.12106558414569" lon="-111.48684693056607">
+    <ele>1976.8018643949026</ele>
+    <name>23-179a</name>
+    <cmt>TJ #288</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.12106558414569</gpxx:lat>
+      <gpxx:lon>-111.48684693056607</gpxx:lon>
+      <gpxx:y_proj>34.12106558414569</gpxx:y_proj>
+      <gpxx:x_proj>-111.48684693056607</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.121041922129258" lon="-111.48708986661239">
+    <ele>1972.3023968164305</ele>
+    <name>23-179b</name>
+    <cmt>Hopi Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.121041922129258</gpxx:lat>
+      <gpxx:lon>-111.48708986661239</gpxx:lon>
+      <gpxx:y_proj>34.121041922129258</gpxx:y_proj>
+      <gpxx:x_proj>-111.48708986661239</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.126948716326304" lon="-111.49825386629115">
+    <ele>2072.6267803505257</ele>
+    <name>23-190</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.126948716326304</gpxx:lat>
+      <gpxx:lon>-111.49825386629115</gpxx:lon>
+      <gpxx:y_proj>34.126948716326304</gpxx:y_proj>
+      <gpxx:x_proj>-111.49825386629115</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.146498415903444" lon="-111.4998461071487">
+    <ele>1791.1321588084988</ele>
+    <name>23-212</name>
+    <cmt>TJ Willow Spring #223</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.146498415903444</gpxx:lat>
+      <gpxx:lon>-111.4998461071487</gpxx:lon>
+      <gpxx:y_proj>34.146498415903444</gpxx:y_proj>
+      <gpxx:x_proj>-111.4998461071487</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.147503436059139" lon="-111.4995015631597">
+    <ele>1789.0680138235632</ele>
+    <name>23-213</name>
+    <cmt>creek/pools at crossing or downstream</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.147503436059139</gpxx:lat>
+      <gpxx:lon>-111.4995015631597</gpxx:lon>
+      <gpxx:y_proj>34.147503436059139</gpxx:y_proj>
+      <gpxx:x_proj>-111.4995015631597</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.149945092370324" lon="-111.49989459543042">
+    <ele>1806.6145071215967</ele>
+    <name>23-214</name>
+    <cmt>TJ North Peak #24</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.149945092370324</gpxx:lat>
+      <gpxx:lon>-111.49989459543042</gpxx:lon>
+      <gpxx:y_proj>34.149945092370324</gpxx:y_proj>
+      <gpxx:x_proj>-111.49989459543042</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.155107897742816" lon="-111.50595197703899">
+    <ele>1883.0417911372781</ele>
+    <name>23-220</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.155107897742816</gpxx:lat>
+      <gpxx:lon>-111.50595197703899</gpxx:lon>
+      <gpxx:y_proj>34.155107897742816</gpxx:y_proj>
+      <gpxx:x_proj>-111.50595197703899</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.158098495738223" lon="-111.51349235576993">
+    <ele>1832.7639432624308</ele>
+    <name>23-226</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>34.158098495738223</gpxx:lat>
+      <gpxx:lon>-111.51349235576993</gpxx:lon>
+      <gpxx:y_proj>34.158098495738223</gpxx:y_proj>
+      <gpxx:x_proj>-111.51349235576993</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.168344275384264" lon="-111.50889245866826">
+    <ele>1915.0379822603943</ele>
+    <name>23-236</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.168344275384264</gpxx:lat>
+      <gpxx:lon>-111.50889245866826</gpxx:lon>
+      <gpxx:y_proj>34.168344275384264</gpxx:y_proj>
+      <gpxx:x_proj>-111.50889245866826</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.17475477635049" lon="-111.5071793488359">
+    <ele>1883.6458362241724</ele>
+    <name>23-241</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>34.17475477635049</gpxx:lat>
+      <gpxx:lon>-111.5071793488359</gpxx:lon>
+      <gpxx:y_proj>34.17475477635049</gpxx:y_proj>
+      <gpxx:x_proj>-111.5071793488359</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.178458184959901" lon="-111.50525334774723">
+    <ele>1855.3547614359759</ele>
+    <name>23-243</name>
+    <cmt>TJ Red Hills</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>34.178458184959901</gpxx:lat>
+      <gpxx:lon>-111.50525334774723</gpxx:lon>
+      <gpxx:y_proj>34.178458184959901</gpxx:y_proj>
+      <gpxx:x_proj>-111.50525334774723</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

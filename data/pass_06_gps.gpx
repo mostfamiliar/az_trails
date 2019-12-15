@@ -1,0 +1,185 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="31.810559024990461" minlon="-110.725710640142550" maxlat="31.909109865847224" maxlon="-110.671527492289810" />
+  </metadata>
+  <wpt lat="31.810559024990461" lon="-110.72345398650722">
+    <ele>1588.193666112712</ele>
+    <name>06-000</name>
+    <cmt>RJ FR 4072 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.810559024990461</gpxx:lat>
+      <gpxx:lon>-110.72345398650722</gpxx:lon>
+      <gpxx:y_proj>31.810559024990461</gpxx:y_proj>
+      <gpxx:x_proj>-110.72345398650722</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.81348495131752" lon="-110.72571064014255">
+    <ele>1601.1123793150621</ele>
+    <name>06-002</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.81348495131752</gpxx:lat>
+      <gpxx:lon>-110.72571064014255</gpxx:lon>
+      <gpxx:y_proj>31.813484951317523</gpxx:y_proj>
+      <gpxx:x_proj>-110.72571064014255</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.827471792551268" lon="-110.7218043842356">
+    <ele>1471.7635868913299</ele>
+    <name>06-016</name>
+    <cmt>RJ FR 4064 Rd 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.827471792551268</gpxx:lat>
+      <gpxx:lon>-110.7218043842356</gpxx:lon>
+      <gpxx:y_proj>31.827471792551268</gpxx:y_proj>
+      <gpxx:x_proj>-110.7218043842356</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.830694954144263" lon="-110.71919063991372">
+    <ele>1451.5748246021192</ele>
+    <name>06-019</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.830694954144263</gpxx:lat>
+      <gpxx:lon>-110.71919063991372</gpxx:lon>
+      <gpxx:y_proj>31.830694954144263</gpxx:y_proj>
+      <gpxx:x_proj>-110.71919063991372</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.843690843096315" lon="-110.71825439854132">
+    <ele>1406.4517668431117</ele>
+    <name>06-032</name>
+    <cmt>RJ FR 231 Rd Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.843690843096315</gpxx:lat>
+      <gpxx:lon>-110.71825439854132</gpxx:lon>
+      <gpxx:y_proj>31.843690843096315</gpxx:y_proj>
+      <gpxx:x_proj>-110.71825439854132</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.853024957370465" lon="-110.72037064155171">
+    <ele>1479.3085490161416</ele>
+    <name>06-041</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.853024957370465</gpxx:lat>
+      <gpxx:lon>-110.72037064155171</gpxx:lon>
+      <gpxx:y_proj>31.853024957370465</gpxx:y_proj>
+      <gpxx:x_proj>-110.72037064155171</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.856195941915086" lon="-110.71864620440535">
+    <ele>1413.4469300335186</ele>
+    <name>06-046</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.856195941915086</gpxx:lat>
+      <gpxx:lon>-110.71864620440535</gpxx:lon>
+      <gpxx:y_proj>31.85619594191509</gpxx:y_proj>
+      <gpxx:x_proj>-110.71864620440535</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.862774958922618" lon="-110.71774064163748">
+    <ele>1420.5363791539708</ele>
+    <name>06-054</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.862774958922618</gpxx:lat>
+      <gpxx:lon>-110.71774064163748</gpxx:lon>
+      <gpxx:y_proj>31.862774958922618</gpxx:y_proj>
+      <gpxx:x_proj>-110.71774064163749</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.866508598518248" lon="-110.71670436166463">
+    <ele>1417.3216134315255</ele>
+    <name>06-057</name>
+    <cmt>RJ FR 4062 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.866508598518248</gpxx:lat>
+      <gpxx:lon>-110.71670436166463</gpxx:lon>
+      <gpxx:y_proj>31.866508598518248</gpxx:y_proj>
+      <gpxx:x_proj>-110.71670436166463</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.873166071869012" lon="-110.7085616994512">
+    <ele>1402.2680112753969</ele>
+    <name>06-068</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.873166071869012</gpxx:lat>
+      <gpxx:lon>-110.7085616994512</gpxx:lon>
+      <gpxx:y_proj>31.873166071869012</gpxx:y_proj>
+      <gpxx:x_proj>-110.7085616994512</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.870086425548443" lon="-110.70568947268148">
+    <ele>1393.6819794374269</ele>
+    <name>06-071</name>
+    <cmt>RJ  2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.870086425548443</gpxx:lat>
+      <gpxx:lon>-110.70568947268148</gpxx:lon>
+      <gpxx:y_proj>31.870086425548443</gpxx:y_proj>
+      <gpxx:x_proj>-110.70568947268148</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.896776416869539" lon="-110.69692048860512">
+    <ele>1368.5185587612409</ele>
+    <name>06-104a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.896776416869539</gpxx:lat>
+      <gpxx:lon>-110.69692048860512</gpxx:lon>
+      <gpxx:y_proj>31.896776416869539</gpxx:y_proj>
+      <gpxx:x_proj>-110.69692048860512</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.896817343904583" lon="-110.6962877454808">
+    <ele>1365.4655463536494</ele>
+    <name>06-104b</name>
+    <cmt>BND Coronado NF</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>31.896817343904583</gpxx:lat>
+      <gpxx:lon>-110.6962877454808</gpxx:lon>
+      <gpxx:y_proj>31.896817343904583</gpxx:y_proj>
+      <gpxx:x_proj>-110.6962877454808</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.904801721329523" lon="-110.69078502088122">
+    <ele>1314.810030051593</ele>
+    <name>06-114</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.904801721329523</gpxx:lat>
+      <gpxx:lon>-110.69078502088122</gpxx:lon>
+      <gpxx:y_proj>31.904801721329523</gpxx:y_proj>
+      <gpxx:x_proj>-110.69078502088124</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.909109865847224" lon="-110.67152749228981">
+    <ele>1243.2386144090467</ele>
+    <name>06-131</name>
+    <cmt>RJ Lakes Rd 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.909109865847224</gpxx:lat>
+      <gpxx:lon>-110.67152749228981</gpxx:lon>
+      <gpxx:y_proj>31.909109865847224</gpxx:y_proj>
+      <gpxx:x_proj>-110.67152749228981</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

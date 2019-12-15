@@ -1,0 +1,221 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="32.336123215949030" minlon="-110.830281381883110" maxlat="32.430946797151272" maxlon="-110.719869244570290" />
+  </metadata>
+  <wpt lat="32.33612321594903" lon="-110.71986924457029">
+    <ele>1476.3213390442256</ele>
+    <name>11-000</name>
+    <cmt>Gordon Hiabayashi Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.33612321594903</gpxx:lat>
+      <gpxx:lon>-110.71986924457029</gpxx:lon>
+      <gpxx:y_proj>32.33612321594903</gpxx:y_proj>
+      <gpxx:x_proj>-110.71986924457029</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.342030069141266" lon="-110.73385200876551">
+    <ele>1528.4974338031595</ele>
+    <name>11-010</name>
+    <cmt>BND Push Ridge Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.342030069141266</gpxx:lat>
+      <gpxx:lon>-110.73385200876551</gpxx:lon>
+      <gpxx:y_proj>32.342030069141266</gpxx:y_proj>
+      <gpxx:x_proj>-110.73385200876552</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.349610130657283" lon="-110.74611765572642">
+    <ele>1336.8808697221243</ele>
+    <name>11-022</name>
+    <cmt>Sycamore Reservoir</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>32.349610130657283</gpxx:lat>
+      <gpxx:lon>-110.74611765572642</gpxx:lon>
+      <gpxx:y_proj>32.349610130657283</gpxx:y_proj>
+      <gpxx:x_proj>-110.74611765572642</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.35545892213306" lon="-110.75393970068177">
+    <ele>1369.3273780231584</ele>
+    <name>11-029</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.35545892213306</gpxx:lat>
+      <gpxx:lon>-110.75393970068177</gpxx:lon>
+      <gpxx:y_proj>32.35545892213306</gpxx:y_proj>
+      <gpxx:x_proj>-110.75393970068177</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.359217021580712" lon="-110.75598304434008">
+    <ele>1389.0484945176145</ele>
+    <name>11-032a</name>
+    <cmt>Sycamore Canyon</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>32.359217021580712</gpxx:lat>
+      <gpxx:lon>-110.75598304434008</gpxx:lon>
+      <gpxx:y_proj>32.359217021580712</gpxx:y_proj>
+      <gpxx:x_proj>-110.75598304434008</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.359342486542204" lon="-110.75717221458684">
+    <ele>1400.6437955250085</ele>
+    <name>11-032b</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.359342486542204</gpxx:lat>
+      <gpxx:lon>-110.75717221458684</gpxx:lon>
+      <gpxx:y_proj>32.359342486542204</gpxx:y_proj>
+      <gpxx:x_proj>-110.75717221458684</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.363977590037621" lon="-110.76087783963658">
+    <ele>1259.7692617074649</ele>
+    <name>11-042</name>
+    <cmt>TJ Palisade</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.363977590037621</gpxx:lat>
+      <gpxx:lon>-110.76087783963658</gpxx:lon>
+      <gpxx:y_proj>32.363977590037621</gpxx:y_proj>
+      <gpxx:x_proj>-110.76087783963658</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.365727633688621" lon="-110.77351308228532">
+    <ele>1125.7666649577584</ele>
+    <name>11-052a</name>
+    <cmt>Sabino Canyon</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>32.365727633688621</gpxx:lat>
+      <gpxx:lon>-110.77351308228532</gpxx:lon>
+      <gpxx:y_proj>32.365727633688621</gpxx:y_proj>
+      <gpxx:x_proj>-110.77351308228532</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.36573328570492" lon="-110.77318915122078">
+    <ele>1128.6365077707164</ele>
+    <name>11-052b</name>
+    <cmt>TJ Sabino Canyon</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.36573328570492</gpxx:lat>
+      <gpxx:lon>-110.77318915122078</gpxx:lon>
+      <gpxx:y_proj>32.36573328570492</gpxx:y_proj>
+      <gpxx:x_proj>-110.77318915122078</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.373894845967499" lon="-110.79246576562444">
+    <ele>1183.3434232254035</ele>
+    <name>11-067</name>
+    <cmt>Hutchs Pool</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.373894845967499</gpxx:lat>
+      <gpxx:lon>-110.79246576562444</gpxx:lon>
+      <gpxx:y_proj>32.373894845967506</gpxx:y_proj>
+      <gpxx:x_proj>-110.79246576562444</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.39038415776303" lon="-110.82577396638983">
+    <ele>1609.7415649679162</ele>
+    <name>11-099</name>
+    <cmt>TJ Cathedral</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.39038415776303</gpxx:lat>
+      <gpxx:lon>-110.82577396638983</gpxx:lon>
+      <gpxx:y_proj>32.39038415776303</gpxx:y_proj>
+      <gpxx:x_proj>-110.82577396638983</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.399276352833567" lon="-110.83028138188311">
+    <ele>1843.2414672991958</ele>
+    <name>11-116</name>
+    <cmt>TJ Romero Pass Trail</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.399276352833567</gpxx:lat>
+      <gpxx:lon>-110.83028138188311</gpxx:lon>
+      <gpxx:y_proj>32.399276352833567</gpxx:y_proj>
+      <gpxx:x_proj>-110.83028138188311</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.408539482774628" lon="-110.81771650098321">
+    <ele>2219.5849878125546</ele>
+    <name>11-133</name>
+    <cmt>TJ Wilderness of Rocks</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.408539482774628</gpxx:lat>
+      <gpxx:lon>-110.81771650098321</gpxx:lon>
+      <gpxx:y_proj>32.408539482774628</gpxx:y_proj>
+      <gpxx:x_proj>-110.81771650098322</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.411475701578439" lon="-110.80979908559287">
+    <ele>2177.9812236942021</ele>
+    <name>11-139</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.411475701578439</gpxx:lat>
+      <gpxx:lon>-110.80979908559287</gpxx:lon>
+      <gpxx:y_proj>32.411475701578446</gpxx:y_proj>
+      <gpxx:x_proj>-110.80979908559287</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.416792709863842" lon="-110.79901993278753">
+    <ele>2170.737060546875</ele>
+    <name>11-149</name>
+    <cmt>Lemmon Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.416792709863842</gpxx:lat>
+      <gpxx:lon>-110.79901993278753</gpxx:lon>
+      <gpxx:y_proj>32.416792709863842</gpxx:y_proj>
+      <gpxx:x_proj>-110.79901993278753</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.430946797151272" lon="-110.77316014254808">
+    <ele>2430.2755172868342</ele>
+    <name>11-172</name>
+    <cmt>TJ Marshal Gulch</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.430946797151272</gpxx:lat>
+      <gpxx:lon>-110.77316014254808</gpxx:lon>
+      <gpxx:y_proj>32.430946797151272</gpxx:y_proj>
+      <gpxx:x_proj>-110.77316014254808</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.427595560407752" lon="-110.75769039122314">
+    <ele>2290.0519676978593</ele>
+    <name>11-183</name>
+    <cmt>BND Pusch Ridge Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>32.427595560407752</gpxx:lat>
+      <gpxx:lon>-110.75769039122314</gpxx:lon>
+      <gpxx:y_proj>32.427595560407752</gpxx:y_proj>
+      <gpxx:x_proj>-110.75769039122315</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.428339039611167" lon="-110.75569256487202">
+    <ele>2268.5671804939807</ele>
+    <name>11-185</name>
+    <cmt>Marshal Gulch Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.428339039611167</gpxx:lat>
+      <gpxx:lon>-110.75569256487202</gpxx:lon>
+      <gpxx:y_proj>32.428339039611167</gpxx:y_proj>
+      <gpxx:x_proj>-110.75569256487202</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

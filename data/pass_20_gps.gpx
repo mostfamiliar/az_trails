@@ -1,0 +1,233 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="33.655474620701618" minlon="-111.336332504020650" maxlat="33.712841364238031" maxlon="-111.160946238520100" />
+  </metadata>
+  <wpt lat="33.676525562383254" lon="-111.16100012550905">
+    <ele>679.9405221355654</ele>
+    <name>20-000a</name>
+    <cmt>HWY 87</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.676525562383254</gpxx:lat>
+      <gpxx:lon>-111.16100012550905</gpxx:lon>
+      <gpxx:y_proj>33.676525562383254</gpxx:y_proj>
+      <gpxx:x_proj>-111.16100012550906</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.676814366426292" lon="-111.1609462385201">
+    <ele>681.95127290288735</ele>
+    <name>20-000b</name>
+    <cmt>Vineyard Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.676814366426292</gpxx:lat>
+      <gpxx:lon>-111.1609462385201</gpxx:lon>
+      <gpxx:y_proj>33.676814366426292</gpxx:y_proj>
+      <gpxx:x_proj>-111.1609462385201</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.674093502287029" lon="-111.17538475519414">
+    <ele>1009.0853370842088</ele>
+    <name>20-014</name>
+    <cmt>Radio Tower</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.674093502287029</gpxx:lat>
+      <gpxx:lon>-111.17538475519414</gpxx:lon>
+      <gpxx:y_proj>33.674093502287029</gpxx:y_proj>
+      <gpxx:x_proj>-111.17538475519414</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.669714834943669" lon="-111.20830750242574">
+    <ele>952.92243616157111</ele>
+    <name>20-038</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.669714834943669</gpxx:lat>
+      <gpxx:lon>-111.20830750242574</gpxx:lon>
+      <gpxx:y_proj>33.669714834943669</gpxx:y_proj>
+      <gpxx:x_proj>-111.20830750242574</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.669850600713652" lon="-111.21303118837703">
+    <ele>949.05580903795226</ele>
+    <name>20-041</name>
+    <cmt>RJ FR 336 Road Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.669850600713652</gpxx:lat>
+      <gpxx:lon>-111.21303118837703</gpxx:lon>
+      <gpxx:y_proj>33.669850600713652</gpxx:y_proj>
+      <gpxx:x_proj>-111.21303118837703</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.668592173527983" lon="-111.21323658832314">
+    <ele>938.72567639335864</ele>
+    <name>20-042</name>
+    <cmt>RJ FR 336 Road Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.668592173527983</gpxx:lat>
+      <gpxx:lon>-111.21323658832314</gpxx:lon>
+      <gpxx:y_proj>33.668592173527983</gpxx:y_proj>
+      <gpxx:x_proj>-111.21323658832314</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.671755091510775" lon="-111.24087210106521">
+    <ele>1128.6208944811215</ele>
+    <name>20-061</name>
+    <cmt>Mills Ridge Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.671755091510775</gpxx:lat>
+      <gpxx:lon>-111.24087210106521</gpxx:lon>
+      <gpxx:y_proj>33.671755091510775</gpxx:y_proj>
+      <gpxx:x_proj>-111.24087210106521</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.664661247614667" lon="-111.25816923797353">
+    <ele>1310.8090210006965</ele>
+    <name>20-075</name>
+    <cmt>Buckhorn Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.664661247614667</gpxx:lat>
+      <gpxx:lon>-111.25816923797353</gpxx:lon>
+      <gpxx:y_proj>33.664661247614667</gpxx:y_proj>
+      <gpxx:x_proj>-111.25816923797355</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.658967175473187" lon="-111.26483967287194">
+    <ele>1546.8483303895559</ele>
+    <name>20-086</name>
+    <cmt>BND Four Peaks Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>33.658967175473187</gpxx:lat>
+      <gpxx:lon>-111.26483967287194</gpxx:lon>
+      <gpxx:y_proj>33.658967175473187</gpxx:y_proj>
+      <gpxx:x_proj>-111.26483967287194</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.655474620701618" lon="-111.27028837669305">
+    <ele>1639.2040669434882</ele>
+    <name>20-091</name>
+    <cmt>Granite Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.655474620701618</gpxx:lat>
+      <gpxx:lon>-111.27028837669305</gpxx:lon>
+      <gpxx:y_proj>33.655474620701618</gpxx:y_proj>
+      <gpxx:x_proj>-111.27028837669305</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.665329365030956" lon="-111.28997916135243">
+    <ele>1738.6660240833587</ele>
+    <name>20-118</name>
+    <cmt>TJ Chillicut Trail</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.665329365030956</gpxx:lat>
+      <gpxx:lon>-111.28997916135243</gpxx:lon>
+      <gpxx:y_proj>33.665329365030956</gpxx:y_proj>
+      <gpxx:x_proj>-111.28997916135243</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.685608227728181" lon="-111.31107368807714">
+    <ele>1774.73472005235</ele>
+    <name>20-151</name>
+    <cmt>TJ Alder Sad</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.685608227728181</gpxx:lat>
+      <gpxx:lon>-111.31107368807714</gpxx:lon>
+      <gpxx:y_proj>33.685608227728181</gpxx:y_proj>
+      <gpxx:x_proj>-111.31107368807714</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.702323191800225" lon="-111.31565905825234">
+    <ele>1641.0088419915344</ele>
+    <name>20-167</name>
+    <cmt>TJ Oak Flat #123</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.702323191800225</gpxx:lat>
+      <gpxx:lon>-111.31565905825234</gpxx:lon>
+      <gpxx:y_proj>33.702323191800225</gpxx:y_proj>
+      <gpxx:x_proj>-111.31565905825234</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.700750535343921" lon="-111.3201739130308">
+    <ele>1640.617013882211</ele>
+    <name>20-170</name>
+    <cmt>Shake Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.700750535343921</gpxx:lat>
+      <gpxx:lon>-111.3201739130308</gpxx:lon>
+      <gpxx:y_proj>33.700750535343921</gpxx:y_proj>
+      <gpxx:x_proj>-111.3201739130308</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.700246437119944" lon="-111.32309207357271">
+    <ele>1666.2935826235389</ele>
+    <name>20-172</name>
+    <cmt>TJ Four Peaks #133</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.700246437119944</gpxx:lat>
+      <gpxx:lon>-111.32309207357271</gpxx:lon>
+      <gpxx:y_proj>33.700246437119944</gpxx:y_proj>
+      <gpxx:x_proj>-111.32309207357271</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.703283146211177" lon="-111.32931573803936">
+    <ele>1652.0412606761961</ele>
+    <name>20-179</name>
+    <cmt>Bear Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.703283146211177</gpxx:lat>
+      <gpxx:lon>-111.32931573803936</gpxx:lon>
+      <gpxx:y_proj>33.703283146211184</gpxx:y_proj>
+      <gpxx:x_proj>-111.32931573803936</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.707936190670658" lon="-111.33280130708425">
+    <ele>1681.1750282832245</ele>
+    <name>20-184</name>
+    <cmt>BND Four Peaks Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>33.707936190670658</gpxx:lat>
+      <gpxx:lon>-111.33280130708425</gpxx:lon>
+      <gpxx:y_proj>33.707936190670665</gpxx:y_proj>
+      <gpxx:x_proj>-111.33280130708425</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.712841364238031" lon="-111.33490219987318">
+    <ele>1676.4469426181927</ele>
+    <name>20-188</name>
+    <cmt>Pigeon Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.712841364238031</gpxx:lat>
+      <gpxx:lon>-111.33490219987318</gpxx:lon>
+      <gpxx:y_proj>33.712841364238031</gpxx:y_proj>
+      <gpxx:x_proj>-111.33490219987318</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.711035986912677" lon="-111.33633250402065">
+    <ele>1704.4157890456127</ele>
+    <name>20-190</name>
+    <cmt>Pigeon Spring Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>33.711035986912677</gpxx:lat>
+      <gpxx:lon>-111.33633250402065</gpxx:lon>
+      <gpxx:y_proj>33.711035986912677</gpxx:y_proj>
+      <gpxx:x_proj>-111.33633250402065</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

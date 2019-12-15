@@ -1,0 +1,305 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="32.337389545214918" minlon="-110.754311429141550" maxlat="32.451646984434170" maxlon="-110.671981657750270" />
+  </metadata>
+  <wpt lat="32.337389545214918" lon="-110.71814611230813">
+    <ele>1487.2341355000719</ele>
+    <name>11A-000</name>
+    <cmt>TH Gordon Hirabayashi Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.337389545214918</gpxx:lat>
+      <gpxx:lon>-110.71814611230813</gpxx:lon>
+      <gpxx:y_proj>32.337389545214918</gpxx:y_proj>
+      <gpxx:x_proj>-110.71814611230813</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.339139978492589" lon="-110.71765425632502">
+    <ele>1475.4531059042247</ele>
+    <name>11A-002</name>
+    <cmt>RJ  Road Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.339139978492589</gpxx:lat>
+      <gpxx:lon>-110.71765425632502</gpxx:lon>
+      <gpxx:y_proj>32.339139978492589</gpxx:y_proj>
+      <gpxx:x_proj>-110.71765425632502</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.342055370898059" lon="-110.71803063959308">
+    <ele>1493.2778038835725</ele>
+    <name>11A-004</name>
+    <cmt>RJ Catalina Highway Road</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.342055370898059</gpxx:lat>
+      <gpxx:lon>-110.71803063959308</gpxx:lon>
+      <gpxx:y_proj>32.342055370898059</gpxx:y_proj>
+      <gpxx:x_proj>-110.7180306395931</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.343999585179695" lon="-110.71804547572444">
+    <ele>1519.5335849162352</ele>
+    <name>11A-006</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.343999585179695</gpxx:lat>
+      <gpxx:lon>-110.71804547572444</gpxx:lon>
+      <gpxx:y_proj>32.343999585179695</gpxx:y_proj>
+      <gpxx:x_proj>-110.71804547572444</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.374271439895594" lon="-110.69035178916832">
+    <ele>1798.234866661059</ele>
+    <name>11A-050</name>
+    <cmt>Green/Bug Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.374271439895594</gpxx:lat>
+      <gpxx:lon>-110.69035178916832</gpxx:lon>
+      <gpxx:y_proj>32.374271439895594</gpxx:y_proj>
+      <gpxx:x_proj>-110.69035178916832</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.378344662786127" lon="-110.6840853001799">
+    <ele>1823.899132408872</ele>
+    <name>11A-056</name>
+    <cmt>Campground</cmt>
+    <type>Campground</type>
+    <extensions>
+      <gpxx:lat>32.378344662786127</gpxx:lat>
+      <gpxx:lon>-110.6840853001799</gpxx:lon>
+      <gpxx:y_proj>32.378344662786127</gpxx:y_proj>
+      <gpxx:x_proj>-110.6840853001799</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.378600613901561" lon="-110.68244544786749">
+    <ele>1840.0424188810593</ele>
+    <name>11A-057</name>
+    <cmt>Pool Pond</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.378600613901561</gpxx:lat>
+      <gpxx:lon>-110.68244544786749</gpxx:lon>
+      <gpxx:y_proj>32.378600613901561</gpxx:y_proj>
+      <gpxx:x_proj>-110.68244544786751</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.393443124556775" lon="-110.67198165775027">
+    <ele>2114.4609839141071</ele>
+    <name>11A-074</name>
+    <cmt>TJ Guthric</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.393443124556775</gpxx:lat>
+      <gpxx:lon>-110.67198165775027</gpxx:lon>
+      <gpxx:y_proj>32.393443124556775</gpxx:y_proj>
+      <gpxx:x_proj>-110.67198165775027</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.394478067631134" lon="-110.67357037313811">
+    <ele>2090.0197183820351</ele>
+    <name>11A-075</name>
+    <cmt>TJ Maverick</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.394478067631134</gpxx:lat>
+      <gpxx:lon>-110.67357037313811</gpxx:lon>
+      <gpxx:y_proj>32.394478067631134</gpxx:y_proj>
+      <gpxx:x_proj>-110.67357037313811</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.397151488856117" lon="-110.67698601300161">
+    <ele>2010.5489160129418</ele>
+    <name>11A-079</name>
+    <cmt>TJ Bush 21A</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.397151488856117</gpxx:lat>
+      <gpxx:lon>-110.67698601300161</gpxx:lon>
+      <gpxx:y_proj>32.397151488856117</gpxx:y_proj>
+      <gpxx:x_proj>-110.67698601300161</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.398771839659354" lon="-110.68602499492457">
+    <ele>2182.2256108106558</ele>
+    <name>11A-091</name>
+    <cmt>TJ Bush Corral</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.398771839659354</gpxx:lat>
+      <gpxx:lon>-110.68602499492457</gpxx:lon>
+      <gpxx:y_proj>32.398771839659354</gpxx:y_proj>
+      <gpxx:x_proj>-110.68602499492457</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.400297038688258" lon="-110.69005066483423">
+    <ele>2236.6293686701611</ele>
+    <name>11A-094</name>
+    <cmt>Green Mountain Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.400297038688258</gpxx:lat>
+      <gpxx:lon>-110.69005066483423</gpxx:lon>
+      <gpxx:y_proj>32.400297038688258</gpxx:y_proj>
+      <gpxx:x_proj>-110.69005066483423</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.411163805607806" lon="-110.70378920331478">
+    <ele>2464.9475974620459</ele>
+    <name>11A-110</name>
+    <cmt>TJ Knagge</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.411163805607806</gpxx:lat>
+      <gpxx:lon>-110.70378920331478</gpxx:lon>
+      <gpxx:y_proj>32.411163805607806</gpxx:y_proj>
+      <gpxx:x_proj>-110.70378920331478</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.411748457618572" lon="-110.70533735666444">
+    <ele>2449.4033745656952</ele>
+    <name>11A-111a</name>
+    <cmt>RJ Incinerator Ridge Rd Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.411748457618572</gpxx:lat>
+      <gpxx:lon>-110.70533735666444</gpxx:lon>
+      <gpxx:y_proj>32.411748457618572</gpxx:y_proj>
+      <gpxx:x_proj>-110.70533735666444</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.411655714610681" lon="-110.70522046363482">
+    <ele>2450.8477236394219</ele>
+    <name>11A-111b</name>
+    <cmt>Incinerator Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>32.411655714610681</gpxx:lat>
+      <gpxx:lon>-110.70522046363482</gpxx:lon>
+      <gpxx:y_proj>32.411655714610681</gpxx:y_proj>
+      <gpxx:x_proj>-110.70522046363482</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.414636685740547" lon="-110.71153974410153">
+    <ele>2522.8194007881038</ele>
+    <name>11A-117</name>
+    <cmt>TJ Mt Bigelow</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.414636685740547</gpxx:lat>
+      <gpxx:lon>-110.71153974410153</gpxx:lon>
+      <gpxx:y_proj>32.414636685740547</gpxx:y_proj>
+      <gpxx:x_proj>-110.71153974410153</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.429277767666321" lon="-110.71564927490108">
+    <ele>2171.5165148687038</ele>
+    <name>11A-136</name>
+    <cmt>Davis Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.429277767666321</gpxx:lat>
+      <gpxx:lon>-110.71564927490108</gpxx:lon>
+      <gpxx:y_proj>32.429277767666321</gpxx:y_proj>
+      <gpxx:x_proj>-110.71564927490108</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.425722739016599" lon="-110.71845438022724">
+    <ele>2057.7234425012184</ele>
+    <name>11A-141</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.425722739016599</gpxx:lat>
+      <gpxx:lon>-110.71845438022724</gpxx:lon>
+      <gpxx:y_proj>32.425722739016599</gpxx:y_proj>
+      <gpxx:x_proj>-110.71845438022724</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.426421783086866" lon="-110.71910341140409">
+    <ele>2046.020694514302</ele>
+    <name>11A-142</name>
+    <cmt>Novio Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.426421783086866</gpxx:lat>
+      <gpxx:lon>-110.71910341140409</gpxx:lon>
+      <gpxx:y_proj>32.426421783086866</gpxx:y_proj>
+      <gpxx:x_proj>-110.71910341140409</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.429409941090022" lon="-110.72807415240332">
+    <ele>2129.8866052296175</ele>
+    <name>11A-154</name>
+    <cmt>TJ Butterfly</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.429409941090022</gpxx:lat>
+      <gpxx:lon>-110.72807415240332</gpxx:lon>
+      <gpxx:y_proj>32.429409941090022</gpxx:y_proj>
+      <gpxx:x_proj>-110.72807415240332</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.436763983400404" lon="-110.74381862705222">
+    <ele>2077.5815068127813</ele>
+    <name>11A-173</name>
+    <cmt>Crystal Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.436763983400404</gpxx:lat>
+      <gpxx:lon>-110.74381862705222</gpxx:lon>
+      <gpxx:y_proj>32.436763983400404</gpxx:y_proj>
+      <gpxx:x_proj>-110.74381862705222</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.442669300247339" lon="-110.74398862548024">
+    <ele>2059.3624269325878</ele>
+    <name>11A-179</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.442669300247339</gpxx:lat>
+      <gpxx:lon>-110.74398862548024</gpxx:lon>
+      <gpxx:y_proj>32.442669300247339</gpxx:y_proj>
+      <gpxx:x_proj>-110.74398862548024</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.449001151480061" lon="-110.73740661258245">
+    <ele>2081.3827542690633</ele>
+    <name>11A-189</name>
+    <cmt>RJ Control Rd Road Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>32.449001151480061</gpxx:lat>
+      <gpxx:lon>-110.73740661258245</gpxx:lon>
+      <gpxx:y_proj>32.449001151480061</gpxx:y_proj>
+      <gpxx:x_proj>-110.73740661258245</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.45164698443417" lon="-110.74634072555138">
+    <ele>2192.8275552549821</ele>
+    <name>11A-199</name>
+    <cmt>Green Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>32.45164698443417</gpxx:lat>
+      <gpxx:lon>-110.74634072555138</gpxx:lon>
+      <gpxx:y_proj>32.45164698443417</gpxx:y_proj>
+      <gpxx:x_proj>-110.74634072555138</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="32.45152039903315" lon="-110.75431142914155">
+    <ele>2373.3258048044327</ele>
+    <name>11A-216</name>
+    <cmt>TJ Oracle Ridge Trail</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>32.45152039903315</gpxx:lat>
+      <gpxx:lon>-110.75431142914155</gpxx:lon>
+      <gpxx:y_proj>32.45152039903315</gpxx:y_proj>
+      <gpxx:x_proj>-110.75431142914155</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

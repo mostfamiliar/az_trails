@@ -1,0 +1,410 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="33.862431015451492" minlon="-111.512715582669390" maxlat="34.001986746397094" maxlon="-111.472806064661440" />
+  </metadata>
+  <wpt lat="33.862431015451492" lon="-111.47399021989183">
+    <ele>1059.7721118301563</ele>
+    <name>22-000a</name>
+    <cmt>HWY 87 Southbound Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.862431015451492</gpxx:lat>
+      <gpxx:lon>-111.47399021989183</gpxx:lon>
+      <gpxx:y_proj>33.862431015451492</gpxx:y_proj>
+      <gpxx:x_proj>-111.47399021989183</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.862499805502253" lon="-111.47321777774405">
+    <ele>1058.3622733358143</ele>
+    <name>22-000b</name>
+    <cmt>HWY 87 Northbound Box Culvert</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.862499805502253</gpxx:lat>
+      <gpxx:lon>-111.47321777774405</gpxx:lon>
+      <gpxx:y_proj>33.862499805502253</gpxx:y_proj>
+      <gpxx:x_proj>-111.47321777774407</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.862486872522524" lon="-111.47280606466144">
+    <ele>1048.2371089546923</ele>
+    <name>22-000c</name>
+    <cmt>HWY 87 Underpass</cmt>
+    <type>Highway J</type>
+    <extensions>
+      <gpxx:lat>33.862486872522524</gpxx:lat>
+      <gpxx:lon>-111.47280606466144</gpxx:lon>
+      <gpxx:y_proj>33.862486872522524</gpxx:y_proj>
+      <gpxx:x_proj>-111.47280606466144</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.865062337552871" lon="-111.4788459280565">
+    <ele>1084.1397329095105</ele>
+    <name>22-006</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.865062337552871</gpxx:lat>
+      <gpxx:lon>-111.4788459280565</gpxx:lon>
+      <gpxx:y_proj>33.865062337552871</gpxx:y_proj>
+      <gpxx:x_proj>-111.4788459280565</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.872727078595695" lon="-111.47901684968006">
+    <ele>1082.478084669566</ele>
+    <name>22-013</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.872727078595695</gpxx:lat>
+      <gpxx:lon>-111.47901684968006</gpxx:lon>
+      <gpxx:y_proj>33.872727078595695</gpxx:y_proj>
+      <gpxx:x_proj>-111.47901684968006</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.877675292200344" lon="-111.48040495833608">
+    <ele>1073.1739317682154</ele>
+    <name>22-016a</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.877675292200344</gpxx:lat>
+      <gpxx:lon>-111.48040495833608</gpxx:lon>
+      <gpxx:y_proj>33.877675292200344</gpxx:y_proj>
+      <gpxx:x_proj>-111.48040495833608</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.878158987259873" lon="-111.4805330263987">
+    <ele>1072.9486498764841</ele>
+    <name>22-016b</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.878158987259873</gpxx:lat>
+      <gpxx:lon>-111.4805330263987</gpxx:lon>
+      <gpxx:y_proj>33.878158987259873</gpxx:y_proj>
+      <gpxx:x_proj>-111.4805330263987</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.88384722475012" lon="-111.48594835090999">
+    <ele>1100.1688411450666</ele>
+    <name>22-023</name>
+    <cmt>Spring</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.88384722475012</gpxx:lat>
+      <gpxx:lon>-111.48594835090999</gpxx:lon>
+      <gpxx:y_proj>33.88384722475012</gpxx:y_proj>
+      <gpxx:x_proj>-111.48594835090999</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.885225207702604" lon="-111.49036093689053">
+    <ele>1110.6911385226981</ele>
+    <name>22-025</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.885225207702604</gpxx:lat>
+      <gpxx:lon>-111.49036093689053</gpxx:lon>
+      <gpxx:y_proj>33.885225207702604</gpxx:y_proj>
+      <gpxx:x_proj>-111.49036093689053</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.892633609256045" lon="-111.49898568817036">
+    <ele>1140.7175316503033</ele>
+    <name>22-034</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.892633609256045</gpxx:lat>
+      <gpxx:lon>-111.49898568817036</gpxx:lon>
+      <gpxx:y_proj>33.892633609256045</gpxx:y_proj>
+      <gpxx:x_proj>-111.49898568817036</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.897635209194121" lon="-111.49428093862406">
+    <ele>1158.0101875272421</ele>
+    <name>22-039</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.897635209194121</gpxx:lat>
+      <gpxx:lon>-111.49428093862406</gpxx:lon>
+      <gpxx:y_proj>33.897635209194121</gpxx:y_proj>
+      <gpxx:x_proj>-111.49428093862407</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.904292378093295" lon="-111.49453093918734">
+    <ele>1199.6824578563442</ele>
+    <name>22-044a</name>
+    <cmt>Electrical Lines</cmt>
+    <type>Utility</type>
+    <extensions>
+      <gpxx:lat>33.904292378093295</gpxx:lat>
+      <gpxx:lon>-111.49453093918734</gpxx:lon>
+      <gpxx:y_proj>33.904292378093295</gpxx:y_proj>
+      <gpxx:x_proj>-111.49453093918734</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.905045117198711" lon="-111.49448946323726">
+    <ele>1197.0061857397166</ele>
+    <name>22-044b</name>
+    <cmt>RJ FR 393 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.905045117198711</gpxx:lat>
+      <gpxx:lon>-111.49448946323726</gpxx:lon>
+      <gpxx:y_proj>33.905045117198711</gpxx:y_proj>
+      <gpxx:x_proj>-111.49448946323726</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.910096119843473" lon="-111.49537496680274">
+    <ele>1180.2139771157811</ele>
+    <name>22-049</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.910096119843473</gpxx:lat>
+      <gpxx:lon>-111.49537496680274</gpxx:lon>
+      <gpxx:y_proj>33.910096119843473</gpxx:y_proj>
+      <gpxx:x_proj>-111.49537496680274</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.91210577923502" lon="-111.49321172852933">
+    <ele>1206.5647094341366</ele>
+    <name>22-051</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.91210577923502</gpxx:lat>
+      <gpxx:lon>-111.49321172852933</gpxx:lon>
+      <gpxx:y_proj>33.91210577923502</gpxx:y_proj>
+      <gpxx:x_proj>-111.49321172852933</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.911989621152202" lon="-111.49445793776725">
+    <ele>1219.5076058730606</ele>
+    <name>22-052</name>
+    <cmt>GATE</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>33.911989621152202</gpxx:lat>
+      <gpxx:lon>-111.49445793776725</gpxx:lon>
+      <gpxx:y_proj>33.911989621152202</gpxx:y_proj>
+      <gpxx:x_proj>-111.49445793776725</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.91300457515208" lon="-111.49704995035925">
+    <ele>1210.7148369590518</ele>
+    <name>22-054</name>
+    <cmt>Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.91300457515208</gpxx:lat>
+      <gpxx:lon>-111.49704995035925</gpxx:lon>
+      <gpxx:y_proj>33.91300457515208</gpxx:y_proj>
+      <gpxx:x_proj>-111.49704995035925</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.919749189073229" lon="-111.49710616789166">
+    <ele>1279.2910764760763</ele>
+    <name>22-059</name>
+    <cmt>Creek</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.919749189073229</gpxx:lat>
+      <gpxx:lon>-111.49710616789166</gpxx:lon>
+      <gpxx:y_proj>33.919749189073229</gpxx:y_proj>
+      <gpxx:x_proj>-111.49710616789166</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.924712872373981" lon="-111.50416218167339">
+    <ele>1372.967673915605</ele>
+    <name>22-065</name>
+    <cmt>BND Mazatzal Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>33.924712872373981</gpxx:lat>
+      <gpxx:lon>-111.50416218167339</gpxx:lon>
+      <gpxx:y_proj>33.924712872373981</gpxx:y_proj>
+      <gpxx:x_proj>-111.50416218167339</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.928097511654919" lon="-111.5075599466083">
+    <ele>1377.894094528908</ele>
+    <name>22-068</name>
+    <cmt>Leave Wash</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.928097511654919</gpxx:lat>
+      <gpxx:lon>-111.5075599466083</gpxx:lon>
+      <gpxx:y_proj>33.928097511654919</gpxx:y_proj>
+      <gpxx:x_proj>-111.5075599466083</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.92851447144843" lon="-111.51246191961158">
+    <ele>1412.0082029648688</ele>
+    <name>22-072a</name>
+    <cmt>Ridge</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.92851447144843</gpxx:lat>
+      <gpxx:lon>-111.51246191961158</gpxx:lon>
+      <gpxx:y_proj>33.92851447144843</gpxx:y_proj>
+      <gpxx:x_proj>-111.51246191961158</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.928612634448228" lon="-111.51271558266939">
+    <ele>1408.5282919497172</ele>
+    <name>22-072b</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.928612634448228</gpxx:lat>
+      <gpxx:lon>-111.51271558266939</gpxx:lon>
+      <gpxx:y_proj>33.928612634448228</gpxx:y_proj>
+      <gpxx:x_proj>-111.5127155826694</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.940238385247042" lon="-111.5088648738067">
+    <ele>1536.6431833595288</ele>
+    <name>22-084</name>
+    <cmt>RJ FR 25 2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.940238385247042</gpxx:lat>
+      <gpxx:lon>-111.5088648738067</gpxx:lon>
+      <gpxx:y_proj>33.940238385247042</gpxx:y_proj>
+      <gpxx:x_proj>-111.5088648738067</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.963386370450998" lon="-111.50819788146958">
+    <ele>1603.9958804396458</ele>
+    <name>22-113</name>
+    <cmt>RJ FR 25 2 Track Leave</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.963386370450998</gpxx:lat>
+      <gpxx:lon>-111.50819788146958</gpxx:lon>
+      <gpxx:y_proj>33.963386370450998</gpxx:y_proj>
+      <gpxx:x_proj>-111.50819788146958</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.969025515226505" lon="-111.50812282189254">
+    <ele>1496.7371985796281</ele>
+    <name>22-119</name>
+    <cmt>TJ #88</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.969025515226505</gpxx:lat>
+      <gpxx:lon>-111.50812282189254</gpxx:lon>
+      <gpxx:y_proj>33.969025515226505</gpxx:y_proj>
+      <gpxx:x_proj>-111.50812282189254</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.970252493597201" lon="-111.50436159624272">
+    <ele>1480.2728203131412</ele>
+    <name>22-121</name>
+    <cmt>BND Mazatzal Wilderness</cmt>
+    <type>Boundary</type>
+    <extensions>
+      <gpxx:lat>33.970252493597201</gpxx:lat>
+      <gpxx:lon>-111.50436159624272</gpxx:lon>
+      <gpxx:y_proj>33.970252493597201</gpxx:y_proj>
+      <gpxx:x_proj>-111.50436159624273</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.973485219327451" lon="-111.49902094543557">
+    <ele>1487.8692544318205</ele>
+    <name>22-126</name>
+    <cmt>trail briefly joins a wash</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>33.973485219327451</gpxx:lat>
+      <gpxx:lon>-111.49902094543557</gpxx:lon>
+      <gpxx:y_proj>33.973485219327451</gpxx:y_proj>
+      <gpxx:x_proj>-111.49902094543557</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.976334784039445" lon="-111.49304843347346">
+    <ele>1559.9721095392713</ele>
+    <name>22-130</name>
+    <cmt>TJ</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.976334784039445</gpxx:lat>
+      <gpxx:lon>-111.49304843347346</gpxx:lon>
+      <gpxx:y_proj>33.976334784039445</gpxx:y_proj>
+      <gpxx:x_proj>-111.49304843347346</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.975172423006256" lon="-111.4907154449208">
+    <ele>1568.3688970025034</ele>
+    <name>22-133</name>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.975172423006256</gpxx:lat>
+      <gpxx:lon>-111.4907154449208</gpxx:lon>
+      <gpxx:y_proj>33.975172423006256</gpxx:y_proj>
+      <gpxx:x_proj>-111.4907154449208</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.973585865202239" lon="-111.48305399227898">
+    <ele>1435.8913211131912</ele>
+    <name>22-140</name>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>33.973585865202239</gpxx:lat>
+      <gpxx:lon>-111.48305399227898</gpxx:lon>
+      <gpxx:y_proj>33.973585865202239</gpxx:y_proj>
+      <gpxx:x_proj>-111.48305399227898</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.982265159307737" lon="-111.48458092525615">
+    <ele>1526.5100106063837</ele>
+    <name>22-148</name>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>33.982265159307737</gpxx:lat>
+      <gpxx:lon>-111.48458092525615</gpxx:lon>
+      <gpxx:y_proj>33.982265159307737</gpxx:y_proj>
+      <gpxx:x_proj>-111.48458092525615</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.990756505454108" lon="-111.48486882597366">
+    <ele>1597.6667689701007</ele>
+    <name>22-155</name>
+    <cmt>TJ Cornucopia #86</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.990756505454108</gpxx:lat>
+      <gpxx:lon>-111.48486882597366</gpxx:lon>
+      <gpxx:y_proj>33.990756505454108</gpxx:y_proj>
+      <gpxx:x_proj>-111.48486882597366</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="33.992459389703782" lon="-111.48455941004485">
+    <ele>1627.0668246221603</ele>
+    <name>22-156</name>
+    <cmt>Trail to Thicket Spring</cmt>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>33.992459389703782</gpxx:lat>
+      <gpxx:lon>-111.48455941004485</gpxx:lon>
+      <gpxx:y_proj>33.992459389703789</gpxx:y_proj>
+      <gpxx:x_proj>-111.48455941004485</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="34.001986746397094" lon="-111.47734014635536">
+    <ele>1761.9823824811549</ele>
+    <name>22-166</name>
+    <cmt>Mt Peeley Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>34.001986746397094</gpxx:lat>
+      <gpxx:lon>-111.47734014635536</gpxx:lon>
+      <gpxx:y_proj>34.001986746397094</gpxx:y_proj>
+      <gpxx:x_proj>-111.47734014635536</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

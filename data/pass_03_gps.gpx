@@ -1,0 +1,173 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="31.509170458683666" minlon="-110.751868426605140" maxlat="31.544515937017167" maxlon="-110.558288198033010" />
+  </metadata>
+  <wpt lat="31.512885796435935" lon="-110.55828819803301">
+    <ele>1629.4104325768708</ele>
+    <name>03-000</name>
+    <cmt>Canelo Pass Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.512885796435935</gpxx:lat>
+      <gpxx:lon>-110.55828819803301</gpxx:lon>
+      <gpxx:y_proj>31.512885796435938</gpxx:y_proj>
+      <gpxx:x_proj>-110.55828819803301</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.512684847776725" lon="-110.57244474586571">
+    <ele>1703.2999312472325</ele>
+    <name>03-011</name>
+    <cmt>gate</cmt>
+    <type>Structure</type>
+    <extensions>
+      <gpxx:lat>31.512684847776725</gpxx:lat>
+      <gpxx:lon>-110.57244474586571</gpxx:lon>
+      <gpxx:y_proj>31.512684847776725</gpxx:y_proj>
+      <gpxx:x_proj>-110.57244474586571</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.510854390021223" lon="-110.58332360594048">
+    <ele>1633.3043045925722</ele>
+    <name>03-021</name>
+    <cmt>RJ  2 Track Join</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.510854390021223</gpxx:lat>
+      <gpxx:lon>-110.58332360594048</gpxx:lon>
+      <gpxx:y_proj>31.510854390021223</gpxx:y_proj>
+      <gpxx:x_proj>-110.58332360594048</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.509170458683666" lon="-110.58529171423386">
+    <ele>1622.6794676708796</ele>
+    <name>03-023</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.509170458683666</gpxx:lat>
+      <gpxx:lon>-110.58529171423386</gpxx:lon>
+      <gpxx:y_proj>31.509170458683666</gpxx:y_proj>
+      <gpxx:x_proj>-110.58529171423386</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.511515852914549" lon="-110.58793191790625">
+    <ele>1621.9006751898494</ele>
+    <name>03-026</name>
+    <cmt>RJ FR 765 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.511515852914549</gpxx:lat>
+      <gpxx:lon>-110.58793191790625</gpxx:lon>
+      <gpxx:y_proj>31.511515852914549</gpxx:y_proj>
+      <gpxx:x_proj>-110.58793191790625</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.519069752607205" lon="-110.59757308230037">
+    <ele>1517.2252205935006</ele>
+    <name>03-035a</name>
+    <cmt>Down Under Tank</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.519069752607205</gpxx:lat>
+      <gpxx:lon>-110.59757308230037</gpxx:lon>
+      <gpxx:y_proj>31.519069752607205</gpxx:y_proj>
+      <gpxx:x_proj>-110.59757308230037</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.519268280612991" lon="-110.59810552341936">
+    <ele>1520.548246741298</ele>
+    <name>03-035b</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.519268280612991</gpxx:lat>
+      <gpxx:lon>-110.59810552341936</gpxx:lon>
+      <gpxx:y_proj>31.519268280612991</gpxx:y_proj>
+      <gpxx:x_proj>-110.59810552341938</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.521102268956994" lon="-110.61896250071821">
+    <ele>1456.2911494218727</ele>
+    <name>03-051</name>
+    <cmt>Cott Tank</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.521102268956994</gpxx:lat>
+      <gpxx:lon>-110.61896250071821</gpxx:lon>
+      <gpxx:y_proj>31.521102268956994</gpxx:y_proj>
+      <gpxx:x_proj>-110.61896250071821</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.524951593868376" lon="-110.63377953892562">
+    <ele>1431.803952469973</ele>
+    <name>03-062</name>
+    <cmt>RJ  2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.524951593868376</gpxx:lat>
+      <gpxx:lon>-110.63377953892562</gpxx:lon>
+      <gpxx:y_proj>31.524951593868376</gpxx:y_proj>
+      <gpxx:x_proj>-110.63377953892562</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.524480018427614" lon="-110.64210798256816">
+    <ele>1417.1573714689548</ele>
+    <name>03-068</name>
+    <cmt>Red Bank Well</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.524480018427614</gpxx:lat>
+      <gpxx:lon>-110.64210798256816</gpxx:lon>
+      <gpxx:y_proj>31.524480018427614</gpxx:y_proj>
+      <gpxx:x_proj>-110.64210798256818</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.53035034604007" lon="-110.64789295408511">
+    <ele>1407.1721272146683</ele>
+    <name>03-073</name>
+    <cmt>about 250 yards northwest</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.53035034604007</gpxx:lat>
+      <gpxx:lon>-110.64789295408511</gpxx:lon>
+      <gpxx:y_proj>31.53035034604007</gpxx:y_proj>
+      <gpxx:x_proj>-110.64789295408511</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.544515937017167" lon="-110.67304635199091">
+    <ele>1365.6599266265844</ele>
+    <name>03-097</name>
+    <cmt>RJ Redrock Ranch Rd 2 Track</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.544515937017167</gpxx:lat>
+      <gpxx:lon>-110.67304635199091</gpxx:lon>
+      <gpxx:y_proj>31.544515937017167</gpxx:y_proj>
+      <gpxx:x_proj>-110.67304635199092</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.527871365847481" lon="-110.71131415864954">
+    <ele>1284.8783994934452</ele>
+    <name>03-133</name>
+    <cmt>Harshaw Rd Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.527871365847481</gpxx:lat>
+      <gpxx:lon>-110.71131415864954</gpxx:lon>
+      <gpxx:y_proj>31.527871365847485</gpxx:y_proj>
+      <gpxx:x_proj>-110.71131415864954</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.541592525068307" lon="-110.75186842660514">
+    <ele>1241.9505196997397</ele>
+    <name>03-162</name>
+    <cmt>Patagonia Post Office</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.541592525068307</gpxx:lat>
+      <gpxx:lon>-110.75186842660514</gpxx:lon>
+      <gpxx:y_proj>31.541592525068307</gpxx:y_proj>
+      <gpxx:x_proj>-110.75186842660514</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

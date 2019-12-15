@@ -1,0 +1,121 @@
+﻿<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="31.419551249687075" minlon="-110.558288198033010" maxlat="31.512885796435935" maxlon="-110.441832065976530" />
+  </metadata>
+  <wpt lat="31.419551249687075" lon="-110.44183206597653">
+    <ele>1728.9739581393233</ele>
+    <name>02-000</name>
+    <cmt>Parker Canyon Lake Trailhead / FR 194</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.419551249687075</gpxx:lat>
+      <gpxx:lon>-110.44183206597653</gpxx:lon>
+      <gpxx:y_proj>31.419551249687078</gpxx:y_proj>
+      <gpxx:x_proj>-110.44183206597653</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.419652545290045" lon="-110.47386826043393">
+    <ele>1581.2622249167991</ele>
+    <name>02-024</name>
+    <cmt>Parker Canyon</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.419652545290045</gpxx:lat>
+      <gpxx:lon>-110.47386826043393</gpxx:lon>
+      <gpxx:y_proj>31.419652545290049</gpxx:y_proj>
+      <gpxx:x_proj>-110.47386826043393</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.433085114056809" lon="-110.47924616532227">
+    <ele>1639.9914426384457</ele>
+    <name>02-037</name>
+    <cmt>Trap Tank</cmt>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.433085114056809</gpxx:lat>
+      <gpxx:lon>-110.47924616532227</gpxx:lon>
+      <gpxx:y_proj>31.433085114056812</gpxx:y_proj>
+      <gpxx:x_proj>-110.47924616532227</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.437081931570034" lon="-110.48112460994038">
+    <ele>1693.7964980415654</ele>
+    <name>02-040</name>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.437081931570034</gpxx:lat>
+      <gpxx:lon>-110.48112460994038</gpxx:lon>
+      <gpxx:y_proj>31.437081931570034</gpxx:y_proj>
+      <gpxx:x_proj>-110.48112460994038</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.456450465734989" lon="-110.49747163739484">
+    <ele>1847.8867777898893</ele>
+    <name>02-061</name>
+    <cmt>Saddle</cmt>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.456450465734989</gpxx:lat>
+      <gpxx:lon>-110.49747163739484</gpxx:lon>
+      <gpxx:y_proj>31.456450465734989</gpxx:y_proj>
+      <gpxx:x_proj>-110.49747163739484</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.474280850759229" lon="-110.51174185634022">
+    <ele>1671.1343926490476</ele>
+    <name>02-085</name>
+    <type>Trail Jct</type>
+    <extensions>
+      <gpxx:lat>31.474280850759229</gpxx:lat>
+      <gpxx:lon>-110.51174185634022</gpxx:lon>
+      <gpxx:y_proj>31.474280850759229</gpxx:y_proj>
+      <gpxx:x_proj>-110.51174185634022</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.483576211379887" lon="-110.52895708036368">
+    <ele>1651.6523491495561</ele>
+    <name>02-103</name>
+    <type>Water</type>
+    <extensions>
+      <gpxx:lat>31.483576211379887</gpxx:lat>
+      <gpxx:lon>-110.52895708036368</gpxx:lon>
+      <gpxx:y_proj>31.483576211379887</gpxx:y_proj>
+      <gpxx:x_proj>-110.52895708036368</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.496745439643217" lon="-110.54463596531191">
+    <ele>1824.8564429276157</ele>
+    <name>02-123</name>
+    <type>Landmark</type>
+    <extensions>
+      <gpxx:lat>31.496745439643217</gpxx:lat>
+      <gpxx:lon>-110.54463596531191</gpxx:lon>
+      <gpxx:y_proj>31.496745439643217</gpxx:y_proj>
+      <gpxx:x_proj>-110.54463596531191</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.512307127385398" lon="-110.55749113883778">
+    <ele>1623.7990789115634</ele>
+    <name>02-141</name>
+    <cmt>RJ FR 799 Dirt/Gravel</cmt>
+    <type>Road Jct</type>
+    <extensions>
+      <gpxx:lat>31.512307127385398</gpxx:lat>
+      <gpxx:lon>-110.55749113883778</gpxx:lon>
+      <gpxx:y_proj>31.512307127385402</gpxx:y_proj>
+      <gpxx:x_proj>-110.55749113883778</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="31.512885796435935" lon="-110.55828819803301">
+    <ele>1629.4104325768708</ele>
+    <name>02-142</name>
+    <cmt>Canelo Pass Trailhead</cmt>
+    <type>Trailhead</type>
+    <extensions>
+      <gpxx:lat>31.512885796435935</gpxx:lat>
+      <gpxx:lon>-110.55828819803301</gpxx:lon>
+      <gpxx:y_proj>31.512885796435938</gpxx:y_proj>
+      <gpxx:x_proj>-110.55828819803301</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>
